@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Økonomisk rådgivning"
+    id="53a50795-2439-248"
+    documentation="Personer med betalings- eller gjeldsproblemer kan få hjelp til å sette opp et realistisk budsjett, forhandle med kreditorer og inngå en gjeldsordningsavtale. ">
+  <properties
+      key="Engelsk navn"
+      value="Financial advice"/>
+</archimate:BusinessService>

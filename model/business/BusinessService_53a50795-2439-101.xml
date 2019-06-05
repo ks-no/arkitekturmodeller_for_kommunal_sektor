@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Jakt og fangst"
+    id="53a50795-2439-101"
+    documentation="Kommunens bestemmelser om jakt og fangst som jegerprøve og jaktkort.">
+  <properties
+      key="Engelsk navn"
+      value="Hunting and trapping"/>
+</archimate:BusinessService>

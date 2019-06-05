@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kompostering"
+    id="53a50795-2439-113"
+    documentation="Biologisk prosess der planterester og annen organisk materiale blir brutt ned. Kommunen lager egen avtale for de som ønsker å kompostere hjemme.">
+  <properties
+      key="Engelsk navn"
+      value="Composting"/>
+</archimate:BusinessService>

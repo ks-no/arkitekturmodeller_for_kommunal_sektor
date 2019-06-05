@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klima"
+    id="53a50795-2439-107"
+    documentation="Værforhold, værlag, også Co2-kvoter, miljøovervåking, klimaendringer.">
+  <properties
+      key="Engelsk navn"
+      value="Climate"/>
+</archimate:BusinessService>

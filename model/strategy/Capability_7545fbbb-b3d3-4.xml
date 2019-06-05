@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Barnehage"
+    id="7545fbbb-b3d3-4">
+  <properties
+      key="Engelsk navn"
+      value="Kindergartens"/>
+  <properties
+      key="Nivå"
+      value="2"/>
+</archimate:Capability>

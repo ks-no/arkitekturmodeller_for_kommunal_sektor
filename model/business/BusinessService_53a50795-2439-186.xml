@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Skatteattest"
+    id="53a50795-2439-186"
+    documentation="En skatteattest er dokumentasjon på innbetalt merverdiavgift og skatt. Leverandører til stat eller kommune trenger å vise skatteattest.">
+  <properties
+      key="Engelsk navn"
+      value="Tax certificate"/>
+</archimate:BusinessService>

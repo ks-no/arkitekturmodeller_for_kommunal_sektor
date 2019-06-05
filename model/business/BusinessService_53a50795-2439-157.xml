@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Omsorgsstønad"
+    id="53a50795-2439-157"
+    documentation="Kommunen kan gi omsorgsstønad til personer som pleier og har omsorg for familie og nærstående. Hensikten med ordningen er å støtte opp under den familiebaserte omsorgen, og gjøre det mulig for private omsorgsytere å fortsette med omsorgsarbeidet.">
+  <properties
+      key="Engelsk navn"
+      value="Carer allowance"/>
+</archimate:BusinessService>

@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilsyn og godkjenning"
+    id="53a50795-2439-224"
+    documentation="Kommunen fører tilsyn med private og kommunale barnehager og skal godkjenne barnehager under oppføring.">
+  <properties
+      key="Engelsk navn"
+      value="Inspection and approval"/>
+</archimate:BusinessService>

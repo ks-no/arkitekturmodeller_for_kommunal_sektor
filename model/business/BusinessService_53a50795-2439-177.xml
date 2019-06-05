@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reisebillett"
+    id="53a50795-2439-177"
+    documentation="Ordninger for billettkjøp og priser til kollektivtrafikk og andre transportmidler.">
+  <properties
+      key="Engelsk navn"
+      value="Travel tickets"/>
+</archimate:BusinessService>

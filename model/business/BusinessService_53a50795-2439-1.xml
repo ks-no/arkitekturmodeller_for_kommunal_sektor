@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Adressetildeling"
+    id="53a50795-2439-1"
+    documentation="Kommunen tildeler eller endrer adresser. Eiere og andre som blir påvirket av avgjørelsen har rett til å uttale seg.">
+  <properties
+      key="Engelsk navn"
+      value="Adress allocation"/>
+</archimate:BusinessService>

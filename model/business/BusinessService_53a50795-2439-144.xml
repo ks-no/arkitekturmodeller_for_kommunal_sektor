@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Miljøtilskudd"
+    id="53a50795-2439-144"
+    documentation="Kommunale eller fylkeskommunale midler som skal støtte prosjekter for bærekraft, klimatilpasning og miljøvennlighet.">
+  <properties
+      key="Engelsk navn"
+      value="Environmental funding"/>
+</archimate:BusinessService>

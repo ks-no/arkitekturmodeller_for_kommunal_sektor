@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fritidstilbud"
+    id="53a50795-2439-67"
+    documentation="idrettsaktiviteter, familieaktiviteter og kulturelle aktiviteter for alle aldersgrupper. Omfatter også tilskudd innbyggerne kan søke på.">
+  <properties
+      key="Engelsk navn"
+      value="Recreational activities"/>
+</archimate:BusinessService>

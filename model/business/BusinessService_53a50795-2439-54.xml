@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Film og kino"
+    id="53a50795-2439-54"
+    documentation="Film- og kinofremvisning. Billetter, tilskudd og drift av filmklubb m.m..">
+  <properties
+      key="Engelsk navn"
+      value="Films and movie theatres"/>
+</archimate:BusinessService>

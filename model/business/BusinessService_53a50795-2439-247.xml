@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vrakpant"
+    id="53a50795-2439-247"
+    documentation="Vrakpant er en panteordning for bil, og er et tiltak for at flere skal gjenvinne ødelagte/gamle biler istedenfor at de skal stå å skade miljøet.">
+  <properties
+      key="Engelsk navn"
+      value="Scrap vehicle bonus"/>
+</archimate:BusinessService>

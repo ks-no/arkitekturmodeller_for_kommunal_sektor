@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilsyn og kontroll med næringsvirksomhet"
+    id="53a50795-2439-225"
+    documentation="Kommunen fører tilsyn med private barnehager, serveringsvirksomheter og virksomheter som selger tobakk.">
+  <properties
+      key="Engelsk navn"
+      value="Controlling compliance"/>
+</archimate:BusinessService>

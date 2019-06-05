@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Arkiv"
+    id="53a50795-2439-4"
+    documentation="Kommunens ansvar for arkiv innebærer bevaring, forvaltning av informasjon og sikring av offentlighet og personvern.">
+  <properties
+      key="Engelsk navn"
+      value="Archives"/>
+</archimate:BusinessService>

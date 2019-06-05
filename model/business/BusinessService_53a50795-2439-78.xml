@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gravplass"
+    id="53a50795-2439-78"
+    documentation="Alle som har bopel i kommunen, har rett til fri gravplass i kommunen.">
+  <properties
+      key="Engelsk navn"
+      value="Burial site"/>
+</archimate:BusinessService>

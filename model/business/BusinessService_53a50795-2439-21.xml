@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bompenger"
+    id="53a50795-2439-21"
+    documentation="Bompengefinansiering er en finansieringsmodell for veiprosjekter der en veistrekning bygges, eller utbedres, ved at brukerne av veien betaler en avgift hver gang de passerer et betalingspunkt.">
+  <properties
+      key="Engelsk navn"
+      value="Road toll"/>
+</archimate:BusinessService>

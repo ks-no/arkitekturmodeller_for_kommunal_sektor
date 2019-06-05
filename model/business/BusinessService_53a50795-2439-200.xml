@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sosialhjelp"
+    id="53a50795-2439-200"
+    documentation="Økonomisk støtte som skal sikre hjelp til livsopphold. Med dette menes penger til det som regnes som nødvendig for å leve, slik som mat, klær, bolig, men også fritid, telefoni, tv, internett, transport og helseutgifter.">
+  <properties
+      key="Engelsk navn"
+      value="Financial social assistance"/>
+</archimate:BusinessService>

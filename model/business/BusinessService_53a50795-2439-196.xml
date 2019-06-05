@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Skoleskyss"
+    id="53a50795-2439-196"
+    documentation="Elever som bor en viss avstand fra skolen eller har nedsatt funksjonsevne har rett til skoleskyss. Det er skolen som organiserer skoleskyss.">
+  <properties
+      key="Engelsk navn"
+      value="School transport"/>
+</archimate:BusinessService>

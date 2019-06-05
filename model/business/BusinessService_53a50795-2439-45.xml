@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Etablere barnehage"
+    id="53a50795-2439-45"
+    documentation="Etablering av familiebarnehage og ordinær barnehage. Det er kommunen som godkjenner barnehager. ">
+  <properties
+      key="Engelsk navn"
+      value="Setting up a kindergarten"/>
+</archimate:BusinessService>

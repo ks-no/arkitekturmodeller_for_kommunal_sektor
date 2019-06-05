@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kollektivtransport"
+    id="7545fbbb-b3d3-23">
+  <properties
+      key="Engelsk navn"
+      value="Collective transport"/>
+  <properties
+      key="Nivå"
+      value="2"/>
+</archimate:Capability>

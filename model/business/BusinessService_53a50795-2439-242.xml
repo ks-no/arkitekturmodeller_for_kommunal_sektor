@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Veivedlikehold"
+    id="53a50795-2439-242"
+    documentation="Vedlikehold av kommunale veier, trafikksikkerhet langs vei, asfaltering og grusing, holdeplasser og leskur.">
+  <properties
+      key="Engelsk navn"
+      value="Road maintenance"/>
+</archimate:BusinessService>

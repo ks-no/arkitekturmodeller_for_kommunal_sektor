@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Seniortilbud"
+    id="53a50795-2439-184"
+    documentation="En samling aktiviteter og treffsteder for pensjonister.">
+  <properties
+      key="Engelsk navn"
+      value="Activities for senior citizens"/>
+</archimate:BusinessService>

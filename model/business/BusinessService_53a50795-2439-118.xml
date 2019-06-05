@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Krisesenter"
+    id="53a50795-2439-118"
+    documentation="Et trygt, midlertidig botilbud, informasjon om rettigheter, råd og veiledning, formidling til hjelpeinstanser for kvinner, menn og barn som er utsatt for vold eller trusler i nære relasjoner.">
+  <properties
+      key="Engelsk navn"
+      value="Crisis center"/>
+</archimate:BusinessService>

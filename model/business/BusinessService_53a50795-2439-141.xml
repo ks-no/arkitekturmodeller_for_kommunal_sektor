@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Midlertidig botilbud"
+    id="53a50795-2439-141"
+    documentation="Bolig eid av kommunen og brukt til å skaffe bolig i en nødsituasjon.">
+  <properties
+      key="Engelsk navn"
+      value="Temporary housing"/>
+</archimate:BusinessService>

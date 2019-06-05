@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Avløsningstilskudd"
+    id="53a50795-2439-7"
+    documentation="Avløserordningene er en del av velferdsordningene i landbruket. Husdyrbrukere skal få avløsing ved ferier, sykdom o.l.">
+  <properties
+      key="Engelsk navn"
+      value="Farm assistance grant"/>
+</archimate:BusinessService>

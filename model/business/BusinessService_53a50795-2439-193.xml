@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Skolemiljø"
+    id="53a50795-2439-193"
+    documentation="Skolen har ansvar for å fremme elevenes helse, trivsel og læring. Ansvaret omfatter det fysiske miljøet, som bygning, uteareal og luftkvalitet. Det gjelder også det psykososiale miljøet og problemer som mobbing, trakassering eller diskriminering.">
+  <properties
+      key="Engelsk navn"
+      value="School environment"/>
+</archimate:BusinessService>

@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Byggesak"
+    id="53a50795-2439-28"
+    documentation="Søknader, tillatelser og dokumenter i forbindelse med oppføring eller endring av et bygg, for eksempel byggemelding, ferdigattest, osv. ">
+  <properties
+      key="Engelsk navn"
+      value="Building applications"/>
+</archimate:BusinessService>

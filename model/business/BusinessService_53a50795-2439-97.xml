@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Innbyggerforslag"
+    id="53a50795-2439-97"
+    documentation="Et forslag som er fremmet av innbyggerne. Kommunestyret eller fylkestinget plikter å behandle et innbyggerforslag dersom minst 2 % av innbyggerne, alternativt 300 i kommunen eller 500 i fylket, står bak forslaget.">
+  <properties
+      key="Engelsk navn"
+      value="Citizen propositions"/>
+</archimate:BusinessService>

@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gravferd"
+    id="53a50795-2439-76"
+    documentation="Å besørge en gravferd innebærer som regel å ta kontakt med et gravferdsbyrå som tar seg av alt det praktiske. Dersom ingen sørger for gravferden, skal den besørges av kommunen der avdøde hadde sin bopel.">
+  <properties
+      key="Engelsk navn"
+      value="Funerals"/>
+</archimate:BusinessService>

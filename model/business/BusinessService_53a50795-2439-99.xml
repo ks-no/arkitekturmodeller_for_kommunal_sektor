@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Innsyn"
+    id="53a50795-2439-99"
+    documentation="Rett til innsyn og informasjon om egne personopplysninger for å ta vare på eget personvern. Det kan kreves at feilaktige eller unødvendige opplysninger skal slettes.">
+  <properties
+      key="Engelsk navn"
+      value="Transparency/access of information"/>
+</archimate:BusinessService>

@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilpasset opplæring"
+    id="53a50795-2439-214"
+    documentation="Tilpasset opplæring gjelder for alle elever, lærlinger, lærekandidater og voksne. Tilpasset opplæring er et virkemiddel for at alle skal oppleve økt læringsutbytte. Det er ingen individuell rett, men skal skje gjennom variasjon og tilpasninger til mangfoldet i elevgruppen innenfor fellesskapet.">
+  <properties
+      key="Engelsk navn"
+      value="Adapted education"/>
+</archimate:BusinessService>

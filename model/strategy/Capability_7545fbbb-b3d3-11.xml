@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bygge"
+    id="7545fbbb-b3d3-11">
+  <properties
+      key="Nivå"
+      value="2"/>
+  <properties
+      key="Engelsk navn"
+      value="Building"/>
+</archimate:Capability>

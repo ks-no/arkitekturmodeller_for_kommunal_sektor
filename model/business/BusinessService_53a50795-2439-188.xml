@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Skogbrukstilskudd"
+    id="53a50795-2439-188"
+    documentation="Tilskuddsordninger for skogbrukere.">
+  <properties
+      key="Engelsk navn"
+      value="Forestry grants"/>
+</archimate:BusinessService>

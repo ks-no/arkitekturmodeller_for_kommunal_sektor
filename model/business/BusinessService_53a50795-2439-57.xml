@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forurenset grunn"
+    id="53a50795-2439-57"
+    documentation="Bakken kan bli forurenset grunnet forsøpling eller utslipp av avløpsvann. Ved oppstart av byggetiltak skal kommunen godkjenne undersøkelse og evt plan for opprydding.">
+  <properties
+      key="Engelsk navn"
+      value="Polluted ground"/>
+</archimate:BusinessService>

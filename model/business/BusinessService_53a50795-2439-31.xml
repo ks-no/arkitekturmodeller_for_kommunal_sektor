@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Båtplass"
+    id="53a50795-2439-31"
+    documentation="Utleie av båtplasser og drift av småbåthavner.">
+  <properties
+      key="Engelsk navn"
+      value="Mooring space"/>
+</archimate:BusinessService>

@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Friskliv og mestring"
+    id="53a50795-2439-64"
+    documentation="Friskliv og mestring">
+  <properties
+      key="Engelsk navn"
+      value="Coping"/>
+</archimate:BusinessService>

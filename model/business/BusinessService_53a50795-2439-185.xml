@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Skatt"
+    id="53a50795-2439-185"
+    documentation="Skatt og avgifter for bedrifter.">
+  <properties
+      key="Engelsk navn"
+      value="Taxes"/>
+</archimate:BusinessService>

@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lokaler og idrettsanlegg"
+    id="53a50795-2439-134"
+    documentation="Utlån eller leie av baner, idrettshaller, svømmehaller med mer.">
+  <properties
+      key="Engelsk navn"
+      value="Sports facilities"/>
+</archimate:BusinessService>

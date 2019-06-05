@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Borgerlig vielse"
+    id="53a50795-2439-22"
+    documentation="Kommunen har ansvaret for gjennomføring av borgerlige vielser i Norge. Det betyr at man blir viet av ordfører, varaordfører eller en annen ansatt eller folkevalgt. ">
+  <properties
+      key="Engelsk navn"
+      value="Civil marriage"/>
+</archimate:BusinessService>

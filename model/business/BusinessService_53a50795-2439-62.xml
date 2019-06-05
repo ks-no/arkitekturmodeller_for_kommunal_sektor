@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Friområde"
+    id="53a50795-2439-62"
+    documentation="Et geografisk avgrenset areal som er regulert av kommunen til friluftsliv. Regulering til friområde brukes gjerne for å sikre allmennheten tilgang til attraktive arealer nær tettbebygde områder. Det gjelder spesielt områder som egner seg for badeliv, sportsfiske, lek og turgåing til fots og på ski.">
+  <properties
+      key="Engelsk navn"
+      value="Public outdoor areas"/>
+</archimate:BusinessService>

@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kommunedelplan"
+    id="53a50795-2439-111"
+    documentation="En kommunedelplan omfatter en bestemt del av kommunens totale areal.">
+  <properties
+      key="Engelsk navn"
+      value="Municipal sub-plan"/>
+</archimate:BusinessService>

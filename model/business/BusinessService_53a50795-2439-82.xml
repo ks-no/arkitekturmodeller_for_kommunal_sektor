@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Havn"
+    id="53a50795-2439-82"
+    documentation="Kommunale havner kan omfatte fergeterminaler, kaianlegg, utleie, fortøynings- og slepetjenester m.m.">
+  <properties
+      key="Engelsk navn"
+      value="Harbor"/>
+</archimate:BusinessService>

@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilskudd til friluftsliv"
+    id="53a50795-2439-220"
+    documentation="Tilskudd til tiltak som fremmer bruk av natur og friluftsområder.">
+  <properties
+      key="Engelsk navn"
+      value="Funding for  the outdoors"/>
+</archimate:BusinessService>

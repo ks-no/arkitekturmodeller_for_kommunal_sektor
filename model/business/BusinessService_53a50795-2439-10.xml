@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Barnevern"
+    id="53a50795-2439-10"
+    documentation="Hjelp og støtte til barn, unge og familier i vanskelige situasjoner. ">
+  <properties
+      key="Engelsk navn"
+      value="Child protection"/>
+</archimate:BusinessService>

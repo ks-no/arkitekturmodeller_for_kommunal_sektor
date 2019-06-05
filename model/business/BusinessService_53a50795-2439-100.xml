@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Introduksjonsprogram for innvandrere"
+    id="53a50795-2439-100"
+    documentation="Introduksjonsprogrammet gir opplæring i norsk og samfunnskunnskap og skal gjøre det enklere for innvandrere å ta del i arbeidslivet og å gjøre dem mer økonomisk selvstendige. ">
+  <properties
+      key="Engelsk navn"
+      value="Introduction programme for immigrants"/>
+</archimate:BusinessService>

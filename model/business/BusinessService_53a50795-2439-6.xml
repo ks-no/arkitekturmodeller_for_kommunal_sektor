@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Avlastning  "
+    id="53a50795-2439-6"
+    documentation="Avlastning er et tilbud til enkeltpersoner eller familier som har tunge omsorgsoppgaver. Avlastning skal bidra til at omsorgsyteren får et liv med god helse og tid til ferie og fritid. Kommunen kan for eksempel yte avlastning i form av hjemmehjelp, dagtilbud eller avlastningsopphold på sykehjem. ">
+  <properties
+      key="Engelsk navn"
+      value="Care relief"/>
+</archimate:BusinessService>

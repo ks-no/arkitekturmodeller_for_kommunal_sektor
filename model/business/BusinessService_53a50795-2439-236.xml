@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vaksine"
+    id="53a50795-2439-236"
+    documentation="Vaksine mot smittsomme sykdommer tilbys hele befolkningen. Det er kommunens helsetjeneste som står for tilbudet.">
+  <properties
+      key="Engelsk navn"
+      value="Vaccination"/>
+</archimate:BusinessService>

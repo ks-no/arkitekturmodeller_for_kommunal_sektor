@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Helsestasjon for ungdom"
+    id="53a50795-2439-86"
+    documentation="Unge under 20 år kan få råd og veiledning om blant annet rus, seksualitet, kjønnssykdommer, psykiske problemer og kosthold.">
+  <properties
+      key="Engelsk navn"
+      value="Health clinic for youths"/>
+</archimate:BusinessService>

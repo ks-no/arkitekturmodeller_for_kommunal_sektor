@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Landbrukseiendom"
+    id="53a50795-2439-125"
+    documentation="Kommunen er myndighet for søknader om fritak fra driveplikt og boplikt, søknad om konsesjon, tillatelser til tiltak eller deling av eiendommen.">
+  <properties
+      key="Engelsk navn"
+      value="Agricultural property"/>
+</archimate:BusinessService>

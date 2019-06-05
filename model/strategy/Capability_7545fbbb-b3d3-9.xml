@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bibliotek"
+    id="7545fbbb-b3d3-9">
+  <properties
+      key="Nivå"
+      value="2"/>
+  <properties
+      key="Engelsk navn"
+      value="Library"/>
+</archimate:Capability>

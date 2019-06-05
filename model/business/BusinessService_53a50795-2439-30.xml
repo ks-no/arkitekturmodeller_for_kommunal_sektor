@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bålbrenning"
+    id="53a50795-2439-30"
+    documentation="Kommunen regulerer når publikum kan grille, brenne bål og brenne avfall.">
+  <properties
+      key="Engelsk navn"
+      value="Campfires"/>
+</archimate:BusinessService>

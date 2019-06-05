@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilrettelagt fritid"
+    id="53a50795-2439-217"
+    documentation="Aktiviteter og tilbud for personer med fysisk eller psykisk funksjonsnedsettelse.">
+  <properties
+      key="Engelsk navn"
+      value="Recreational activities for disabled persons"/>
+</archimate:BusinessService>

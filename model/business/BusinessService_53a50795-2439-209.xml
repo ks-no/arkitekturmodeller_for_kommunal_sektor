@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sykehjem"
+    id="53a50795-2439-209"
+    documentation="Kommunalt drevet boform som tilbyr heldøgns opphold. Rettet mot de som ikke får dekket sitt daglige behov for pleie og omsorg i hjemmet eller i omsorgsbolig. Tilbyr langtidsopphold, avlastningsopphold og korttidsopphold.">
+  <properties
+      key="Engelsk navn"
+      value="Nursing home"/>
+</archimate:BusinessService>

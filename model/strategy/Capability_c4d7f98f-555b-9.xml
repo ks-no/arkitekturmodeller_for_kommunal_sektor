@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Skole"
+    id="c4d7f98f-555b-9">
+  <properties
+      key="Nivå"
+      value="1"/>
+  <properties
+      key="Engelsk navn"
+      value="Schools"/>
+</archimate:Capability>

@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Videregående opplæring"
+    id="53a50795-2439-244"
+    documentation="Videregående skole omfatter kompetansegivende opplæring mellom grunnskolen og høyere utdanning. Opplæringen er frivillig, men all ungdom mellom 16 og 19 år har lovfestet rett til tre års videregående opplæring. Fylkeskommunen har lovfestet plikt til å følge opp ungdom mellom 16 og 19 år som ikke er under opplæring eller i arbeid.">
+  <properties
+      key="Engelsk navn"
+      value="Upper secondary education"/>
+</archimate:BusinessService>

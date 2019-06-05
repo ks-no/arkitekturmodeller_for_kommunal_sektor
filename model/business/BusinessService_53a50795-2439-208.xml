@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Svømmehall"
+    id="53a50795-2439-208"
+    documentation="Idrettsanlegg med svømmebasseng.">
+  <properties
+      key="Engelsk navn"
+      value="Swimming pool"/>
+</archimate:BusinessService>

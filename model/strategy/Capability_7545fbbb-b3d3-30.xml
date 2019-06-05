@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Næring"
+    id="7545fbbb-b3d3-30">
+  <properties
+      key="Engelsk navn"
+      value="Commerce"/>
+  <properties
+      key="Nivå"
+      value="2"/>
+</archimate:Capability>

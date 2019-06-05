@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Omsorgsbolig"
+    id="53a50795-2439-155"
+    documentation="En omsorgsbolig er en bolig som er tilpasset bevegelseshemmede og tilrettelagt slik at beboeren skal kunne motta heldøgns omsorg etter behov. Boligen er beboerens eget hjem. Beboeren betaler husleie og mottar hjemmetjenester på samme vilkår som for andre hjemmeboende.">
+  <properties
+      key="Engelsk navn"
+      value="Sheltered housing"/>
+</archimate:BusinessService>

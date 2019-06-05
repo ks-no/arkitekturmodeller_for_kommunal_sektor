@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bostøtte"
+    id="53a50795-2439-23"
+    documentation="Bostøtte er en hjelp for personer som har lave inntekter og høye boutgifter. Husbanken og kommunen samarbeider om bostøtteordningen. Det er kommunen som behandler søknaden.">
+  <properties
+      key="Engelsk navn"
+      value="Housing benefits"/>
+</archimate:BusinessService>

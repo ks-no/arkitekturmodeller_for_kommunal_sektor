@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mobbing og trakassering"
+    id="53a50795-2439-147"
+    documentation="Elever eller foresatte som ønsker å varsle om mobbing, plaging, trakassering eller diskriminering kan melde direkte til skolens rektor.">
+  <properties
+      key="Engelsk navn"
+      value="Bullying and harassment"/>
+</archimate:BusinessService>

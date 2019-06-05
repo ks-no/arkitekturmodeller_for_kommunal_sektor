@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilskudd til viltformål"
+    id="53a50795-2439-222"
+    documentation="Tilskudd til tiltak som fremmer vilt og biologisk mangfold.">
+  <properties
+      key="Engelsk navn"
+      value="Funding for wildlife purposes"/>
+</archimate:BusinessService>

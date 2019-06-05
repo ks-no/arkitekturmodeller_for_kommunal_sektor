@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Langvarige helsetjenester"
+    id="53a50795-2439-126"
+    documentation="Enkelte har behov for tjenester innenfor forskjellige områder. Eksempler er tjenester innenfor habilitering og rehabilitering, individuell plan og andre tverrfaglige eller koordinerte tjenester.">
+  <properties
+      key="Engelsk navn"
+      value="Long term health services"/>
+</archimate:BusinessService>

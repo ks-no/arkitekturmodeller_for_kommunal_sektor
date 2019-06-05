@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Næring og skatt"
+    id="c4d7f98f-555b-7">
+  <properties
+      key="Engelsk navn"
+      value="Business and taxes"/>
+  <properties
+      key="Nivå"
+      value="1"/>
+</archimate:Capability>

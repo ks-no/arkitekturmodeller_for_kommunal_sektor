@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fritidsfiske"
+    id="53a50795-2439-66"
+    documentation="Kommunens bestemmelser om fiskeavgifter og fiskekort.">
+  <properties
+      key="Engelsk navn"
+      value="Recreational fishing"/>
+</archimate:BusinessService>

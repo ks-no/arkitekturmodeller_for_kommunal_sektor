@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kulturbygg"
+    id="53a50795-2439-119"
+    documentation="Lokale og regionale møteplasser og formidlingsarenaer for kultur, som for eksempel nasjonale kulturbygg, samfunnshus, kulturbåter og lignende.">
+  <properties
+      key="Engelsk navn"
+      value="Cultural buildings"/>
+</archimate:BusinessService>

@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Melding om ulovlige tiltak"
+    id="53a50795-2439-139"
+    documentation="Innbyggere kan melde fra om byggetiltak som de mener er ulovlige eller farlige.">
+  <properties
+      key="Engelsk navn"
+      value="Notice concerning unlawful projects"/>
+</archimate:BusinessService>

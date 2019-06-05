@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Piggdekk"
+    id="53a50795-2439-168"
+    documentation="Kommunen kan fastsette gebyr for bruk av piggdekk ettersom piggdekk skaper miljøfarlig  veistøv.">
+  <properties
+      key="Engelsk navn"
+      value="Studded snow tyres"/>
+</archimate:BusinessService>

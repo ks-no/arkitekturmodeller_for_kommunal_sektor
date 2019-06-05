@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utlån og reservasjon"
+    id="53a50795-2439-235"
+    documentation="Bibliotekene låner ut bøker og medier gratis.">
+  <properties
+      key="Engelsk navn"
+      value="Loans and reservations"/>
+</archimate:BusinessService>

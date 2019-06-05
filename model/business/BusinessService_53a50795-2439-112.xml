@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kommuneplan"
+    id="53a50795-2439-112"
+    documentation="Kommuneplan er styrende for all planlegging i kommunen. Planen skal skape langsiktighet og forutsigbarhet i politikk og arealbruk for kommunens innbyggere. En effektiv planlegging forutsetter kontakt og samspill mellom kommunen, private lokale interesser og statlige og fylkeskommunale organer under utarbeidingen av planene. Gjennom åpne møter, informasjon og høring søker kommunen å stimulere til debatt og medvirkning før vedtak fattes.">
+  <properties
+      key="Engelsk navn"
+      value="Municipal master plan"/>
+</archimate:BusinessService>

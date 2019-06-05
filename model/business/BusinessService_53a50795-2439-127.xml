@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ledsagerbevis"
+    id="53a50795-2439-127"
+    documentation="Et ledsagerbevis gjør det mulig å ta med seg en ledsager uten ekstra kostnader på kultur- og fritidsarrangement og på transportmidler der ordningen aksepteres. ">
+  <properties
+      key="Engelsk navn"
+      value="Companion certificate"/>
+</archimate:BusinessService>

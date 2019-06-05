@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilskudd til økologisk landbruk"
+    id="53a50795-2439-223"
+    documentation="Fellesbetegnelse for tilskudd til de som driver økologisk landbruk.">
+  <properties
+      key="Engelsk navn"
+      value="Organic agriculure grants"/>
+</archimate:BusinessService>

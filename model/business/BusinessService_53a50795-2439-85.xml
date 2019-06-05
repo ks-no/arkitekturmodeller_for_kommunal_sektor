@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Helsestasjon"
+    id="53a50795-2439-85"
+    documentation="Kommunalt tilbud om helsefremmende og forebyggende helsearbeid.">
+  <properties
+      key="Engelsk navn"
+      value="Health clinic"/>
+</archimate:BusinessService>

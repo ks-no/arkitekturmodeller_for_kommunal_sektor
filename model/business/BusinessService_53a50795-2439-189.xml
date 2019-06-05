@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Skolefritidsordning (SFO)"
+    id="53a50795-2439-189"
+    documentation="Et tilbud før og etter skoletid til barn fra 1. til 4. klasse. Barn med spesielle behov kan få dette tilbudet fra 1. til 7. klasse.">
+  <properties
+      key="Engelsk navn"
+      value="Day care facilities for schoolchildren"/>
+</archimate:BusinessService>

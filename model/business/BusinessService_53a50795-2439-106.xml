@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klage"
+    id="53a50795-2439-106"
+    documentation="Den som søker/tiltakshaver eller nabo kan klage på kommunens vedtak om byggetillatelse eller avslag på byggesøknad.">
+  <properties
+      key="Engelsk navn"
+      value="Complaints"/>
+</archimate:BusinessService>

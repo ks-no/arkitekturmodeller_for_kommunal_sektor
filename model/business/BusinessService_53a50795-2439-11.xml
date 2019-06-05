@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedriftsetablering"
+    id="53a50795-2439-11"
+    documentation="Godkjenning, sertifisering, råd og veiledning o.l.">
+  <properties
+      key="Engelsk navn"
+      value="Business start-up"/>
+</archimate:BusinessService>

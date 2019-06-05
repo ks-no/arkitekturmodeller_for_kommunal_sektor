@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Snøskuter, vannskuter"
+    id="53a50795-2439-199"
+    documentation="Kommunen vedtar i forskrift tillatelser og forbud om kjøring av motorkjøretøy, motorfartøy eller luftfartøy utenfor fastsatte løyper.">
+  <properties
+      key="Engelsk navn"
+      value="Snowmobile, water scooter"/>
+</archimate:BusinessService>

@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Akutt hjelp"
+    id="7545fbbb-b3d3-1">
+  <properties
+      key="Nivå"
+      value="2"/>
+  <properties
+      key="Engelsk navn"
+      value="Emergency help"/>
+</archimate:Capability>

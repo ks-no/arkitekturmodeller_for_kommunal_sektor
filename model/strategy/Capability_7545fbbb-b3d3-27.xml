@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medvirkning"
+    id="7545fbbb-b3d3-27">
+  <properties
+      key="Nivå"
+      value="2"/>
+  <properties
+      key="Engelsk navn"
+      value="Involvement"/>
+</archimate:Capability>

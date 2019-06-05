@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Avfall"
+    id="53a50795-2439-5"
+    documentation="Kommunene sørger for innsamling av husholdningsavfall, mottak for farlig avfall og returordninger for bestemte typer avfall.">
+  <properties
+      key="Engelsk navn"
+      value="Waste collection"/>
+</archimate:BusinessService>

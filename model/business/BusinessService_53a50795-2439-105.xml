@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Karakterer og evaluering"
+    id="53a50795-2439-105"
+    documentation="Karakterer gis i orden og oppførsel, muntlig og skriftlig eksamen og som standpunktkarakter. Det er mulig å klage på alle karakterer. Evaluering omfatter underveisvurdering, sluttvurdering og andre evalueringer av eleven.">
+  <properties
+      key="Engelsk navn"
+      value="Marking and evaluation"/>
+</archimate:BusinessService>

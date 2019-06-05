@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Miljøvennlig transport"
+    id="53a50795-2439-145"
+    documentation="Alle former for løsninger, tiltak og virkemidler som gjør transport mer miljøvennlig enn det den er i dag. ">
+  <properties
+      key="Engelsk navn"
+      value="Environmentally-friendly transport"/>
+</archimate:BusinessService>

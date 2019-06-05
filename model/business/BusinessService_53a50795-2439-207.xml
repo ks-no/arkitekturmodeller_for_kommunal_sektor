@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Støy "
+    id="53a50795-2439-207"
+    documentation="Støyforurensning er blant annet veitrafikk, fly, jernbane og industri.">
+  <properties
+      key="Engelsk navn"
+      value="Noise"/>
+</archimate:BusinessService>

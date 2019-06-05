@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Psykisk helse"
+    id="53a50795-2439-174"
+    documentation="Kommunale tjenester som tilbyr psykisk helsehjelp, boliger og akutthjelp innenfor barnehage, skole, pårørende, rusavhengige, osv.">
+  <properties
+      key="Engelsk navn"
+      value="Mental health"/>
+</archimate:BusinessService>

@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trygghet i hjemmet"
+    id="53a50795-2439-230"
+    documentation="Omfatter kommunale tjenester og tekniske løsninger som gir hjemmeboende syke og eldre mer selvstendighet, medbestemmelse, livskvalitet og komfort.">
+  <properties
+      key="Engelsk navn"
+      value="Safety at home"/>
+</archimate:BusinessService>

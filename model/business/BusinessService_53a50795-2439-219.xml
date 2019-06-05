@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilrettelagte botilbud"
+    id="53a50795-2439-219"
+    documentation="Kommunal bolig for personer med psykiske lidelser eller rusproblemer.">
+  <properties
+      key="Engelsk navn"
+      value="Housing for those with special needs"/>
+</archimate:BusinessService>

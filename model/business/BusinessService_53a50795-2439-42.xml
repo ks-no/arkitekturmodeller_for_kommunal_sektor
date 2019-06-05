@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ergoterapi"
+    id="53a50795-2439-42"
+    documentation="Ergoterapi er en del av kommunehelsetjenesten og gir behandling for bedre funksjonsnivå.">
+  <properties
+      key="Engelsk navn"
+      value="Ergonomics"/>
+</archimate:BusinessService>

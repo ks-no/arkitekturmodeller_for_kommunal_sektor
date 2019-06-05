@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plantevern"
+    id="53a50795-2439-170"
+    documentation="Kjøp og bruk av plantevernmidler krever gyldig autorisasjonsbevis.">
+  <properties
+      key="Engelsk navn"
+      value="Plant conservation"/>
+</archimate:BusinessService>

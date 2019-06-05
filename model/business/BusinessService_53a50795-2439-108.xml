@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kommunal bolig"
+    id="53a50795-2439-108"
+    documentation="Bolig eid av kommunen som brukes til å leie ut bolig til de med økonomiske problemer.">
+  <properties
+      key="Engelsk navn"
+      value="Municipal housing"/>
+</archimate:BusinessService>

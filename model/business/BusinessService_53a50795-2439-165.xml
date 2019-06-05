@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Permisjon og fritak"
+    id="53a50795-2439-165"
+    documentation="Permisjon er å gi eleven fri for en periode etter søknad fra foresatte eller elever over 18 år. Fritak fra undervisning eller vurdering i enkelte fag kan gis etter søknad fra foresatte eller elever over 18 år. ">
+  <properties
+      key="Engelsk navn"
+      value="Leave of absence and exemptions"/>
+</archimate:BusinessService>

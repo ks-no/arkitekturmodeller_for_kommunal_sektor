@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Idrettsmidler"
+    id="53a50795-2439-96"
+    documentation="Økonomisk støtte til idrettsformål.">
+  <properties
+      key="Engelsk navn"
+      value="Sports funding"/>
+</archimate:BusinessService>

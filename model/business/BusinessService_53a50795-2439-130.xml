@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lekeplass"
+    id="53a50795-2439-130"
+    documentation="Et avgrenset sted utendørs som er tilrettelagt for at barn kan leke.">
+  <properties
+      key="Engelsk navn"
+      value="Playground"/>
+</archimate:BusinessService>

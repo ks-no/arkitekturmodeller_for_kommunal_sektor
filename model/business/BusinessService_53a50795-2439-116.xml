@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Krisehåndtering"
+    id="53a50795-2439-116"
+    documentation="Håndtering av kriser og katastrofer, samt beredskapsplaner.">
+  <properties
+      key="Engelsk navn"
+      value="Crisis management"/>
+</archimate:BusinessService>

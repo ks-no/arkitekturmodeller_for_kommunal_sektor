@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebyrer / gebyrregulativ"
+    id="53a50795-2439-74"
+    documentation="Kommunens politisk vedtatte regulativ for fastsettelse av gebyrer og betalingssatser.">
+  <properties
+      key="Engelsk navn"
+      value="Fee regulation"/>
+</archimate:BusinessService>

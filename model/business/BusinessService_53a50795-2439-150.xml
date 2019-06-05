@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Musikk- og kulturskole"
+    id="53a50795-2439-150"
+    documentation="Musikk- og kulturfaglig tilbud for barn og ungdom. Tilbudet er organisert i samarbeid med skoleverket og kulturlivet ellers.">
+  <properties
+      key="Engelsk navn"
+      value="Music and arts centres"/>
+</archimate:BusinessService>

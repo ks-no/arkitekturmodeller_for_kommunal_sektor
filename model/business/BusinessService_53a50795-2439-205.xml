@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Støttekontakt"
+    id="53a50795-2439-205"
+    documentation="Et tilbud til personer med behov for kontakt, hjelp og støtte i hverdagen. Støttekontakten tilbyr blant annet sosialt samvær etter behov og følge til ulike fritidsaktiviteter.">
+  <properties
+      key="Engelsk navn"
+      value="Support person"/>
+</archimate:BusinessService>

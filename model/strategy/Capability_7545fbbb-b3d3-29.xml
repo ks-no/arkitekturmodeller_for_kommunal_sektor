@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Naturforvaltning"
+    id="7545fbbb-b3d3-29">
+  <properties
+      key="Engelsk navn"
+      value="Nature management"/>
+  <properties
+      key="Nivå"
+      value="2"/>
+</archimate:Capability>

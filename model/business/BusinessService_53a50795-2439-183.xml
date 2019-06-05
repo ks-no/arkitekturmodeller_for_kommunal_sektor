@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Seksjonering"
+    id="53a50795-2439-183"
+    documentation="Seksjonering blir brukt når en eiendom består av flere selvstendige enheter som skal selges og pantsettes hver for seg, og der det ikke er naturlig å dele eiendommen på vanlig måte ved en delingsforretning.">
+  <properties
+      key="Engelsk navn"
+      value="Subdivision of property"/>
+</archimate:BusinessService>

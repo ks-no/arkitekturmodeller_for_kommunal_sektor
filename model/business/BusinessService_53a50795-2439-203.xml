@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Støtte til bedrifter"
+    id="53a50795-2439-203"
+    documentation="Etablerertilskudd og annen støtte til bedrifter.">
+  <properties
+      key="Engelsk navn"
+      value="Support for businesses"/>
+</archimate:BusinessService>

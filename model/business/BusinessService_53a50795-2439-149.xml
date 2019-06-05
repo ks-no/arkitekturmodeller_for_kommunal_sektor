@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Museum"
+    id="53a50795-2439-149"
+    documentation=" Institusjon eller bygning med samling av gjenstander av kulturhistorisk, historisk, naturvitenskaplig, teknisk eller kunstnerisk interesse. Er systematisk ordnet og åpen for publikum.">
+  <properties
+      key="Engelsk navn"
+      value="Museums"/>
+</archimate:BusinessService>

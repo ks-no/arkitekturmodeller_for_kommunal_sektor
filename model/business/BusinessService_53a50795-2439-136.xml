@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lærling"
+    id="53a50795-2439-136"
+    documentation="En lærling utdanner seg til et yrke ved å jobbe i en bedrift. Bedrifter som ønsker lærlinger kan søke om å bli godkjent lærebedrift og tilby læreplasser.">
+  <properties
+      key="Engelsk navn"
+      value="Apprentice"/>
+</archimate:BusinessService>

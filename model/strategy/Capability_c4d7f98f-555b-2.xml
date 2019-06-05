@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bolig og sosiale tjenester"
+    id="c4d7f98f-555b-2">
+  <properties
+      key="Engelsk navn"
+      value="Housing and social welfare services"/>
+  <properties
+      key="Nivå"
+      value="1"/>
+</archimate:Capability>

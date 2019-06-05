@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energibruk"
+    id="53a50795-2439-41"
+    documentation="Ulike måter å redusere bruken av energi. For eksempel energisparingstiltak og tilskudd. ">
+  <properties
+      key="Engelsk navn"
+      value="Energy consumption"/>
+</archimate:BusinessService>

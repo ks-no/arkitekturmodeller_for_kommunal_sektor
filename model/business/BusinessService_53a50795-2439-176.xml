@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rehabilitering"
+    id="53a50795-2439-176"
+    documentation="Rehabilitering er hjelp til personer med sammensatte behov på grunn av nye skader, som hjerneslag, trafikkskade o.l.">
+  <properties
+      key="Engelsk navn"
+      value="Rehabilitation"/>
+</archimate:BusinessService>

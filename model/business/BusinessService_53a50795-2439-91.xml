@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hjemmehjelp"
+    id="53a50795-2439-91"
+    documentation="Tilbud om praktisk hjelp i hjemmet for personer som på grunn av sykdom, funksjonsnedsettelse, rusmiddelmisbruk, alder aller andre årsaker trenger hjelp til daglige gjøremål. ">
+  <properties
+      key="Engelsk navn"
+      value="Home help"/>
+</archimate:BusinessService>

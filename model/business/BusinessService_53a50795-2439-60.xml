@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fravær"
+    id="53a50795-2439-60"
+    documentation="Videregående skoler har regler for hvor mye fravær en elev kan ha uten å miste grunnlaget for karakter. Fraværsreglene er nasjonale, men hver skole kan selv vurdere enkelttilfeller slik at ikke all fravær telles som fravær. I tillegg finnes det gyldige grunner til fravær som visse rettigheter i opplæringsloven, helse, politisk arbeid, religionsutøvelse eller annet. Gyldige grunner til fravær må dokumenteres.">
+  <properties
+      key="Engelsk navn"
+      value="Absence"/>
+</archimate:BusinessService>

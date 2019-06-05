@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gatelys"
+    id="53a50795-2439-73"
+    documentation="Henvendelser til kommunen om feil på gatelys.">
+  <properties
+      key="Engelsk navn"
+      value="Street lighting"/>
+</archimate:BusinessService>

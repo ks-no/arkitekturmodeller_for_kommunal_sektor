@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Feiing"
+    id="53a50795-2439-49"
+    documentation="Vedlikehold og tilsyn av fyringsanlegg. Kommunen har brannforebyggende oppgaver, som feiing og tilsyn.">
+  <properties
+      key="Engelsk navn"
+      value="Chimney sweep services"/>
+</archimate:BusinessService>

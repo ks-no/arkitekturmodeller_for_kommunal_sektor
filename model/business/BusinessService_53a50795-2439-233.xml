@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ungdomsmidler"
+    id="53a50795-2439-233"
+    documentation="Kommunale midler som skal stimulere lag, foreninger og organisasjoner til å drive aktiviteter rettet mot ungdom.">
+  <properties
+      key="Engelsk navn"
+      value="Funding for youth activities"/>
+</archimate:BusinessService>

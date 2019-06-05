@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Spesialundervisning"
+    id="53a50795-2439-201"
+    documentation="Spesialundervisning er en rettighet for elever som ikke har tilstrekkelig utbytte av den vanlige opplæringen. Skolen gjør vurderingen og beslutningen av om en elev skal få spesialundervisning.">
+  <properties
+      key="Engelsk navn"
+      value="Special needs education"/>
+</archimate:BusinessService>

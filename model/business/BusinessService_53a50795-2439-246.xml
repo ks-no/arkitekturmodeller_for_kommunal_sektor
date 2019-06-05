@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Viltforvaltning"
+    id="53a50795-2439-246"
+    documentation="Arbeidet med å bevare, øke, høste eller avgrense viltbestander. I de fleste tilfeller blir arbeidet utøvd av kommunen eller fylkeskommunen gjennom viltnemnder eller ved delegert vedtak.">
+  <properties
+      key="Engelsk navn"
+      value="Wildlife management"/>
+</archimate:BusinessService>

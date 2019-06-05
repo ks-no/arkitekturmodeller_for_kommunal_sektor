@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utlån og leie"
+    id="7545fbbb-b3d3-39">
+  <properties
+      key="Engelsk navn"
+      value="Loans and rentals"/>
+  <properties
+      key="Nivå"
+      value="2"/>
+</archimate:Capability>

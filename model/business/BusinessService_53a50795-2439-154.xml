@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nærmiljøtilskudd"
+    id="53a50795-2439-154"
+    documentation="Tilskudd til tiltak og ulike anlegg i nærmiljøet, som for eksempel fritidsklubb, ungdomskafé, bydelsanlegg, lekeplasser, skoleområder og grøntareal i sentrumsområder.">
+  <properties
+      key="Engelsk navn"
+      value="Local initiative funding"/>
+</archimate:BusinessService>

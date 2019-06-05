@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Private reguleringsplaner"
+    id="53a50795-2439-172"
+    documentation="En reguleringsplan viser hvilke områder det kan bygges på. Private tiltakshavere, organisasjoner og andre myndigheter kan fremme forslag til detaljregulering for de områdene som ikke er regulert.">
+  <properties
+      key="Engelsk navn"
+      value="Private zone plans"/>
+</archimate:BusinessService>

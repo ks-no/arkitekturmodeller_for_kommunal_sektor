@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Temaplan"
+    id="53a50795-2439-213"
+    documentation="Temaplaner er kommunedelplaner for bestemte temaer, sektorer eller tjenester.">
+  <properties
+      key="Engelsk navn"
+      value="Specific topic plan"/>
+</archimate:BusinessService>

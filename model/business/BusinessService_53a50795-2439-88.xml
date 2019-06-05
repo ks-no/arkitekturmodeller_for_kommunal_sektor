@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hjelp ved rusavhengighet"
+    id="53a50795-2439-88"
+    documentation="Hjelp til å stoppe misbruk av alkohol og andre rusmidler. Tiltak kan også omfatte råd, veiledning og hjelp til familier.">
+  <properties
+      key="Engelsk navn"
+      value="Aid for drug adiction"/>
+</archimate:BusinessService>

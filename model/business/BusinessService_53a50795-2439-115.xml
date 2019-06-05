@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Korttidsopphold"
+    id="53a50795-2439-115"
+    documentation="Tilbud om korttidsopphold på sykehjem for personer som trenger opptrening etter sykdom eller nærmere utredning.">
+  <properties
+      key="Engelsk navn"
+      value="Short-term stay at nursing home"/>
+</archimate:BusinessService>

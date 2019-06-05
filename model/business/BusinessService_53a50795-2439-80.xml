@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Grunnskole for voksne"
+    id="53a50795-2439-80"
+    documentation="Voksne som ikke har fått grunnskoleopplæring har rett til grunnskoleopplæring. Opplæringen er gratis og tilpasset den enkeltes behov.">
+  <properties
+      key="Engelsk navn"
+      value="Primary and lower secondary education for adults"/>
+</archimate:BusinessService>

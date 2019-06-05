@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lag og foreninger"
+    id="53a50795-2439-124"
+    documentation="Private institusjoner med ideell, politisk eller annet formål.">
+  <properties
+      key="Engelsk navn"
+      value="Clubs and societies"/>
+</archimate:BusinessService>

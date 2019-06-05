@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Helsesøster"
+    id="53a50795-2439-87"
+    documentation="En helsesøster er sykepleier med videreutdanning i helsefremmende og forebyggende arbeid på system- og individnivå og er et tilbud til skoleelever.">
+  <properties
+      key="Engelsk navn"
+      value="School nurse"/>
+</archimate:BusinessService>
