@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Styring og retning"
+    id="47249884-3bb9-4739-be13-87f956e916c0"
+    documentation="Disse kapabilitetene responderer til interne og eksterne drivere, og gir rammer og retning for planlegging og endring slik at utvikling av de kommunale tjenestene skjer innenfor og i tråd med disse">
+  <properties
+      key="Nivå"
+      value="1"/>
+  <properties
+      key="Kilde"
+      value="Nasjonal IKT"/>
+</archimate:Capability>

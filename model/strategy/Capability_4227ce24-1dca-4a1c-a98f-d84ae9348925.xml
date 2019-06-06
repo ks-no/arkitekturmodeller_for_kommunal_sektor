@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Videregående skole"
+    id="4227ce24-1dca-4a1c-a98f-d84ae9348925">
+  <properties
+      key="Kilde"
+      value="Los"/>
+  <properties
+      key="Nivå"
+      value="2"/>
+</archimate:Capability>

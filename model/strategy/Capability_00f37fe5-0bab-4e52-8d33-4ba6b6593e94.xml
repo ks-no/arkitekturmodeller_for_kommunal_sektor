@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Folkehelse"
+    id="00f37fe5-0bab-4e52-8d33-4ba6b6593e94">
+  <properties
+      key="Nivå"
+      value="2"/>
+  <properties
+      key="Kilde"
+      value="Los"/>
+</archimate:Capability>

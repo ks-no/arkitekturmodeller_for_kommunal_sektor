@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vei og veitrafikk"
+    id="a5eafb3e-5359-4787-a670-56d2481e6a5e">
+  <properties
+      key="Nivå"
+      value="2"/>
+  <properties
+      key="Kilde"
+      value="0"/>
+</archimate:Capability>

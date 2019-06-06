@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beredskap og sikkerhet"
+    id="1014826f-c941-4e06-8062-1bd74a9daea5">
+  <properties
+      key="Nivå"
+      value="2"/>
+  <properties
+      key="Kilde"
+      value="Los"/>
+</archimate:Capability>

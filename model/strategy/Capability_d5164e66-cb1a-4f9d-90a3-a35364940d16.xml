@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Eiendom"
+    id="d5164e66-cb1a-4f9d-90a3-a35364940d16">
+  <properties
+      key="Nivå"
+      value="2"/>
+  <properties
+      key="Kilde"
+      value="Los"/>
+</archimate:Capability>

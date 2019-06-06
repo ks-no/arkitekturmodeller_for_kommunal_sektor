@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Priser og gebyrer"
+    id="15ac0c77-22a2-4506-b9e8-21dfb4136fb4">
+  <properties
+      key="Nivå"
+      value="2"/>
+  <properties
+      key="Kilde"
+      value="Los"/>
+</archimate:Capability>

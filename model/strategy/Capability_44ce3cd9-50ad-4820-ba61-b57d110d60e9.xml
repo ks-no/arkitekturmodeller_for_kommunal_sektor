@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beredskapsledelse"
+    id="44ce3cd9-50ad-4820-ba61-b57d110d60e9"
+    documentation="Evnen til å sikre at virksomhetens kritiske funksjoner enten vil fortsette å fungere eller blir gjenopprettet til en forsvarlig driftstilstand innen rimelig tid, på tross av alvorlige eller uforutsette hendelse som ellers ville ha forstyrret dem.">
+  <properties
+      key="Nivå"
+      value="2"/>
+  <properties
+      key="Kilde"
+      value="Nasjonal IKT"/>
+</archimate:Capability>

@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Virksomhetsstyring"
+    id="89a165e5-2da6-4f0a-be51-f8cb25610e35"
+    documentation="Evnen til å håndtere mekanismer, prosesser og relasjoner som kontrollerer og gir retning til virksomheten. Dette inkluderer styring i forhold til lover, regler og retningslinjer, risiko, tjenestetilbud og resultat.">
+  <properties
+      key="Kilde"
+      value="Nasjonal IKT"/>
+  <properties
+      key="Nivå"
+      value="2"/>
+</archimate:Capability>

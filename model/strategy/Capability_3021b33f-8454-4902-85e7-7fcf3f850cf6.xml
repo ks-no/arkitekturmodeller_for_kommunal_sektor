@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kommunikasjon og samfunnskontakt"
+    id="3021b33f-8454-4902-85e7-7fcf3f850cf6"
+    documentation="Evnen til å håndtere interessenter og omdømmebygging til nåværende og fremtidig nytte.">
+  <properties
+      key="Nivå"
+      value="2"/>
+  <properties
+      key="Kilde"
+      value="Nasjonal IKT"/>
+</archimate:Capability>

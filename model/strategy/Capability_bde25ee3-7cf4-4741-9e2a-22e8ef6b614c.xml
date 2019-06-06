@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Åpenhet"
+    id="bde25ee3-7cf4-4741-9e2a-22e8ef6b614c">
+  <properties
+      key="Kilde"
+      value="Los"/>
+  <properties
+      key="Nivå"
+      value="2"/>
+</archimate:Capability>

@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kvalifisering til arbeid"
+    id="9bd5a118-0ac2-45c0-bb22-785f547bc094"
+    documentation="Kvalifisering til arbeid skal hjelpe jobbsøkere ut i arbeid gjennom karriereveiledning, opplæring og arbeidspraksis. ">
+  <properties
+      key="Kilde"
+      value="Los"/>
+  <properties
+      key="Nivå"
+      value="2"/>
+</archimate:Capability>

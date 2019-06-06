@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kunnskapsforvaltning"
+    id="537c5980-cc84-4f7b-a491-3af1880d31aa"
+    documentation="Evnen til å samle, dele og effektivt ta i bruk kunnskap. Inkludert i dette er en flerfaglig tilnærming for å oppnå organisatoriske mål ved best mulig bruk av den samlede kunnskapen i organisasjonen.">
+  <properties
+      key="Nivå"
+      value="2"/>
+  <properties
+      key="Kilde"
+      value="Nasjonal IKT"/>
+</archimate:Capability>

@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Salg og formidling av varer og tjenester"
+    id="35af3dba-d5c8-4de0-8d27-d2ef53923dac"
+    documentation="Evnen til å håndtere markedsføring av varer og tjenester og håndtere salgsordrer. Dette inkluderer varer og tjenester levert av enheter i virksomheten til andre enheter i virksomheten, og av virksomheten til eksterne enheter, pasienter eller brukere. Oppfølging av kunder og salgsavtaler er også omfattet.">
+  <properties
+      key="Nivå"
+      value="2"/>
+  <properties
+      key="Kilde"
+      value="Nasjonal IKT"/>
+</archimate:Capability>

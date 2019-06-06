@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Helse, miljø og sikkerhet (HMS)"
+    id="aa329d6f-a4c7-46fb-99cc-3c39db283b15"
+    documentation="Evnen til å å unngå og begrense ulykker og skader på mennesker, miljø og eiendeler, samt ivareta medarbeideres helse og velferd.">
+  <properties
+      key="Kilde"
+      value="Nasjonal IKT"/>
+  <properties
+      key="Nivå"
+      value="2"/>
+</archimate:Capability>

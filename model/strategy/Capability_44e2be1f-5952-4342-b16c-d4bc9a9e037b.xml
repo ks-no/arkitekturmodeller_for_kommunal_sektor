@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Næring og skatt"
+    id="44e2be1f-5952-4342-b16c-d4bc9a9e037b">
+  <properties
+      key="Kilde"
+      value="Los"/>
+  <properties
+      key="Nivå"
+      value="1"/>
+</archimate:Capability>

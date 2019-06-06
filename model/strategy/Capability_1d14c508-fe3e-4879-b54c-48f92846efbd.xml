@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Regnskap og finans"
+    id="1d14c508-fe3e-4879-b54c-48f92846efbd"
+    documentation="Evnen til å håndtere økonomiske beslutninger gjennom forvaltning av kapital og styring av regnskap og økonomisk rapportering.">
+  <properties
+      key="Nivå"
+      value="2"/>
+  <properties
+      key="Kilde"
+      value="Nasjonal IKT"/>
+</archimate:Capability>

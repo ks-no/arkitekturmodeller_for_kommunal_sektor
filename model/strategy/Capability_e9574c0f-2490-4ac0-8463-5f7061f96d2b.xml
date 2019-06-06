@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kommuneplan"
+    id="e9574c0f-2490-4ac0-8463-5f7061f96d2b"
+    documentation="Endret fra Virksomhetsutvikling&#xD;&#xA;Evnen til å utvikle virksomheten for at innbyggerne skal sikres helse- og omsorgstjenester slik det er fastsett i lover og forskrifter, og detaljert i oppdragsdokument og proposisjoner.&#xD;&#xA;Med helse- og omsorgstjenester menes de tjenester som ytes av private og offentlige institusjoner og virksomheter i samfunnet som har til formål å forebygge, diagnostisere og behandle sykdom, å yte pleie og omsorg til syke mennesker eller å rehabilitere og attføre pasienter etter sykdom og skade.">
+  <properties
+      key="Kilde"
+      value="Nasjonal IKT"/>
+  <properties
+      key="Nivå"
+      value="2"/>
+</archimate:Capability>

@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ekteskap"
+    id="81e5061a-28b3-4745-8e8b-8265486d0186"
+    documentation="For å gifte seg i Norge må man oppfylle vilkårene. Det er Skatteetaten som skriver ut en prøvingsattest når vilkårene er oppfylt. Kommunen er ansvarlig for borgerlig vielse, krisesenter og barnevernet, i saker om tvangsekteskap.">
+  <properties
+      key="Nivå"
+      value="2"/>
+  <properties
+      key="Kilde"
+      value="Los"/>
+</archimate:Capability>

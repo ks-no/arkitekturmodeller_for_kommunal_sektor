@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Innkjøp og vareforsyning"
+    id="48055dc2-a9da-45ed-aa91-265a382d0ad3"
+    documentation="Evnen til å anskaffe og levere varer og tjenester, samt å forvalte innkjøpsavtaler i tråd med virksomhetens behov.">
+  <properties
+      key="Nivå"
+      value="2"/>
+  <properties
+      key="Kilde"
+      value="Nasjonal IKT"/>
+</archimate:Capability>
