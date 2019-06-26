@@ -1,7 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Barnehage"
-    id="42c80557-c240-431d-a2cb-647a98dde299">
+    id="42c80557-c240-431d-a2cb-647a98dde299"
+    documentation="Barnehage er en institusjon for barn som er under skolepliktig alder.">
   <properties
       key="Kilde"
       value="Los"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sikkerhet tjenester"
+    id="220075b4-b83c-427d-8b75-bd13bde54000"
+    documentation="Autentisering&#xD;&#xA;Autorisasjon&#xD;&#xA;Sporbarhet&#xD;&#xA;Inputvalidering&#xD;&#xA;Beskyttelse av data i ro&#xD;&#xA;Beskuttelse av data i bevegelse"/>

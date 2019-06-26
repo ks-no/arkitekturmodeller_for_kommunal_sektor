@@ -1,7 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Videregående skole"
-    id="4227ce24-1dca-4a1c-a98f-d84ae9348925">
+    id="4227ce24-1dca-4a1c-a98f-d84ae9348925"
+    documentation="Videregående skole er den delen av videregående opplæring som foregår i skole. Den har tre videregående trinn . For yrkesfaglig utdanning foregår deler av utdanningen i bedrift, som oftest to år i lære i en bedrift etter to år i videregående skole. ">
   <properties
       key="Kilde"
       value="Los"/>
