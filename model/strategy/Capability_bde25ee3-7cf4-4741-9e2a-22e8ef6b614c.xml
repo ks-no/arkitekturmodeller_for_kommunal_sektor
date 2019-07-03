@@ -1,7 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Åpenhet"
-    id="bde25ee3-7cf4-4741-9e2a-22e8ef6b614c">
+    id="bde25ee3-7cf4-4741-9e2a-22e8ef6b614c"
+    documentation="Mangler vi en kapabilitet for å håndtere det politiske arbeidet, og samhandling mellom politisk styring og administrasjon i kommunen?&#xD;&#xA;Vi har vel med dette med Innsyn, men i hvert fall hos oss så bruker vi f.eks. moduler i ESA og Acos Websak for Møter og utvalg. Men det blir vel feil å hekte dette inn under Støttefunksjoner, det bør vel løftes litt tydeligere i kapabilitetsmodellen at dette faktisk er en sentral del av det kommunene driver med… Eller hva tenker du?&#xD;&#xA;Men du hadde kanskje noe sånt i modellen dere lagde i Bergen? (Jeg fikk ikke åpnet det i Archi, tror kanskje jeg trenger å laste ned en modul for github-integrasjon…?)&#xD;&#xA;&#xD;&#xA;/Dag Olaf&#xD;&#xA;">
   <properties
       key="Kilde"
       value="Los"/>
