@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kapabilitetskart"
+    name="Kapabilitetskart nivå 1 og 2"
     id="aef4612d-4e93-4166-a5ac-d07c6343f071">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -1294,7 +1294,7 @@
       font="1|Segoe UI|14.25|0|WINDOWS|1|-19|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       fontColor="#ffffff"
       fillColor="#004080"
-      content="Innbyggertjenester">
+      content="Kjernevirksomhet">
     <bounds
         x="348"
         y="12"
