@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Innovasjon"
-    id="ee129d4f-84d2-48ab-9c79-267150aab79d"/>
+    id="ee129d4f-84d2-48ab-9c79-267150aab79d"
+    documentation="Er innovasjon del av tjenesteutvikling?"/>
