@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilhører"
+    id="1b67f8bc-51d6-4dc1-ab9f-513c85e92a11">
+  <source
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_2b959782-da39-4048-ae16-5ca78980ea7b.xml#2b959782-da39-4048-ae16-5ca78980ea7b"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_9322262d-ecc7-446d-959d-bb0064eab70a.xml#9322262d-ecc7-446d-959d-bb0064eab70a"/>
+</archimate:AssignmentRelationship>

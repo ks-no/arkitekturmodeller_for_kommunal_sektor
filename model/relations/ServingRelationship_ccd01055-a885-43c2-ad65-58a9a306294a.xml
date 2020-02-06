@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bruker"
+    id="ccd01055-a885-43c2-ad65-58a9a306294a">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_7d123286-027f-4fed-8f36-eae42f041263.xml#7d123286-027f-4fed-8f36-eae42f041263"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_087ff482-3a56-4289-9f3f-c8b2f53704b9.xml#087ff482-3a56-4289-9f3f-c8b2f53704b9"/>
+</archimate:ServingRelationship>
