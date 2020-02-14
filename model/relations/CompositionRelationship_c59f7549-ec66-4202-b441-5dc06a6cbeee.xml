@@ -1,12 +1,11 @@
-<archimate:RealizationRelationship
+<archimate:CompositionRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Realiserer"
-    id="2272d04a-372b-4c1b-9f4b-dff50e993651">
+    id="c59f7549-ec66-4202-b441-5dc06a6cbeee">
   <source
-      xsi:type="archimate:Node"
-      href="Node_9322262d-ecc7-446d-959d-bb0064eab70a.xml#9322262d-ecc7-446d-959d-bb0064eab70a"/>
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_4810ed91-e736-490b-8cea-82984eef91af.xml#4810ed91-e736-490b-8cea-82984eef91af"/>
   <target
       xsi:type="archimate:TechnologyService"
       href="TechnologyService_f9933285-4a90-47b5-9f89-012669f0d6d4.xml#f9933285-4a90-47b5-9f89-012669f0d6d4"/>
-</archimate:RealizationRelationship>
+</archimate:CompositionRelationship>
