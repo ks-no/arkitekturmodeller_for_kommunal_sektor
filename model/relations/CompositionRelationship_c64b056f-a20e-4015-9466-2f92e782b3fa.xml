@@ -1,6 +1,7 @@
 <archimate:CompositionRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilbyr"
     id="c64b056f-a20e-4015-9466-2f92e782b3fa">
   <source
       xsi:type="archimate:ApplicationComponent"
