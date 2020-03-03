@@ -1,0 +1,10 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leverandør"
+    id="d3df58c8-c0d0-42f5-8f12-4a02476c13b7"
+    documentation="Leverandør er en person el. firma som leverer produkter og tjeneste.">
+  <properties
+      key="Sist oppdatert"/>
+  <properties
+      key="SIst oppdatert av"/>
+</archimate:BusinessRole>

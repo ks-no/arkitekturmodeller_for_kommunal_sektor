@@ -1,4 +1,15 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="IT system server (RDPROD01"
-    id="9322262d-ecc7-446d-959d-bb0064eab70a"/>
+    id="9322262d-ecc7-446d-959d-bb0064eab70a">
+  <properties
+      key="Servertype"
+      value="Virtuell, fysisk"/>
+  <properties
+      key="Operativsystem"
+      value="WIndows, Linux"/>
+  <properties
+      key="Sist oppdatert"/>
+  <properties
+      key="SIst oppdatert av"/>
+</archimate:Node>

@@ -1,4 +1,10 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Systemeier (kommunalsjef)"
-    id="38a23aea-863d-4695-a5a9-260ce7b0a376"/>
+    id="38a23aea-863d-4695-a5a9-260ce7b0a376"
+    documentation="Systemeier har det formelle ansvaret for systemet i organisasjonen som bruker det. Det kan for eksempel være kommunalsjef. Symbolet i høyre hjørne indikerer at det er en rolle (business role).">
+  <properties
+      key="Sist oppdatert"/>
+  <properties
+      key="SIst oppdatert av"/>
+</archimate:BusinessRole>

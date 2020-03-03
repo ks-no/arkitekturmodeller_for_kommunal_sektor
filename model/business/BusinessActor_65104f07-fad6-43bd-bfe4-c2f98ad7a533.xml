@@ -1,8 +1,8 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Tjenestemottaker"
-    id="4e283c0e-de44-4496-a322-90a2444336f0"
-    documentation="Tjenestemottaker er mottakeren av tjenesten. For eksempel foresatte eller brukere.">
+    name="Produsent"
+    id="65104f07-fad6-43bd-bfe4-c2f98ad7a533"
+    documentation="En produsent er en som fremstiller en produkter eller tjeneste som f.eks. et IKT-system.">
   <properties
       key="Sist oppdatert"/>
   <properties

@@ -1,4 +1,13 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Teknologitjeneste"
-    id="4810ed91-e736-490b-8cea-82984eef91af"/>
+    name="Teknologitjeneste (tjenester)"
+    id="4810ed91-e736-490b-8cea-82984eef91af"
+    documentation="Teknologitjeneste er tjenestene som brukes, for eksempel IKTNH driftstjeneste.">
+  <properties
+      key="Type"
+      value="ASP, skytjeneste, lokal"/>
+  <properties
+      key="Sist oppdatert"/>
+  <properties
+      key="SIst oppdatert av"/>
+</archimate:TechnologyService>

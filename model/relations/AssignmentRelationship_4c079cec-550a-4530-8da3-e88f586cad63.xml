@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Har avtale med"
+    id="4c079cec-550a-4530-8da3-e88f586cad63">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_65104f07-fad6-43bd-bfe4-c2f98ad7a533.xml#65104f07-fad6-43bd-bfe4-c2f98ad7a533"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_d3df58c8-c0d0-42f5-8f12-4a02476c13b7.xml#d3df58c8-c0d0-42f5-8f12-4a02476c13b7"/>
+</archimate:AssignmentRelationship>
