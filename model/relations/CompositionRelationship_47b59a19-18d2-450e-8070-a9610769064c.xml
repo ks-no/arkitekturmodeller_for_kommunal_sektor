@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilbyr"
+    id="47b59a19-18d2-450e-8070-a9610769064c">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_67b94a63-f88d-4eff-a262-7daa7ac13715.xml#67b94a63-f88d-4eff-a262-7daa7ac13715"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_6fdc3d73-4ead-42d3-82f9-73324381a4d7.xml#6fdc3d73-4ead-42d3-82f9-73324381a4d7"/>
+</archimate:CompositionRelationship>

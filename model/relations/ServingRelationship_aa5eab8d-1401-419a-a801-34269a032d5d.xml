@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Støtter"
+    id="aa5eab8d-1401-419a-a801-34269a032d5d">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_67b94a63-f88d-4eff-a262-7daa7ac13715.xml#67b94a63-f88d-4eff-a262-7daa7ac13715"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_7bb6e4a1-edb0-449f-a7d7-6a90137e6fec.xml#7bb6e4a1-edb0-449f-a7d7-6a90137e6fec"/>
+</archimate:ServingRelationship>

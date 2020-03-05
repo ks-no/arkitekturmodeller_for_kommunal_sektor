@@ -1,0 +1,12 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tjenesteeier (kommunalsjef oppvekst"
+    id="0c32655f-d976-49cd-b2d5-eea09547b873"
+    documentation="Tjenesteeier er eieren av tjenesten. Det kan for eksempel være kommunalsjef for oppvekst.">
+  <properties
+      key="Sist oppdatert"/>
+  <properties
+      key="SIst oppdatert av"/>
+  <properties
+      key="Navn"/>
+</archimate:BusinessRole>

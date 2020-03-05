@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Har tilgang til"
+    id="1b93d37b-468b-4d91-9368-07754302cc9f"
+    accessType="2">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_67b94a63-f88d-4eff-a262-7daa7ac13715.xml#67b94a63-f88d-4eff-a262-7daa7ac13715"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_684d7ab2-9202-4f96-9191-fb6e6a28bd80.xml#684d7ab2-9202-4f96-9191-fb6e6a28bd80"/>
+</archimate:AccessRelationship>

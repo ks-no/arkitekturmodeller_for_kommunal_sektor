@@ -1,0 +1,10 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Produsent"
+    id="4e638a6a-d966-4ebd-b090-c3659949423e"
+    documentation="En produsent er en som fremstiller en produkter eller tjeneste som f.eks. et IKT-system.">
+  <properties
+      key="Sist oppdatert"/>
+  <properties
+      key="SIst oppdatert av"/>
+</archimate:BusinessActor>

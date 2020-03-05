@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Omfatter"
+    id="5ebeffc1-0900-4006-a61e-4477e4b99e04">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_f8eaf6c3-669c-41ab-ad3d-353937206c6e.xml#f8eaf6c3-669c-41ab-ad3d-353937206c6e"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_50f00388-c437-4439-96ea-1407179efc7a.xml#50f00388-c437-4439-96ea-1407179efc7a"/>
+</archimate:AssignmentRelationship>

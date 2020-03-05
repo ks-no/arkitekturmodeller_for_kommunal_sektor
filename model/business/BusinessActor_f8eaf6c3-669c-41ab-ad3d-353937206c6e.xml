@@ -1,0 +1,15 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisasjonsenhet (Oppvekst)"
+    id="f8eaf6c3-669c-41ab-ad3d-353937206c6e"
+    documentation="Organisasjonsenhet er enheten det omfatter i organisasjonen, for eksempel Oppvekst. Symbolet i venstre hjørne indikerer at det er en aktør (business actor). ">
+  <properties
+      key="Organisasjonsnivå"
+      value="Rådmann, tjenesteleder, avdelingsleder, sektor, enhet, selvstendig enhet, etc."/>
+  <properties
+      key="Sist oppdatert"
+      value="Når forekomsten ble oppdatert"/>
+  <properties
+      key="SIst oppdatert av"
+      value="Hvem som gjorde siste oppdatering"/>
+</archimate:BusinessActor>

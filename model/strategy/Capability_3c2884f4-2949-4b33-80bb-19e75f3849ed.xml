@@ -1,9 +1,0 @@
-<archimate:Capability
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kapabilitet (Grunnskole)"
-    id="3c2884f4-2949-4b33-80bb-19e75f3849ed"
-    documentation="Beskrivelse av kapabilitet fra KS sin kapabilitetsmodell (under arbeid)">
-  <properties
-      key="Kapabilitetsnivå"
-      value="Nivå 1, 2 eller 3"/>
-</archimate:Capability>

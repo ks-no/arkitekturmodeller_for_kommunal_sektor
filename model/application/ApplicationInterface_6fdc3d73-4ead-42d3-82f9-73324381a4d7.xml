@@ -1,0 +1,16 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Grensesnitt (foreldreportal, folkeregisteret)"
+    id="6fdc3d73-4ead-42d3-82f9-73324381a4d7"
+    documentation="Grensesnitt er for eksempel foreldreportal">
+  <properties
+      key="Type"
+      value="Bruker, maskin"/>
+  <properties
+      key="Standard"
+      value="Lokal, nasjonal, EU-standard"/>
+  <properties
+      key="Sist oppdatert"/>
+  <properties
+      key="SIst oppdatert av"/>
+</archimate:ApplicationInterface>

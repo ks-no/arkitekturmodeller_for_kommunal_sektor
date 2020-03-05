@@ -1,0 +1,12 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prosesseier (tjenesteleder skole)"
+    id="866acb48-6144-4b1a-902f-c90bd3b60e3c"
+    documentation="Prosesseier er eieren av den aktuelle prosessen, for eksempel tjenesteleder skole. ">
+  <properties
+      key="Sist oppdatert"/>
+  <properties
+      key="SIst oppdatert av"/>
+  <properties
+      key="Navn"/>
+</archimate:BusinessRole>

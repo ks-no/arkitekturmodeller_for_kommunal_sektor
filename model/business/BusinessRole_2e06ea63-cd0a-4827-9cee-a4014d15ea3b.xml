@@ -1,0 +1,12 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Systemforvalter"
+    id="2e06ea63-cd0a-4827-9cee-a4014d15ea3b"
+    documentation="Systemforvalter er et begrep vi i dette veiledningsmateriellet benytter om den person systemeier har pekt ut som operativt ansvarlig for et informasjonssystem på vegne av systemeier.&#xD;&#xA;Systemforvalter rapporterer til systemeier, og er det normale knutepunktet inn mot ulike brukergrupper mht. «Systemforvaltning». Det vil si anskaffelse, forvaltning, drift, videreutvikling og systemadministrasjon av informasjonssystemet.&#xD;&#xA;&#xD;&#xA;Hentet fra https://internkontroll-infosikkerhet.difi.no/begrepsliste-systemforvalter">
+  <properties
+      key="Sist oppdatert"/>
+  <properties
+      key="SIst oppdatert av"/>
+  <properties
+      key="Navn"/>
+</archimate:BusinessRole>

@@ -1,0 +1,10 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tjenestemottaker"
+    id="418305c9-52c4-4bef-abd8-eeebf2ed1b5a"
+    documentation="Tjenestemottaker er mottakeren av tjenesten. For eksempel foresatte eller brukere.">
+  <properties
+      key="Sist oppdatert"/>
+  <properties
+      key="SIst oppdatert av"/>
+</archimate:BusinessActor>

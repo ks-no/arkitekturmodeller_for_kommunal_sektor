@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leverer"
+    id="1fd7bfda-5be0-40f6-a0f5-dd054ff6438d">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_f35b5ebb-c830-4d8b-b1c6-25987de2fe3a.xml#f35b5ebb-c830-4d8b-b1c6-25987de2fe3a"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_67b94a63-f88d-4eff-a262-7daa7ac13715.xml#67b94a63-f88d-4eff-a262-7daa7ac13715"/>
+</archimate:ServingRelationship>

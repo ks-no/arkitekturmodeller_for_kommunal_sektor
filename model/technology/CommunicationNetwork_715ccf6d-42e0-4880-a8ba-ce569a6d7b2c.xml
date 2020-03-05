@@ -1,0 +1,13 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nettverksone (adm servere)"
+    id="715ccf6d-42e0-4880-a8ba-ce569a6d7b2c"
+    documentation="Avgrenset nettverk beskyttet med brannmur.">
+  <properties
+      key="Nettverkssegment"
+      value="Intern sone, sikker sone, DMZ, elevnett, teknisk sone"/>
+  <properties
+      key="Sist oppdatert"/>
+  <properties
+      key="SIst oppdatert av"/>
+</archimate:CommunicationNetwork>

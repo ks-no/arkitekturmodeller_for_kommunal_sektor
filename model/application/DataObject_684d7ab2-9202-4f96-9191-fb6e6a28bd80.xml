@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datasett (elev)"
+    id="684d7ab2-9202-4f96-9191-fb6e6a28bd80"
+    documentation="Datasett er for eksempel elev.">
+  <properties
+      key="Tilgangsrettighet"
+      value="Offentlig, internt, beskyttet"/>
+</archimate:DataObject>
