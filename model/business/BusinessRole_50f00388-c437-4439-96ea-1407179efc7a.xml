@@ -1,8 +1,8 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Systemeier (kommunalsjef)"
+    name="Systemeier"
     id="50f00388-c437-4439-96ea-1407179efc7a"
-    documentation="En systemeier er en leder som er ansvarlig for å utvikle, forvalte og drifte et informasjonssystem. Dette vil ofte i større eller noen grad være basert på IKT. Systemeier benytter ofte en utpekt systemforvalter som operativt ansvarlig for de oppgaver systemeier har ansvaret for.&#xD;&#xA;En risikoeier vil normalt være systemeier for de informasjonssystem som kun benyttes innen eget ansvarsområde. System som benyttes av flere risikoeiere kalles gjerne fellessystem. Systemeiere for fellessystem kan kalles systemeier fellessystem.&#xD;&#xA;&#xD;&#xA;Hentet fra https://internkontroll-infosikkerhet.difi.no/begrepsliste-systemeier">
+    documentation="En systemeier er en leder som er ansvarlig for å utvikle, forvalte og drifte et informasjonssystem. Dette vil ofte i større eller noen grad være basert på IKT. Systemeier benytter ofte en utpekt systemforvalter som operativt ansvarlig for de oppgaver systemeier har ansvaret for.&#xD;&#xA;En risikoeier vil normalt være systemeier for de informasjonssystem som kun benyttes innen eget ansvarsområde. System som benyttes av flere risikoeiere kalles gjerne fellessystem. Systemeiere for fellessystem kan kalles systemeier fellessystem.&#xD;&#xA;&#xD;&#xA;Hentet fra https://internkontroll-infosikkerhet.difi.no/begrepsliste-systemeier&#xD;&#xA;&#xD;&#xA;Eksempel på rolle som er systemeier kan være &quot;Kommunalsjef&quot;.">
   <properties
       key="Sist oppdatert"/>
   <properties

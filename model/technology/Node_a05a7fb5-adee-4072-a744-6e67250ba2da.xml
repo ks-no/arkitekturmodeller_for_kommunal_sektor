@@ -1,8 +1,8 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="IT system server (RDPROD01)"
+    name="IT system server"
     id="a05a7fb5-adee-4072-a744-6e67250ba2da"
-    documentation="Fysisk eller logisk instans som leverer operativsystem og annen systemprogramvare, for å støtte systemer.">
+    documentation="Fysisk eller logisk instans som leverer operativsystem og annen systemprogramvare, for å støtte systemer.&#xD;&#xA;&#xD;&#xA;Eksempel på IT system server kan være  &quot;RDPROD01&quot;.">
   <properties
       key="Servertype"
       value="Virtuell, fysisk"/>

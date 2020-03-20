@@ -1,8 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Tjeneste (Grunnskole)"
+    name="Tjeneste"
     id="ffda3c0e-fb01-48ba-9ef4-8e0071817b88"
-    documentation="Tjeneste er tjenesten som leveres, for eksempel grunnskole. Symbolet indikerer at det er en tjeneste (business service). Kommunale tjenester, hentes fra LOS 3.0.">
+    documentation="Tjeneste er tjenesten som leveres, for eksempel grunnskole. Symbolet indikerer at det er en tjeneste (business service). Kommunale tjenester, hentes fra LOS 3.0.&#xD;&#xA;&#xD;&#xA;Eksempel på tjeneste kan være &quot;Grunnskole&quot;.">
   <properties
       key="Sist oppdatert"/>
   <properties

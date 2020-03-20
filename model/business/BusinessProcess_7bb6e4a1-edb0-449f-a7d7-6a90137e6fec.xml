@@ -1,8 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Prosess (Prosesser)"
+    name="Prosess"
     id="7bb6e4a1-edb0-449f-a7d7-6a90137e6fec"
-    documentation="Prosess er aktiviiteter som har en start og en slutt, for eksempel opptak første klasse. Ikonet i høyre hjørne indikerer at det er en prosess.">
+    documentation="Prosess er aktiviiteter som har en start og en slutt, for eksempel opptak første klasse. Ikonet i høyre hjørne indikerer at det er en prosess.&#xD;&#xA;&#xD;&#xA;Eksempel på gruppe av prosesser kan være &quot;Administrere skole&quot;.">
   <properties
       key="Referanse til kvalitetssystem"
       value="Link eller navn på prosess i kvalitetssystemet"/>

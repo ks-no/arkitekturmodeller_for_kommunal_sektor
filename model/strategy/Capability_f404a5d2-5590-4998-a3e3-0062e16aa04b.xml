@@ -1,8 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kapabilitet (Grunnskole)"
+    name="Kapabilitet"
     id="f404a5d2-5590-4998-a3e3-0062e16aa04b"
-    documentation="Beskrivelse av kapabilitet fra KS sin kapabilitetsmodell (under arbeid)">
+    documentation="Beskrivelse av kapabilitet fra KS sin kapabilitetsmodell (under arbeid)&#xD;&#xA;&#xD;&#xA;Eksempel på kapabilitet kan være &quot;Grunnskole&quot;">
   <properties
       key="Kapabilitetsnivå"
       value="Nivå 1, 2 eller 3"/>

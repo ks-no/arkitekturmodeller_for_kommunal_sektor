@@ -1,8 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Datasett (elev)"
+    name="Datasett"
     id="684d7ab2-9202-4f96-9191-fb6e6a28bd80"
-    documentation="Datasett er for eksempel elev.">
+    documentation="Datasett er en samling av data som kan blie behandlet av et IT-system.&#xD;&#xA;&#xD;&#xA;Eksempel på datasett kan være &quot;Elevmappe&quot;.">
   <properties
       key="Tilgangsrettighet"
       value="Offentlig, internt, beskyttet"/>

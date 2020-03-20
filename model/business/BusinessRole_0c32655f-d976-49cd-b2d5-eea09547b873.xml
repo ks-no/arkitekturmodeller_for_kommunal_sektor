@@ -1,8 +1,8 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Tjenesteeier (kommunalsjef oppvekst"
+    name="Tjenesteeier"
     id="0c32655f-d976-49cd-b2d5-eea09547b873"
-    documentation="Tjenesteeier er eieren av tjenesten. Det kan for eksempel være kommunalsjef for oppvekst.">
+    documentation="Tjenesteeier er eieren av tjenesten. Det kan for eksempel være kommunalsjef for oppvekst.&#xD;&#xA;&#xD;&#xA;Eksempel på tjenesteeier kan være &quot;Kommunlsjef for oppvekst&quot;.">
   <properties
       key="Sist oppdatert"/>
   <properties

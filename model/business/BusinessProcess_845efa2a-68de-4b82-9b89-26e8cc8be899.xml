@@ -1,8 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Business Process (opptak 1. klasse)"
+    name="Business Process"
     id="845efa2a-68de-4b82-9b89-26e8cc8be899"
-    documentation="Prosess er aktiviiteter som har en start og en slutt, for eksempel opptak første klasse. Ikonet i høyre hjørne indikerer at det er en prosess.">
+    documentation="Prosess er aktiviiteter som har en start og en slutt, for eksempel opptak første klasse. Ikonet i høyre hjørne indikerer at det er en prosess.&#xD;&#xA;&#xD;&#xA;Eksempel på prosess kan være &quot;Opptak til 1. klasse&quot;.">
   <properties
       key="Sist oppdatert"/>
   <properties
