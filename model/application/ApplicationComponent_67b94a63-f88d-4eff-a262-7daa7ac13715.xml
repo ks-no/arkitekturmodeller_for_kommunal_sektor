@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="IT system"
     id="67b94a63-f88d-4eff-a262-7daa7ac13715"
-    documentation="IT-system er systemet som brukes, for eksempel skolesystem. De to strekene på venstre side indikerer at det er en applikasjon, komponent, modul, microtjeneste etc..&#xD;&#xA;&#xD;&#xA;Hva med kontrakt?&#xD;&#xA;Hva med GDPR?&#xD;&#xA;Hva med teknologi?&#xD;&#xA;&#xD;&#xA;Eksempel på IT system kan være &quot;Vigilo&quot;.">
+    documentation="IT-system er systemet som brukes, for eksempel skolesystem. De to strekene på venstre side indikerer at det er en applikasjon, komponent, modul, microtjeneste etc..&#xD;&#xA;&#xD;&#xA;Hva med kontrakt, GDPR og benyttet teknologi?&#xD;&#xA;&#xD;&#xA;Eksempel på IT system kan være &quot;Vigilo&quot;.">
   <properties
       key="Kritikalitet"
       value="Virksomhetskritisk, normal, liv og helse"/>
