@@ -1,13 +1,13 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Metamodell versjon 0.4"
+    name="Metamodell versjon 0.5"
     id="5e28ec79-6fe4-43f5-ad13-e229a370c34e"
     documentation="Modell som inneholder minimum forekomster av elementer og relasjoner som grunnlag for arkitekturlandskap for en kommune.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="d29d01bb-5f2c-4ca1-9ebd-5335d58ff33f"
-      targetConnections="54ec051a-d8fa-4827-8aba-4a94b62bd588"
+      targetConnections="54ec051a-d8fa-4827-8aba-4a94b62bd588 3912551e-3ad6-4a21-b149-6eadff29e8e8"
       type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -318,9 +318,23 @@
         id="b910f368-2863-428d-bfa1-2d77b5d74ace"
         source="94f26a1e-311d-43c2-a874-02686ff242fd"
         target="10931c43-65f4-47cb-99fc-038517a34388">
+      <bendpoints
+          startX="120"
+          startY="-16"
+          endX="-23"
+          endY="128"/>
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_b46c6eca-b38d-44bf-834f-2d58eb951afe.xml#b46c6eca-b38d-44bf-834f-2d58eb951afe"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="3912551e-3ad6-4a21-b149-6eadff29e8e8"
+        source="94f26a1e-311d-43c2-a874-02686ff242fd"
+        target="d29d01bb-5f2c-4ca1-9ebd-5335d58ff33f">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_be077491-d5d9-4143-a192-90d09b22f612.xml#be077491-d5d9-4143-a192-90d09b22f612"/>
     </sourceConnections>
     <bounds
         x="852"
@@ -422,16 +436,16 @@
           href="ServingRelationship_1fd7bfda-5be0-40f6-a0f5-dd054ff6438d.xml#1fd7bfda-5be0-40f6-a0f5-dd054ff6438d"/>
     </sourceConnections>
     <bounds
-        x="901"
+        x="984"
         y="649"
-        width="205"
+        width="181"
         height="109"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="10931c43-65f4-47cb-99fc-038517a34388"
         targetConnections="b910f368-2863-428d-bfa1-2d77b5d74ace 8dff8e12-caf4-4932-82f7-cdc2c6ddc851">
       <bounds
-          x="36"
+          x="24"
           y="36"
           width="120"
           height="55"/>
