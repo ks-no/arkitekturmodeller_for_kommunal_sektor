@@ -1,6 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Støtter"
     id="d493cf5d-99fc-4871-a6fd-d03a1f165ff8">
   <source
       xsi:type="archimate:ApplicationComponent"
