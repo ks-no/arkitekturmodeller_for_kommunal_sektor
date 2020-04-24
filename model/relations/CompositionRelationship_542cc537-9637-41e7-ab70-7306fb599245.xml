@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leverandøravhengig skjema"
+    id="542cc537-9637-41e7-ab70-7306fb599245">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_a2cb8503-f436-452b-a5c5-36cb0c0c4755.xml#a2cb8503-f436-452b-a5c5-36cb0c0c4755"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_f6eea9f5-ee50-4c0e-a6ca-3189f0885c1e.xml#f6eea9f5-ee50-4c0e-a6ca-3189f0885c1e"/>
+</archimate:CompositionRelationship>

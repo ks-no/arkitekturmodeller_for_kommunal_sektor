@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Standard skjema"
+    id="4bf1f634-df2f-4b94-a50b-c0159b9ffc84">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_f6eea9f5-ee50-4c0e-a6ca-3189f0885c1e.xml#f6eea9f5-ee50-4c0e-a6ca-3189f0885c1e"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_71682596-ffbb-465e-b441-0376efd33877.xml#71682596-ffbb-465e-b441-0376efd33877"/>
+</archimate:ServingRelationship>
