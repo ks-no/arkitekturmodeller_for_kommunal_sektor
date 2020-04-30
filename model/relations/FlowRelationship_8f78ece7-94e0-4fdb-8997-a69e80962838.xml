@@ -1,11 +1,11 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="MSIS API smittet i periode"
-    id="d98c1015-c4a3-42f0-ac39-7225542f6c16">
+    name="API mobilnr til smittet"
+    id="8f78ece7-94e0-4fdb-8997-a69e80962838">
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_5a9f9269-445b-4030-ae82-8eb24de2d1ff.xml#5a9f9269-445b-4030-ae82-8eb24de2d1ff"/>
+      href="ApplicationComponent_e6fbf903-a7ad-4e13-b12d-9e2f9bb56dec.xml#e6fbf903-a7ad-4e13-b12d-9e2f9bb56dec"/>
   <target
       xsi:type="archimate:ApplicationService"
       href="ApplicationService_7394d3c5-a59e-4e73-b1fb-199877acdf32.xml#7394d3c5-a59e-4e73-b1fb-199877acdf32"/>
