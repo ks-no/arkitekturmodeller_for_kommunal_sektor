@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Hjelpemidler"
-    id="53a50795-2439-89"
-    documentation="Tekniske hjelpemidler til personer med funksjonsnedsettelse, skader, opererte eller som har redusert funksjonsevne på grunn av sykdom. Formålet er å gi dem en enklere hverdag. Hjelpemidlene kan lånes ut for kort eller lang tid.">
-  <properties
-      key="Engelsk navn"
-      value="Disability aids"/>
-</archimate:BusinessService>

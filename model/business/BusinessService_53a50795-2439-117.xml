@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Krisesenter"
-    id="53a50795-2439-117"
-    documentation="Alle kommuner har et krisesenter som gir beskyttelse, sikkerhet, råd og veiledning til kvinner, menn og barn som blir utsatt for vold i nære relasjoner.">
-  <properties
-      key="Engelsk navn"
-      value="Shelter"/>
-</archimate:BusinessService>

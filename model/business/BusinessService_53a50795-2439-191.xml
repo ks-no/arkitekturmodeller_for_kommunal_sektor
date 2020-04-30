@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Skolehelsetjeneste "
-    id="53a50795-2439-191"
-    documentation="Skolehelsetjenesten skal finnes på alle barneskoler, ungdomsskoler og videregående skoler og kan bestå av helsesøster, skolelege, psykolog og fysioterapeut evt. andre. Skolehelsetjenesten er ansvarlig for vaksinasjon og gir i samarbeid med skolen tilbud om undervisning i klasser, grupper og enkeltsamtaler.">
-  <properties
-      key="Engelsk navn"
-      value="School health services"/>
-</archimate:BusinessService>
