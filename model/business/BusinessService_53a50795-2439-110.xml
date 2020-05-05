@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kommunale avgifter og gebyrer"
-    id="53a50795-2439-110"
-    documentation="Avgifter er indirekte skatter på omsetning av varer og tjenester. Gebyr er en betaling for offentlig eller privat utført tjeneste, slik som renovasjonsgebyr og feiegebyr. ">
-  <properties
-      key="Engelsk navn"
-      value="Municipal taxes and fees"/>
-</archimate:BusinessService>

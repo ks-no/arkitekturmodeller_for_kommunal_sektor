@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Eiendomsskatt"
-    id="53a50795-2439-37"
-    documentation="En kommunal skatt basert på verdien av en eiendom.">
-  <properties
-      key="Engelsk navn"
-      value="Property tax"/>
-</archimate:BusinessService>

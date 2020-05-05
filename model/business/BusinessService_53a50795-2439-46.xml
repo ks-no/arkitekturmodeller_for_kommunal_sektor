@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Etablering av barnehage"
-    id="53a50795-2439-46"
-    documentation="Kommunen godkjenner og fører tilsyn med private barnehager.">
-  <properties
-      key="Engelsk navn"
-      value="Setting up a kindergarten"/>
-</archimate:BusinessService>

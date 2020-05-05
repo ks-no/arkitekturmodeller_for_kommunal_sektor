@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Film- og videokonsesjon"
-    id="53a50795-2439-55"
-    documentation="Kommunen gir tillatelser til å vise film i næringsøyemed.">
-  <properties
-      key="Engelsk navn"
-      value="Film and video licences"/>
-</archimate:BusinessService>
