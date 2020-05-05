@@ -1,8 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="New ArchiMate View"
-    id="dba46a40-aad0-47a3-bd82-e4f8bc7a013f">
+    name="Tilgangsstyring"
+    id="dba46a40-aad0-47a3-bd82-e4f8bc7a013f"
+    viewpoint="service_realization">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="277f25a0-07ae-4adf-b2e9-ea00b9c9a303">
