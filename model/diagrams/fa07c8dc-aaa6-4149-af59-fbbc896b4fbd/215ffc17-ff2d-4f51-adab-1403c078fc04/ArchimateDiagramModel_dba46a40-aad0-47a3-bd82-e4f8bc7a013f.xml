@@ -78,7 +78,7 @@
             x="192"
             y="144"
             width="120"
-            height="55"/>
+            height="61"/>
         <archimateElement
             xsi:type="archimate:DataObject"
             href="DataObject_2e5f49ff-ad51-43f2-bf20-899780596751.xml#2e5f49ff-ad51-43f2-bf20-899780596751"/>
@@ -178,9 +178,9 @@
         targetConnections="4ebf05b8-7192-4bd9-a104-15bd03b9211c">
       <bounds
           x="48"
-          y="265"
+          y="252"
           width="157"
-          height="55"/>
+          height="73"/>
       <archimateElement
           xsi:type="archimate:DataObject"
           href="DataObject_e30802cf-7602-452f-b388-a5b8b90d9ff6.xml#e30802cf-7602-452f-b388-a5b8b90d9ff6"/>
