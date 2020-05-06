@@ -1,0 +1,5 @@
+<archimate:ApplicationEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ansatt hendelse"
+    id="74f8488a-c2d1-48c5-8eef-fc83355cc8c6"
+    documentation="Eksempel: Ansatt begynner, ansatt slutter, ansatt flytter plassering i org."/>
