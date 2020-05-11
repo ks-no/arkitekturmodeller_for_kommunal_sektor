@@ -1,8 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Utførte utbetalinger knyttet rammeid i økonom-isystem"
-    id="e2bad364-6e5f-4f34-825e-be0cb42a84e4">
+    name="Utførte utbetalinger knyttet rammeid i fagsystemet"
+    id="78867121-7075-4103-a3c7-09f8a8a5f9fe">
   <properties
       key="Masterdata?"
-      value="Ja"/>
+      value="Nei"/>
 </archimate:DataObject>
