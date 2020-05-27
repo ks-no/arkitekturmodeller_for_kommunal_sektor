@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informasjonsfangst"
+    id="a95db429-ad47-44ca-80c2-91df12b56969">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_324bd463-46d2-4be3-9bd0-c15bd8f194a4.xml#324bd463-46d2-4be3-9bd0-c15bd8f194a4"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_7146f071-3362-43f8-ba3f-e85b3f9e4965.xml#7146f071-3362-43f8-ba3f-e85b3f9e4965"/>
+</archimate:ServingRelationship>

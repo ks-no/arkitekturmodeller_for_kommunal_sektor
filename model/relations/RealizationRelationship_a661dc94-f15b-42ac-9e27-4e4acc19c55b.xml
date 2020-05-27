@@ -1,6 +1,7 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SMS til nærkontakt"
     id="a661dc94-f15b-42ac-9e27-4e4acc19c55b">
   <source
       xsi:type="archimate:ApplicationComponent"
