@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Link til skjema"
+    id="5709cf14-223e-4b29-9f81-f99b2982501c">
+  <source
+      xsi:type="archimate:RealizationRelationship"
+      href="RealizationRelationship_a661dc94-f15b-42ac-9e27-4e4acc19c55b.xml#a661dc94-f15b-42ac-9e27-4e4acc19c55b"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_2f96c690-dc9c-4ddf-aa98-6ad35b80a4e4.xml#2f96c690-dc9c-4ddf-aa98-6ad35b80a4e4"/>
+</archimate:AssociationRelationship>
