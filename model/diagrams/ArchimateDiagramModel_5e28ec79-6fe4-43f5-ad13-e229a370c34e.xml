@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Metamodell versjon 0.6"
+    name="Metamodell versjon 0.7"
     id="5e28ec79-6fe4-43f5-ad13-e229a370c34e"
     documentation="Modell som inneholder minimum forekomster av elementer og relasjoner som grunnlag for arkitekturlandskap for en kommune.">
   <children
