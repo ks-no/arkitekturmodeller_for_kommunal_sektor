@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Komponent"
     id="9e71e36f-f943-44b8-b5c7-ae52a8b0dcd8"
-    documentation="Modul kan være for eksempel modul eller mikrotjeneste.&#xD;&#xA;&#xD;&#xA;Eksempel på komponent kan være &quot;PersonService&quot; (mikrotjeneste).">
+    documentation="Komponent kan være for eksempel modul eller mikrotjeneste.&#xD;&#xA;&#xD;&#xA;Eksempel på komponent kan være &quot;PersonService&quot; (mikrotjeneste).">
   <properties
       key="Sist oppdatert"/>
   <properties
