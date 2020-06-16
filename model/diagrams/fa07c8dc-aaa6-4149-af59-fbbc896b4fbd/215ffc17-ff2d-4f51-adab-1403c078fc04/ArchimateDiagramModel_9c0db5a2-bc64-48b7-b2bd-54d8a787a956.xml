@@ -223,11 +223,29 @@
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_89e90aea-21e2-4257-8651-6425e1d0e3fd.xml#89e90aea-21e2-4257-8651-6425e1d0e3fd"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="d99274cb-765d-4f78-919a-c4904f96ddb3"
+          source="8a4f2984-264a-496d-b1a7-be89d5d3d672"
+          target="90f5ad62-02c5-422b-8a00-d1388db82ffa">
+        <archimateRelationship
+            xsi:type="archimate:AccessRelationship"
+            href="AccessRelationship_47673ac6-505b-4e9b-a5dc-aea03391bd5b.xml#47673ac6-505b-4e9b-a5dc-aea03391bd5b"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="457b63df-d2af-4127-8560-da166bc6becd"
+          source="8a4f2984-264a-496d-b1a7-be89d5d3d672"
+          target="64e0076e-2623-436e-92d1-26c7104e143a">
+        <archimateRelationship
+            xsi:type="archimate:AccessRelationship"
+            href="AccessRelationship_84bd57fd-fd3f-4f9e-9542-80f4ae1820da.xml#84bd57fd-fd3f-4f9e-9542-80f4ae1820da"/>
+      </sourceConnections>
       <bounds
           x="24"
-          y="60"
+          y="48"
           width="469"
-          height="109"/>
+          height="169"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="fcb4b31f-6087-464b-817a-8b6f305a0001"
@@ -238,12 +256,38 @@
             target="6b817abc-d560-434c-9769-be964b7a9e7f"/>
         <bounds
             x="24"
-            y="12"
+            y="24"
             width="120"
             height="85"/>
         <archimateElement
             xsi:type="archimate:DataObject"
             href="DataObject_e037d779-9142-4687-bfe3-b72ee2703337.xml#e037d779-9142-4687-bfe3-b72ee2703337"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="90f5ad62-02c5-422b-8a00-d1388db82ffa"
+          targetConnections="d99274cb-765d-4f78-919a-c4904f96ddb3">
+        <bounds
+            x="168"
+            y="24"
+            width="120"
+            height="85"/>
+        <archimateElement
+            xsi:type="archimate:DataObject"
+            href="DataObject_b9b786d1-e635-4a0e-aec1-d4f4ac6e694b.xml#b9b786d1-e635-4a0e-aec1-d4f4ac6e694b"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="64e0076e-2623-436e-92d1-26c7104e143a"
+          targetConnections="457b63df-d2af-4127-8560-da166bc6becd">
+        <bounds
+            x="312"
+            y="24"
+            width="120"
+            height="85"/>
+        <archimateElement
+            xsi:type="archimate:DataObject"
+            href="DataObject_17509b8e-b51a-489f-857e-66532ee9e96f.xml#17509b8e-b51a-489f-857e-66532ee9e96f"/>
       </children>
       <archimateElement
           xsi:type="archimate:ApplicationService"
@@ -256,10 +300,10 @@
         textAlignment="1"
         content="Forutsetter i denne tegningen at FIKS IO er agnostisk mtp. meldingsstørrelse. I praksis er det trolig at FIKS IO må snakke med dokumentmodulen i FIKS for meldinger over 5 MB.">
       <bounds
-          x="120"
-          y="228"
-          width="228"
-          height="120"/>
+          x="12"
+          y="276"
+          width="493"
+          height="72"/>
     </children>
     <archimateElement
         xsi:type="archimate:ApplicationService"
