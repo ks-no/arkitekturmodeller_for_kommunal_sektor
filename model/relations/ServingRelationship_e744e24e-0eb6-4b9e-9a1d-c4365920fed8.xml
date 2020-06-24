@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bidrar"
+    id="e744e24e-0eb6-4b9e-9a1d-c4365920fed8">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_33fbafc5-800f-4edf-8549-ded89a17e70c.xml#33fbafc5-800f-4edf-8549-ded89a17e70c"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_33876e8d-cef2-4b38-bdbb-beffbcd9e205.xml#33876e8d-cef2-4b38-bdbb-beffbcd9e205"/>
+</archimate:ServingRelationship>
