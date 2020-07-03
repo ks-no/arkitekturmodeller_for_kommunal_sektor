@@ -1,4 +1,11 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Personopplysninger"
-    id="c06b30f7-cdd4-4bb3-be5c-35803bdadb2d"/>
+    id="c06b30f7-cdd4-4bb3-be5c-35803bdadb2d">
+  <properties
+      key="Kilde"
+      value="LOS"/>
+  <properties
+      key="Nivå"
+      value="2"/>
+</archimate:Capability>

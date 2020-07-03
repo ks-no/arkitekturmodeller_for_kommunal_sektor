@@ -1,7 +1,7 @@
 <archimate:AssignmentRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Har avtale med"
+    name="Er"
     id="9cf450f3-7bf9-4c83-b949-2bdafc023106">
   <source
       xsi:type="archimate:BusinessActor"

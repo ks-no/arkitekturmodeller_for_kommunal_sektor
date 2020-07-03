@@ -1,10 +1,10 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Næringsliv"
-    id="5a04d201-f8cf-4e8c-8f01-f12e3fcb2522">
+    name="Førerkort og sertifikat"
+    id="a731bc92-a192-4cb2-b390-929e795516c3">
   <properties
       key="Kilde"
-      value="Los"/>
+      value="LOS"/>
   <properties
       key="Nivå"
       value="2"/>
