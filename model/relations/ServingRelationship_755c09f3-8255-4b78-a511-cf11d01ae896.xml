@@ -1,7 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Leverer"
+    name="Brukes av"
     id="755c09f3-8255-4b78-a511-cf11d01ae896">
   <source
       xsi:type="archimate:BusinessService"
