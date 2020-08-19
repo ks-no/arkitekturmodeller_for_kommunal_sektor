@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Faktura"
+    id="5b04ee07-8226-46a8-8e5d-f8ccd4643409"
+    documentation="Viser fakturadetaljer og status:&#xD;&#xA;Fakturadetaljer som Forfallsdato, fakturadato, fakturabeløp, betalingsstatus, KID, kontonummer, beløp, betalingsmottaker, hva fakturaen gjelder, purregebyr og forsinkelsesrente&#xD;&#xA;Distribusjonskanal eFaktura, AvtaleGiro, DigiPost, Altinn og Post&#xD;&#xA;&#xD;&#xA;Varsling på valgt kanal for de som har faktura som purres "/>

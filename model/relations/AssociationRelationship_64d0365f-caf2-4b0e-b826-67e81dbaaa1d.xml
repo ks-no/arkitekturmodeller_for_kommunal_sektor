@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="lenke til dokument i fagsystem"
+    id="64d0365f-caf2-4b0e-b826-67e81dbaaa1d">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_6e846fca-f793-4cb1-8310-fd1c2c4a4b6d.xml#6e846fca-f793-4cb1-8310-fd1c2c4a4b6d"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_088976a5-9ec7-4ab5-b107-6afa0a64313d.xml#088976a5-9ec7-4ab5-b107-6afa0a64313d"/>
+</archimate:AssociationRelationship>
