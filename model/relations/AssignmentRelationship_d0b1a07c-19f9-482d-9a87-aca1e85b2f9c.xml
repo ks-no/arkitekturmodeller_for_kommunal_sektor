@@ -1,6 +1,7 @@
 <archimate:AssignmentRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ansvarlig for"
     id="d0b1a07c-19f9-482d-9a87-aca1e85b2f9c">
   <source
       xsi:type="archimate:BusinessActor"

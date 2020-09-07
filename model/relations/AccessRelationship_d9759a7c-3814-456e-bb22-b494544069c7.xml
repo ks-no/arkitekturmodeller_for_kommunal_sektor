@@ -1,11 +1,12 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="6e2f2661-3a4e-4c32-bfdf-b042f5145e6d"
+    name="Servicenivå (SLA)"
+    id="d9759a7c-3814-456e-bb22-b494544069c7"
     accessType="1">
   <source
-      xsi:type="archimate:BusinessProcess"
-      href="BusinessProcess_b8e449d6-ab3c-4b0a-b4d5-9b2d203e411e.xml#b8e449d6-ab3c-4b0a-b4d5-9b2d203e411e"/>
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_ea832d2e-4a05-445e-937a-2a1d831cfc86.xml#ea832d2e-4a05-445e-937a-2a1d831cfc86"/>
   <target
       xsi:type="archimate:Contract"
       href="Contract_81bc0a5a-c365-48ea-9528-39e8de7ec54e.xml#81bc0a5a-c365-48ea-9528-39e8de7ec54e"/>

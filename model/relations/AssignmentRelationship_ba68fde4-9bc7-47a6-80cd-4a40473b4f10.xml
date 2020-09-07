@@ -1,6 +1,7 @@
 <archimate:AssignmentRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leverer"
     id="ba68fde4-9bc7-47a6-80cd-4a40473b4f10">
   <source
       xsi:type="archimate:BusinessActor"

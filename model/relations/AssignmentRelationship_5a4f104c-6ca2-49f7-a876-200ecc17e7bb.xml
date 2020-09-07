@@ -1,6 +1,7 @@
 <archimate:AssignmentRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Har"
     id="5a4f104c-6ca2-49f7-a876-200ecc17e7bb">
   <source
       xsi:type="archimate:BusinessActor"

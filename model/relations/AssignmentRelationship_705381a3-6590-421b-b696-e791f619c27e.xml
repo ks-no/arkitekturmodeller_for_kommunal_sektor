@@ -1,6 +1,7 @@
 <archimate:AssignmentRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deltar i"
     id="705381a3-6590-421b-b696-e791f619c27e">
   <source
       xsi:type="archimate:BusinessActor"

@@ -1,6 +1,7 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vedlikeholder"
     id="5c8f30a4-1f7d-4bcf-9628-1b10ce6edea0"
     accessType="2">
   <source

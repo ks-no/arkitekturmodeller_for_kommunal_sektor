@@ -1,6 +1,7 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Maler for"
     id="19f8f17f-e6ed-4576-87bf-4eafd250a397">
   <source
       xsi:type="archimate:BusinessRole"

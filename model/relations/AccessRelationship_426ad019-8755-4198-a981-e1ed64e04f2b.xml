@@ -1,7 +1,7 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bruk av Fiks"
+    name="Inngår avtale"
     id="426ad019-8755-4198-a981-e1ed64e04f2b">
   <source
       xsi:type="archimate:BusinessActor"

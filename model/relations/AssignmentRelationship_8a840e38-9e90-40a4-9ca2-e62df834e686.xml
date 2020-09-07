@@ -1,6 +1,7 @@
 <archimate:AssignmentRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sikringstiltak"
     id="8a840e38-9e90-40a4-9ca2-e62df834e686">
   <source
       xsi:type="archimate:BusinessRole"
