@@ -83,31 +83,26 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="6dddabc9-0843-4ed2-a79c-d049c25a6bbd"
+        id="8408655a-0c48-419d-97af-89a8f362ff5b"
         source="30936553-8d8d-4319-a2e9-2b47afa005e8"
         target="93fb65d5-32db-4efa-b6cb-8c1aef189d79">
-      <bendpoints
-          startX="96"
-          startY="-15"
-          endX="-97"
-          endY="93"/>
       <bendpoints
           startX="252"
           startY="-15"
           endX="-48"
           endY="93"/>
       <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_ee8fe3ad-6b09-4642-ae9d-c2c284e0658e.xml#ee8fe3ad-6b09-4642-ae9d-c2c284e0658e"/>
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_5458e9fb-b1d5-444e-963c-a03ed89fab2a.xml#5458e9fb-b1d5-444e-963c-a03ed89fab2a"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="4dd2c5c0-ed1d-47fc-8230-029a4d110be1"
+        id="f3b79c52-7e45-42d1-b522-32ff5591b838"
         source="30936553-8d8d-4319-a2e9-2b47afa005e8"
         target="de670c44-d93b-4df2-958f-c28905aae2ae">
       <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_f5be5219-9805-491c-8f9f-7e6c00da4f28.xml#f5be5219-9805-491c-8f9f-7e6c00da4f28"/>
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_09cfebd5-b6d5-43a3-bd31-dfc910e6150a.xml#09cfebd5-b6d5-43a3-bd31-dfc910e6150a"/>
     </sourceConnections>
     <bounds
         x="468"
@@ -133,12 +128,12 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="5e72140e-a05f-4ef8-a309-3b52b64a649f"
+        id="c3cea63b-b48d-454f-a0df-d18169e5a82f"
         source="c9f9d5c6-7665-44e6-8d29-4ca11dc172d4"
         target="93fb65d5-32db-4efa-b6cb-8c1aef189d79">
       <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_58841baa-6757-4b02-b38b-21820c730d09.xml#58841baa-6757-4b02-b38b-21820c730d09"/>
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_80212603-1dc1-4fcb-ab38-5400d224323d.xml#80212603-1dc1-4fcb-ab38-5400d224323d"/>
     </sourceConnections>
     <bounds
         x="720"
@@ -183,12 +178,12 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="25b6b9d3-ef2d-418b-854b-fb7abfdb792b"
+        id="4503b9d8-884d-4731-a581-65667997710d"
         source="62b6fd0c-22c9-45fa-9fa2-17531f9fd413"
         target="93fb65d5-32db-4efa-b6cb-8c1aef189d79">
       <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_d5ca3213-a2e0-49f4-b973-d17ddcf9e815.xml#d5ca3213-a2e0-49f4-b973-d17ddcf9e815"/>
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_ef0eb116-2b3a-4213-9496-e04a6e148d51.xml#ef0eb116-2b3a-4213-9496-e04a6e148d51"/>
     </sourceConnections>
     <bounds
         x="864"
@@ -367,7 +362,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="93fb65d5-32db-4efa-b6cb-8c1aef189d79"
-      targetConnections="5e72140e-a05f-4ef8-a309-3b52b64a649f 6dddabc9-0843-4ed2-a79c-d049c25a6bbd 25b6b9d3-ef2d-418b-854b-fb7abfdb792b">
+      targetConnections="4503b9d8-884d-4731-a581-65667997710d c3cea63b-b48d-454f-a0df-d18169e5a82f 8408655a-0c48-419d-97af-89a8f362ff5b">
     <bounds
         x="768"
         y="204"
@@ -402,7 +397,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="de670c44-d93b-4df2-958f-c28905aae2ae"
-      targetConnections="4dd2c5c0-ed1d-47fc-8230-029a4d110be1">
+      targetConnections="f3b79c52-7e45-42d1-b522-32ff5591b838">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="d6f43454-582b-4aee-8123-ddcb02650ac2"
