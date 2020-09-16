@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Smittevarsling til MSIS"
+    name="Smittevarsling tjenester"
     id="4e1ad122-ce59-44ce-a6d2-c2a0f9678318">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
