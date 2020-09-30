@@ -1,12 +1,12 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Tilbyr API"
-    id="7178a19f-7e9b-498a-b7fc-0d43640a1326">
+    name="Tilbyr nettside"
+    id="01cb4640-fed1-4f5b-9d1e-cf0f76690016">
   <source
       xsi:type="archimate:ApplicationInterface"
       href="ApplicationInterface_ded04139-7632-42d1-ac15-9d12dff6d1fa.xml#ded04139-7632-42d1-ac15-9d12dff6d1fa"/>
   <target
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_67b94a63-f88d-4eff-a262-7daa7ac13715.xml#67b94a63-f88d-4eff-a262-7daa7ac13715"/>
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_f330173b-f937-4ce1-9687-747a9555e412.xml#f330173b-f937-4ce1-9687-747a9555e412"/>
 </archimate:ServingRelationship>
