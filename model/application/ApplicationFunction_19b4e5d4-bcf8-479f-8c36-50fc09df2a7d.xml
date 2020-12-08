@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tracker"
-    id="19b4e5d4-bcf8-479f-8c36-50fc09df2a7d"/>
+    id="19b4e5d4-bcf8-479f-8c36-50fc09df2a7d"
+    documentation="Enrolls a case and tracks over time through laboratory confirmation &amp; case outcome"/>

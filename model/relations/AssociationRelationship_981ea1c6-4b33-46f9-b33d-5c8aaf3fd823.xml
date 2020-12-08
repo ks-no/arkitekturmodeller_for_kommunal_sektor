@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Avtale"
+    id="981ea1c6-4b33-46f9-b33d-5c8aaf3fd823">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_b04a0a26-4365-4172-974a-0d96e56866f9.xml#b04a0a26-4365-4172-974a-0d96e56866f9"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_52db7205-9b1a-49c0-8d68-d874f6cce1d9.xml#52db7205-9b1a-49c0-8d68-d874f6cce1d9"/>
+</archimate:AssociationRelationship>

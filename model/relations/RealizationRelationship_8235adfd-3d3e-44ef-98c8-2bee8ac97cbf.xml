@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fakturainformasjon"
+    id="8235adfd-3d3e-44ef-98c8-2bee8ac97cbf">
+  <source
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_b96eff59-c25d-4661-91a0-05fa1698920c.xml#b96eff59-c25d-4661-91a0-05fa1698920c"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_5b04ee07-8226-46a8-8e5d-f8ccd4643409.xml#5b04ee07-8226-46a8-8e5d-f8ccd4643409"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realiserer for sektor"
+    id="6e6e7e37-cb48-41c9-9d27-7f2a40040872">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_f7d2f52c-d6a2-4d65-9f96-2bc32454a14c.xml#f7d2f52c-d6a2-4d65-9f96-2bc32454a14c"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_1d694ec7-e5a9-482f-8576-93538ac2d950.xml#1d694ec7-e5a9-482f-8576-93538ac2d950"/>
+</archimate:RealizationRelationship>

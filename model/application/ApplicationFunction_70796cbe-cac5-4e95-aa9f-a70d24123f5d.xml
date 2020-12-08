@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aggregate"
-    id="70796cbe-cac5-4e95-aa9f-a70d24123f5d"/>
+    id="70796cbe-cac5-4e95-aa9f-a70d24123f5d"
+    documentation="Enables daily or weekly reporting of key aggregate data points"/>

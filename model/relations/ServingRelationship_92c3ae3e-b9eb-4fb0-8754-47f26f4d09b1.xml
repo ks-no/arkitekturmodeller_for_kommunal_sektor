@@ -1,7 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Leverer"
+    name="Eies av"
     id="92c3ae3e-b9eb-4fb0-8754-47f26f4d09b1">
   <source
       xsi:type="archimate:ApplicationComponent"

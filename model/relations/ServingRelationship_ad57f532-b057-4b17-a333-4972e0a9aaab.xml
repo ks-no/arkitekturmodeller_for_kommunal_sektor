@@ -1,7 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Eier"
+    name="Får premisser av"
     id="ad57f532-b057-4b17-a333-4972e0a9aaab">
   <source
       xsi:type="archimate:ApplicationComponent"

@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Teknologifasilitet"
     id="433bf450-3ed6-45c8-8f19-9a37f94598fc"
-    documentation="En teknologifasilitet sammen med andre fasiliteter utgjør en teknologitjeneste. &#xD;&#xA;&#xD;&#xA;Eksempel på teknologifasilitet kan være &quot;Skan og print&quot;.">
+    documentation="En teknologifasilitet er en selvstendig tjeneste som sammen med andre teknologifasiliteter utgjør en teknologitjeneste. &#xD;&#xA;&#xD;&#xA;Eksempel på teknologifasilitet kan være &quot;Skan og print&quot;.">
   <properties
       key="Sist oppdatert"/>
   <properties

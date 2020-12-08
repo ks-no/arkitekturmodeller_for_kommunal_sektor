@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sikringstiltak"
+    id="8a840e38-9e90-40a4-9ca2-e62df834e686">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_0d24300b-7856-4e48-bff8-4367b126c338.xml#0d24300b-7856-4e48-bff8-4367b126c338"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_0970a469-5939-492a-9c8f-cfa239bd8775.xml#0970a469-5939-492a-9c8f-cfa239bd8775"/>
+</archimate:AssignmentRelationship>

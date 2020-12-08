@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Eier av"
+    id="7b1989e7-879b-43e5-85bf-0f04299b7a11">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_01d3cebd-a226-4f73-987f-60d3ff463c3f.xml#01d3cebd-a226-4f73-987f-60d3ff463c3f"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_08f66f03-c23a-4475-bde4-9742649f9644.xml#08f66f03-c23a-4475-bde4-9742649f9644"/>
+</archimate:AssociationRelationship>

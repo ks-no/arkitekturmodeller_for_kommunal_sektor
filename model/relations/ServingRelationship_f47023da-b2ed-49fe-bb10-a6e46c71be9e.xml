@@ -1,6 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilbyr"
     id="f47023da-b2ed-49fe-bb10-a6e46c71be9e">
   <source
       xsi:type="archimate:BusinessProcess"

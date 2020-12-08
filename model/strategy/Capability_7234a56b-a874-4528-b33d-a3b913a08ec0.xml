@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Digital dialog"
-    id="7234a56b-a874-4528-b33d-a3b913a08ec0"/>
+    id="7234a56b-a874-4528-b33d-a3b913a08ec0"
+    documentation="Kommunikasjon mellom virksomhet og brukere gjennom digitale tjenester som f.eks. internett."/>
