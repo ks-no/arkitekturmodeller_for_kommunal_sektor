@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Hjemmesykepleie"
-    id="53a50795-2439-93"
-    documentation="Hjemmesykepleien gir pleie og omsorg til syke og funksjonshemmede i eget hjem. Tjenesten kan for eksempel omfatte sårbehandling, personlig stell og medikamenthåndtering. ">
-  <properties
-      key="Engelsk navn"
-      value="Home nursing"/>
-</archimate:BusinessService>

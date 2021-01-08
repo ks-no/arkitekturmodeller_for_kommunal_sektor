@@ -1,6 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API mobilnr og dag nærkontakt"
     id="6de9aaec-050a-4986-9bc1-ef0d3ba9ae46">
   <source
       xsi:type="archimate:ApplicationService"

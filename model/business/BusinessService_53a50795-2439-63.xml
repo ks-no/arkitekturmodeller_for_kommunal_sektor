@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Friområde"
-    id="53a50795-2439-63"
-    documentation="Kommunens regulering av friområder.">
-  <properties
-      key="Engelsk navn"
-      value="Public outdoor areas"/>
-</archimate:BusinessService>

@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Varsling om purring"
+    id="7df78cbb-afcb-41b3-8478-729d074e3f7b">
+  <source
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_b96eff59-c25d-4661-91a0-05fa1698920c.xml#b96eff59-c25d-4661-91a0-05fa1698920c"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_399e9c94-1371-40e5-94c5-c9cd8a2c78e6.xml#399e9c94-1371-40e5-94c5-c9cd8a2c78e6"/>
+</archimate:RealizationRelationship>

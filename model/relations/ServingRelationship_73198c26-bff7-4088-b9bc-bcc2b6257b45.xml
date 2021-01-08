@@ -1,7 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Forvalter"
+    name="Forvaltes av"
     id="73198c26-bff7-4088-b9bc-bcc2b6257b45">
   <source
       xsi:type="archimate:ApplicationComponent"

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="beriker"
+    id="2384ec3b-9713-453b-99c5-a3cc165aa541">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_2f96c690-dc9c-4ddf-aa98-6ad35b80a4e4.xml#2f96c690-dc9c-4ddf-aa98-6ad35b80a4e4"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_f1065618-43cc-4b53-a548-84e3ccdc34d7.xml#f1065618-43cc-4b53-a548-84e3ccdc34d7"/>
+</archimate:ServingRelationship>

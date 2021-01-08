@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Miljøsertifisering"
-    id="53a50795-2439-142"
-    documentation="Miljøsertifisering er en ekstern verifisering av miljøstyringssystemet som gir omverdenen sikkerhet for at virksomheten arbeider seriøst med å redusere sin påvirkning på det ytre miljøet. Miljøsertifisering innebærer at virksomheten følger standarder for oppbygging og oppfølging av miljøstyringssystemet. Eksempler er ordningen miljøfyrtån eller ISO-standarden.">
-  <properties
-      key="Engelsk navn"
-      value="Environmental certification"/>
-</archimate:BusinessService>

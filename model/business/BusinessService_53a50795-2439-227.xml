@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Tolk i helsetjenesten/tolk"
-    id="53a50795-2439-227"
-    documentation="Alle som har begrensede norskkunnskaper, har rett til tolk når de mottar helsetjenester. ">
-  <properties
-      key="Engelsk navn"
-      value="Health care interpreter"/>
-</archimate:BusinessService>

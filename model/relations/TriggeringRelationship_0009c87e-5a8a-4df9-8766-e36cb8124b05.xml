@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Feil eller endring"
+    id="0009c87e-5a8a-4df9-8766-e36cb8124b05">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_b8e449d6-ab3c-4b0a-b4d5-9b2d203e411e.xml#b8e449d6-ab3c-4b0a-b4d5-9b2d203e411e"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_0970a469-5939-492a-9c8f-cfa239bd8775.xml#0970a469-5939-492a-9c8f-cfa239bd8775"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HelseID"
+    id="6d869969-8974-4a9d-98e0-3550a0d05e06">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_e9afe9a7-d9cb-4b49-894c-6e7655638d28.xml#e9afe9a7-d9cb-4b49-894c-6e7655638d28"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_355b82d1-edad-4c13-a449-4355d8a64273.xml#355b82d1-edad-4c13-a449-4355d8a64273"/>
+</archimate:FlowRelationship>

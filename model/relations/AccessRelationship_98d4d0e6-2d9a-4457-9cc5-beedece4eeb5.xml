@@ -5,7 +5,7 @@
     accessType="2">
   <source
       xsi:type="archimate:BusinessProcess"
-      href="BusinessProcess_3b66fba0-6095-453f-a8ad-513f9944d75d.xml#3b66fba0-6095-453f-a8ad-513f9944d75d"/>
+      href="BusinessProcess_20d35a54-fa56-4bb0-be57-f5bfca8e689a.xml#20d35a54-fa56-4bb0-be57-f5bfca8e689a"/>
   <target
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_5fe0882e-52b8-4bb5-b2b9-2b4816bae5f3.xml#5fe0882e-52b8-4bb5-b2b9-2b4816bae5f3"/>

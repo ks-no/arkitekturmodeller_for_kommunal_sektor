@@ -1,9 +1,0 @@
-<archimate:Capability
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Innbyggerrelasjon"
-    id="7184d8c6-cfbe-4667-9838-6fa487735e88"
-    documentation="Evnen til å levere tjenester gjennom en god dialog med innbygger.">
-  <properties
-      key="Nivå"
-      value="1"/>
-</archimate:Capability>

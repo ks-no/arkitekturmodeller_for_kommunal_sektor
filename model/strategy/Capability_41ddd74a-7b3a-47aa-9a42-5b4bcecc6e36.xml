@@ -1,12 +1,10 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Håndtering av materiell"
+    name="Ressursstyring"
     id="41ddd74a-7b3a-47aa-9a42-5b4bcecc6e36"
-    documentation="Er denne del av innkjøp og vareforsyning? Gjelder ikke medisinsk materiell&#xD;&#xA;&#xD;&#xA;Evnen til å forvalte, drifte og vedlikeholde ikke-medisinsk materiell, samt lokalisere og ha kontroll på bruk av dette.">
+    documentation="Evnen til å anskaffe, forvalte, utnytte og rapportere ressursbruk.">
   <properties
-      key="Nivå"
-      value="2"/>
+      key="Nivå"/>
   <properties
-      key="Kilde"
-      value="Nasjonal IKT"/>
+      key="Kilde"/>
 </archimate:Capability>

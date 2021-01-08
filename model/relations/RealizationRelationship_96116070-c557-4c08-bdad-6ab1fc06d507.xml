@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kommentar til faktura"
+    id="96116070-c557-4c08-bdad-6ab1fc06d507">
+  <source
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_84a0ffe2-c4fc-443f-8dcf-feced956984a.xml#84a0ffe2-c4fc-443f-8dcf-feced956984a"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_09e86563-09cf-40da-95ca-ec0ef1424db1.xml#09e86563-09cf-40da-95ca-ec0ef1424db1"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Har avtale"
+    id="fa46110f-b034-4a60-a761-c199461125ca">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_d1988fc7-2c6e-4ecb-a29f-c304680367a6.xml#d1988fc7-2c6e-4ecb-a29f-c304680367a6"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_a19ec321-6880-496d-8f80-2fb65f9e0bb3.xml#a19ec321-6880-496d-8f80-2fb65f9e0bb3"/>
+</archimate:AssociationRelationship>
