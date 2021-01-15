@@ -543,12 +543,12 @@
       targetConnections="ecfa004b-1184-4add-a528-f5c8f4b5fb80 f94fa7a1-2ff8-4fff-800b-c6dc58451fb8 d2cd4799-6b24-44ca-99f6-152256ad4071 084cdbc0-aea0-4e72-a158-898b9a40ad16 9357b4e1-06b2-47f3-8dcb-dfe54fc63baa 9527cbb0-373c-4d0f-9ea9-6196a80bc6fe">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="6da071ad-927c-44be-9de7-5ad6c93685ad"
+        id="2d5df7ab-bf62-487e-85ce-cb0452a83f6c"
         source="54d03242-14da-4a8b-a1a7-bf04d92a281e"
-        target="ba56ff77-57d0-492d-8753-67e0346ec545">
+        target="4ebf2e39-39f6-4f26-b8e3-9e6e6fa1bbd2">
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_35eeca6a-aef1-4458-94af-47beb2c6244b.xml#35eeca6a-aef1-4458-94af-47beb2c6244b"/>
+          href="RealizationRelationship_ceded2dc-5157-48df-ba9e-d8f806ada0ca.xml#ceded2dc-5157-48df-ba9e-d8f806ada0ca"/>
     </sourceConnections>
     <bounds
         x="625"
@@ -950,19 +950,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="ba56ff77-57d0-492d-8753-67e0346ec545"
-      targetConnections="6da071ad-927c-44be-9de7-5ad6c93685ad">
-    <bounds
-        x="636"
-        y="24"
-        width="157"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Capability"
-        href="Capability_6280cc26-fc36-4664-90c1-95ad34df56a1.xml#6280cc26-fc36-4664-90c1-95ad34df56a1"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="ad0846ba-0bdd-4fa9-834f-ef046f0ead76">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -1047,5 +1034,18 @@
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_81b6140d-0c3c-4ea3-a0aa-8b1b580c046c.xml#81b6140d-0c3c-4ea3-a0aa-8b1b580c046c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="4ebf2e39-39f6-4f26-b8e3-9e6e6fa1bbd2"
+      targetConnections="2d5df7ab-bf62-487e-85ce-cb0452a83f6c">
+    <bounds
+        x="625"
+        y="24"
+        width="145"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_de388e4f-f198-40f4-8e9d-80fef9f9b37b.xml#de388e4f-f198-40f4-8e9d-80fef9f9b37b"/>
   </children>
 </archimate:ArchimateDiagramModel>
