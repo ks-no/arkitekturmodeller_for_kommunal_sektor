@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Angular"
+    id="e52d2321-713e-43da-be02-e18267bcf08b"
+    documentation="For å blokkere XSS-sikkerhetsfeil systematisk behandler AngularJS alle verdier i HTML og sensitive URL-bindinger som ikke-klarert som standard. Når du binder ikke-klarerte verdier, kjører AngularJS automatisk sikkerhetskontroller på dem (saniteringer, klarert URL-ressurs, avhengig av kontekst), eller kaster når det ikke kan garantere sikkerheten til resultatet. Denne oppførselen avhenger sterkt av sammenhenger: HTML kan renses, men mal-URL-er kan ikke for eksempel."/>

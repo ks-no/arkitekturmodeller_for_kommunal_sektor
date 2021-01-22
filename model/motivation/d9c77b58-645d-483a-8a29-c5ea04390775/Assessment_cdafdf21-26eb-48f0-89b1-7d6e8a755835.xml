@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Content spoofing"
+    id="cdafdf21-26eb-48f0-89b1-7d6e8a755835"
+    documentation="En motstander endrer innholdet slik at det inneholder noe annet enn hva den opprinnelige innholdsprodusenten hadde til hensikt, samtidig som den tilsynelatende kilden til innholdet ble uendret. Begrepet innholdsspoofing brukes oftest for å beskrive modifisering av nettsider som er vert for et mål for å vise motstanderens innhold i stedet for eierens innhold. Imidlertid kan alt innhold spoofes, inkludert innholdet i e-postmeldinger, filoverføringer eller innholdet i andre nettverkskommunikasjonsprotokoller. Innhold kan modifiseres ved kilden (f.eks. Modifisering av kildefilen for en webside) eller under transport (f.eks. Avlyssning og modifisering av en melding mellom avsender og mottaker). Vanligvis vil motstanderen forsøke å skjule det faktum at innholdet er modifisert, men i noen tilfeller, for eksempel ved utlegging av nettsteder, er dette ikke nødvendig. Spoofing av innhold kan føre til eksponering av skadelig programvare, økonomisk svindel (hvis innholdet regulerer økonomiske transaksjoner), brudd på personvern og andre uønskede resultater.">
+  <properties
+      key="Angrepsmønster"
+      value="https://capec.mitre.org/data/definitions/148.html"/>
+</archimate:Assessment>

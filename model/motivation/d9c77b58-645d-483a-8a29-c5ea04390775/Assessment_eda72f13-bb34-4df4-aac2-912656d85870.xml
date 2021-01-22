@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identity spoofing"
+    id="eda72f13-bb34-4df4-aac2-912656d85870"
+    documentation="Identitetsspoofing refererer til handlingen med å anta (dvs. ta på seg) identiteten til en annen enhet (menneskelig eller ikke-menneskelig) og deretter bruke den identiteten til å oppnå et mål. En motstander kan lage meldinger som ser ut til å komme fra et annet prinsipp eller bruke stjålne / falske autentiseringsopplysninger. Alternativt kan en motstander fange opp en melding fra en legitim avsender og prøve å få det til å se ut som meldingen kommer fra dem uten å endre innholdet. Sistnevnte form for dette angrepet kan brukes til å kapre legitimasjon fra legitime brukere. Identity Spoofing-angrep trenger ikke være begrenset til overførte meldinger - enhver ressurs som er knyttet til en identitet (for eksempel en fil med en signatur) kan være målet for et angrep der motstanderen prøver å endre den tilsynelatende identiteten. Dette angrepet skiller seg fra Content Spoofing-angrep der motstanderen ikke ønsker å endre den tilsynelatende identiteten til meldingen, men i stedet ønsker å endre hva meldingen sier. I et Identity Spoofing-angrep prøver motstanderen å endre identiteten til innholdet.&#xD;&#xA;">
+  <properties
+      key="Angrepsmønster"
+      value="https://capec.mitre.org/data/definitions/151.html"/>
+</archimate:Assessment>

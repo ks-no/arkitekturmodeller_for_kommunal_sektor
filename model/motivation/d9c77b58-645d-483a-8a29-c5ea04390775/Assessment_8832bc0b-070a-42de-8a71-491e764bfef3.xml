@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource location spoofing"
+    id="8832bc0b-070a-42de-8a71-491e764bfef3"
+    documentation="En motstander lurer en applikasjon eller bruker og overbeviser dem om å be om en ressurs fra et utilsiktet sted. Ved å forfalske stedet kan motstanderen føre til at det brukes en alternativ ressurs, ofte en som motstanderen kontrollerer, og kan brukes til å hjelpe dem med å nå sine ondsinnede mål.">
+  <properties
+      key="Angrepsmønster"
+      value="https://capec.mitre.org/data/definitions/154.html"/>
+</archimate:Assessment>
