@@ -16,8 +16,8 @@
           href="RealizationRelationship_1d299a6d-1c3d-41de-9320-aee5c8d1cc1a.xml#1d299a6d-1c3d-41de-9320-aee5c8d1cc1a"/>
     </sourceConnections>
     <bounds
-        x="912"
-        y="228"
+        x="720"
+        y="144"
         width="157"
         height="61"/>
     <archimateElement
@@ -39,7 +39,7 @@
     </sourceConnections>
     <bounds
         x="300"
-        y="228"
+        y="137"
         width="157"
         height="61"/>
     <archimateElement
@@ -59,8 +59,8 @@
           href="RealizationRelationship_b0cb52d5-a1c2-4faa-9512-4db1412e1b6c.xml#b0cb52d5-a1c2-4faa-9512-4db1412e1b6c"/>
     </sourceConnections>
     <bounds
-        x="648"
-        y="228"
+        x="504"
+        y="137"
         width="157"
         height="61"/>
     <archimateElement
@@ -72,8 +72,8 @@
       id="1112227a-bce8-4da5-8dfc-412e37aa2644"
       targetConnections="ecdacc84-6e0c-47e4-a04a-ae99a8572ff0">
     <bounds
-        x="648"
-        y="103"
+        x="504"
+        y="12"
         width="157"
         height="55"/>
     <archimateElement
@@ -93,8 +93,8 @@
           href="CompositionRelationship_d6df61de-3c86-4233-9f11-2c6df519fd82.xml#d6df61de-3c86-4233-9f11-2c6df519fd82"/>
     </sourceConnections>
     <bounds
-        x="900"
-        y="96"
+        x="708"
+        y="12"
         width="169"
         height="92"/>
     <children
@@ -120,7 +120,7 @@
       targetConnections="686fdd11-3fec-46c4-85bc-1309acb3978c 19bc93bb-0f48-4967-9e6f-b4258b1e2f90">
     <bounds
         x="216"
-        y="103"
+        y="12"
         width="240"
         height="55"/>
     <archimateElement
@@ -142,7 +142,7 @@
     </sourceConnections>
     <bounds
         x="216"
-        y="348"
+        y="257"
         width="120"
         height="55"/>
     <archimateElement
@@ -164,7 +164,7 @@
     </sourceConnections>
     <bounds
         x="-60"
-        y="228"
+        y="137"
         width="157"
         height="61"/>
     <archimateElement
@@ -185,7 +185,7 @@
     </sourceConnections>
     <bounds
         x="72"
-        y="348"
+        y="257"
         width="120"
         height="55"/>
     <archimateElement
@@ -206,7 +206,7 @@
     </sourceConnections>
     <bounds
         x="-60"
-        y="348"
+        y="257"
         width="120"
         height="55"/>
     <archimateElement
@@ -227,7 +227,7 @@
     </sourceConnections>
     <bounds
         x="-204"
-        y="348"
+        y="257"
         width="120"
         height="55"/>
     <archimateElement
@@ -239,7 +239,7 @@
       id="242f04c3-ca11-40c2-8980-13d745e946e7">
     <bounds
         x="360"
-        y="348"
+        y="257"
         width="120"
         height="55"/>
     <archimateElement
@@ -260,7 +260,7 @@
     </sourceConnections>
     <bounds
         x="216"
-        y="432"
+        y="341"
         width="120"
         height="61"/>
     <archimateElement
@@ -272,7 +272,7 @@
       id="1fd4b2b1-b2cd-4012-8c8f-ee8f2fc86bc0">
     <bounds
         x="360"
-        y="432"
+        y="341"
         width="120"
         height="61"/>
     <archimateElement
@@ -284,7 +284,7 @@
       id="ea169c6e-d156-4d76-ad73-a3bb307b4826">
     <bounds
         x="667"
-        y="360"
+        y="269"
         width="120"
         height="55"/>
     <archimateElement
@@ -295,10 +295,10 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="b980d2d7-3ca8-45b9-ab48-e5dd884d8a1e">
     <bounds
-        x="52"
-        y="453"
-        width="120"
-        height="55"/>
+        x="59"
+        y="341"
+        width="122"
+        height="61"/>
     <archimateElement
         xsi:type="archimate:Product"
         href="Product_f5c6c6be-5b2b-4a7f-80e4-1d490804e6f9.xml#f5c6c6be-5b2b-4a7f-80e4-1d490804e6f9"/>
