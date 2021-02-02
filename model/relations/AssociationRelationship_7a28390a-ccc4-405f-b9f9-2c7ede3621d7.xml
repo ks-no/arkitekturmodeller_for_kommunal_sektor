@@ -1,12 +1,11 @@
-<archimate:ServingRelationship
+<archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bekrefter"
-    id="id-e393090d35e541f5ad0999660db05a3f">
+    id="7a28390a-ccc4-405f-b9f9-2c7ede3621d7">
   <source
-      xsi:type="archimate:BusinessService"
-      href="BusinessService_id-3fb90dc148954cbcbab39cd8235e2eae.xml#id-3fb90dc148954cbcbab39cd8235e2eae"/>
+      xsi:type="archimate:Contract"
+      href="Contract_98d475fb-6cb1-4239-a567-5f3306f219f9.xml#98d475fb-6cb1-4239-a567-5f3306f219f9"/>
   <target
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_id-21c398ea36b146018b745480380a9104.xml#id-21c398ea36b146018b745480380a9104"/>
-</archimate:ServingRelationship>
+</archimate:AssociationRelationship>
