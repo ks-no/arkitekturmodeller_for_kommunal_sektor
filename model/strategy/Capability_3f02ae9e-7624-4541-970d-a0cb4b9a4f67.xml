@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Informasjonsforvaltning"
     id="3f02ae9e-7624-4541-970d-a0cb4b9a4f67"
-    documentation="Evnen til å forbedre kvaliteten og verdien på informasjonseiendelene gjennom å definere, beskrive, organisere, integrere, dele, beskytte, kontrollere og styre data og informasjon for å oppnå organisasjonens mål. Dette inkluderer utarbeidelse og oppsyn med program, planer, retningslinjer og praksis.&#xD;&#xA;Kapabiliteten omfatter følgende:&#xD;&#xA;Informasjonsstyring&#xD;&#xA;Forvaltning av begrepene og dataenes definisjoner (ordbøker) og livssyklus&#xD;&#xA;Håndtering av datasikkerhet&#xD;&#xA;Informasjonsarkitektur, -design og forvaltning&#xD;&#xA;Håndtering av datalager og datavarehus&#xD;&#xA;Håndtering av grunndata (masterdata) og referansedata&#xD;&#xA;Håndtering av dataintegrasjon og interoperabilitet&#xD;&#xA;Innholds- og dokumenthåndtering">
+    documentation="Evnen til å forbedre kvaliteten og verdien på informasjonseiendelene gjennom å definere, beskrive, organisere, integrere, dele, beskytte, kontrollere og styre data og informasjon for å oppnå organisasjonens mål. Dette inkluderer utarbeidelse og oppsyn med program, planer, retningslinjer og praksis. Kapabiliteten omfatter følgende:&#xD;&#xA;- Informasjonsstyring&#xD;&#xA;- Forvaltning av begrepene og dataenes definisjoner (ordbøker) og livssyklus&#xD;&#xA;- Håndtering av datasikkerhet&#xD;&#xA;- Informasjonsarkitektur, -design og forvaltning&#xD;&#xA;- Håndtering av datalager og datavarehus&#xD;&#xA;- Håndtering av grunndata (masterdata) og referansedata&#xD;&#xA;- Håndtering av dataintegrasjon og interoperabilitet&#xD;&#xA;- Innholds- og dokumenthåndtering">
   <properties
       key="Kilde"
       value="Nasjonal IKT"/>

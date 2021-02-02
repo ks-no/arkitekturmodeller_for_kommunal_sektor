@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Delbetaling - utsettelse - endre antall terminer"
+    id="b2929d92-a6f1-4852-a1e4-14b01d663a8a">
+  <source
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_b38af33f-78e0-459e-b1f6-a3daa4765255.xml#b38af33f-78e0-459e-b1f6-a3daa4765255"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_2a9a32a8-3d1e-4dc1-bb4c-bd89c952aee6.xml#2a9a32a8-3d1e-4dc1-bb4c-bd89c952aee6"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sektoransvar"
+    id="7df8bf78-9c5b-40fa-a2b6-b3935bf4eee7">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_52db7205-9b1a-49c0-8d68-d874f6cce1d9.xml#52db7205-9b1a-49c0-8d68-d874f6cce1d9"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_7c445d93-a7d6-4efc-b043-23f9b19568e0.xml#7c445d93-a7d6-4efc-b043-23f9b19568e0"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inngår avtale med"
+    id="d63370ac-aa6d-479e-92e3-6f2e403345be">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_52db7205-9b1a-49c0-8d68-d874f6cce1d9.xml#52db7205-9b1a-49c0-8d68-d874f6cce1d9"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_33fbafc5-800f-4edf-8549-ded89a17e70c.xml#33fbafc5-800f-4edf-8549-ded89a17e70c"/>
+</archimate:AssignmentRelationship>

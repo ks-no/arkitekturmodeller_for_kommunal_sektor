@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Har"
+    id="a5904ac1-403f-4359-9c71-21cb877521a1">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_b04a0a26-4365-4172-974a-0d96e56866f9.xml#b04a0a26-4365-4172-974a-0d96e56866f9"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_f330173b-f937-4ce1-9687-747a9555e412.xml#f330173b-f937-4ce1-9687-747a9555e412"/>
+</archimate:AssignmentRelationship>

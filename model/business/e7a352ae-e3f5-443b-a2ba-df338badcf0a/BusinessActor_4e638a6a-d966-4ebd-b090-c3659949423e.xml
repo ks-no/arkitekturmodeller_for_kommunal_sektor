@@ -1,0 +1,10 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Virksomhet"
+    id="4e638a6a-d966-4ebd-b090-c3659949423e"
+    documentation="Virksomhet er betegnelser for en juridisk person eller en organisasjon som produserer varer eller tjenester. En skiller mellom private og offentlige virksomheter, kommersielle, ikke-kommersielle og ideelle.">
+  <properties
+      key="Sist oppdatert"/>
+  <properties
+      key="SIst oppdatert av"/>
+</archimate:BusinessActor>
