@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilgangsstyring"
+    id="26828549-2732-40e3-9b55-218643a845a8"
+    documentation="Autentisering&#xD;&#xA;Autorisasjon&#xD;&#xA;Sporbarhet&#xD;&#xA;Inputvalidering&#xD;&#xA;Beskyttelse av data i ro&#xD;&#xA;Beskuttelse av data i bevegelse"/>
