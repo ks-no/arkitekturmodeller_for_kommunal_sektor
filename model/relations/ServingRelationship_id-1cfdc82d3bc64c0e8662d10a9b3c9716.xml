@@ -1,7 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Godkjenner"
+    name="Godkjente brudefolk"
     id="id-1cfdc82d3bc64c0e8662d10a9b3c9716">
   <source
       xsi:type="archimate:BusinessService"
