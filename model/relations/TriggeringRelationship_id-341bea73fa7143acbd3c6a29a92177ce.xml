@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ved positiv prøve"
+    id="id-341bea73fa7143acbd3c6a29a92177ce">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-189a963a80a14b18bf299d805659d154.xml#id-189a963a80a14b18bf299d805659d154"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_20d35a54-fa56-4bb0-be57-f5bfca8e689a.xml#20d35a54-fa56-4bb0-be57-f5bfca8e689a"/>
+</archimate:TriggeringRelationship>
