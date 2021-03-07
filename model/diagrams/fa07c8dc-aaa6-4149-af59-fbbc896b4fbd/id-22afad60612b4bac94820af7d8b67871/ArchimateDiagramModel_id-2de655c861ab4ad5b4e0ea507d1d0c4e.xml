@@ -1032,15 +1032,16 @@
           href="CompositionRelationship_id-8a9da2c5f3544eba823015a6c34c50c3.xml#id-8a9da2c5f3544eba823015a6c34c50c3"/>
     </sourceConnections>
     <bounds
+        x="-12"
         y="480"
-        width="539"
+        width="551"
         height="97"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="9cb26112-344d-4780-900a-53d9f9b9cac2"
         targetConnections="9605ed90-6b65-4ffb-a3c1-2fabd1436b1e id-cd7b5064f67f4754b12291912dc0060e">
       <bounds
-          x="396"
+          x="408"
           y="24"
           width="120"
           height="55"/>
@@ -1053,7 +1054,7 @@
         id="56dc589d-a645-4ba4-8834-b5f78b35fda3"
         targetConnections="59a48d98-eb6e-4c39-83aa-afe6678f84d0 id-03591ef89edd4631949dab83c226d157">
       <bounds
-          x="263"
+          x="275"
           y="24"
           width="120"
           height="55"/>
@@ -1066,7 +1067,7 @@
         id="fa99ed25-8a24-41ba-a40e-4f8f3262e09d"
         targetConnections="40997964-875d-47ac-9941-8a98fcf9f74d id-0cde44fdfd874623a0bf3390acf883a8">
       <bounds
-          x="132"
+          x="144"
           y="24"
           width="120"
           height="55"/>
@@ -1107,6 +1108,7 @@
             href="AssociationRelationship_1d445f22-0533-4585-b14f-dcfa9c193285.xml#1d445f22-0533-4585-b14f-dcfa9c193285"/>
       </sourceConnections>
       <bounds
+          x="12"
           y="24"
           width="120"
           height="55"/>
@@ -1117,5 +1119,17 @@
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-e8f3a2c46f63436296c03c9a573e835c.xml#id-e8f3a2c46f63436296c03c9a573e835c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="e3555b22-081c-4439-8373-aadaf7aca076">
+    <bounds
+        x="552"
+        y="483"
+        width="224"
+        height="91"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_c806550c-8e62-455e-9b06-ac97a78c98c0.xml#c806550c-8e62-455e-9b06-ac97a78c98c0"/>
   </children>
 </archimate:ArchimateDiagramModel>
