@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prøvedato for reisende"
+    id="a59223c2-e674-49bf-b4e2-7bc56afe3b91">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_f7d74553-7700-4eb4-bd68-8252d1466d16.xml#f7d74553-7700-4eb4-bd68-8252d1466d16"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_f7ee386c-a4d4-489f-acee-b0b14e4c19cb.xml#f7ee386c-a4d4-489f-acee-b0b14e4c19cb"/>
+</archimate:FlowRelationship>
