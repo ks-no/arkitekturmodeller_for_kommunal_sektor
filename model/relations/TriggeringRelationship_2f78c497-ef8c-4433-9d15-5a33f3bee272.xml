@@ -1,6 +1,7 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vigselmyndighet"
     id="2f78c497-ef8c-4433-9d15-5a33f3bee272">
   <source
       xsi:type="archimate:BusinessProcess"
