@@ -149,9 +149,6 @@
           id="b8e11d63-89e6-41e3-9442-288cd044323e"
           targetConnections="1c01a3a5-0338-4999-a72d-037454a49ecd"
           alpha="64">
-        <features
-            name="lineAlpha"
-            value="64"/>
         <bounds
             x="72"
             y="276"
@@ -228,9 +225,6 @@
           id="a9ab4aad-568e-45cc-badf-6000cdd75ebd"
           targetConnections="b9b8e439-eb4a-4a9f-932b-650f77180ec6"
           alpha="64">
-        <features
-            name="lineAlpha"
-            value="64"/>
         <bounds
             x="551"
             y="276"
@@ -258,9 +252,6 @@
           id="62076944-57a2-4916-a304-caec6b054320"
           targetConnections="d0c63527-d735-4060-9f37-c2fd885fe717"
           alpha="64">
-        <features
-            name="lineAlpha"
-            value="64"/>
         <bounds
             x="71"
             y="576"
@@ -275,9 +266,6 @@
           id="a46b56b0-0f62-4f5c-a35f-94940e693d47"
           targetConnections="d8a1ed9a-7997-47ca-bca1-82bf6180d062"
           alpha="64">
-        <features
-            name="lineAlpha"
-            value="64"/>
         <bounds
             x="551"
             y="420"
@@ -323,9 +311,6 @@
           id="12fe40d0-0da5-453b-a0f4-ef93972c5942"
           targetConnections="2e83e59e-4b1e-4c18-b4f9-ac05465ab64d"
           alpha="64">
-        <features
-            name="lineAlpha"
-            value="64"/>
         <bounds
             x="71"
             y="420"
@@ -340,9 +325,6 @@
           id="74ae8986-346d-4a99-bb65-3c4a73b614aa"
           targetConnections="e68df68c-19fe-42c8-8d7e-9a108c12dc4f"
           alpha="64">
-        <features
-            name="lineAlpha"
-            value="64"/>
         <bounds
             x="71"
             y="204"
@@ -357,9 +339,6 @@
           id="b5d464e2-b18b-4bf9-884d-d1af42fb9b5f"
           targetConnections="eec5035b-26ca-4fc7-b9a3-f3fe0b196c6c"
           alpha="64">
-        <features
-            name="lineAlpha"
-            value="64"/>
         <bounds
             x="71"
             y="132"
