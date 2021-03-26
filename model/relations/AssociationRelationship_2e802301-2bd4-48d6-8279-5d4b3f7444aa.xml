@@ -1,12 +1,11 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="fysisk tilstede"
-    id="id-2990d88620c84a3ab69a386d78f3a0d6">
+    id="2e802301-2bd4-48d6-8279-5d4b3f7444aa">
   <source
-      xsi:type="archimate:BusinessRole"
-      href="BusinessRole_020d4049-ce2f-49fd-9978-0359f8cd351f.xml#020d4049-ce2f-49fd-9978-0359f8cd351f"/>
-  <target
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_id-21c398ea36b146018b745480380a9104.xml#id-21c398ea36b146018b745480380a9104"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_23a5e3b2-da99-4b9c-98a4-2ac4be113007.xml#23a5e3b2-da99-4b9c-98a4-2ac4be113007"/>
 </archimate:AssociationRelationship>
