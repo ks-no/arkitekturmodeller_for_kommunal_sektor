@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bruker har HelseID"
+    id="14378d43-f2bc-4264-81fd-eae5bde3fdb8">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_278c0bcb-e1dd-446b-90d3-bf62c46734b1.xml#278c0bcb-e1dd-446b-90d3-bf62c46734b1"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_7c632a3b-4b98-49f6-baf7-845110c530a8.xml#7c632a3b-4b98-49f6-baf7-845110c530a8"/>
+</archimate:AssociationRelationship>

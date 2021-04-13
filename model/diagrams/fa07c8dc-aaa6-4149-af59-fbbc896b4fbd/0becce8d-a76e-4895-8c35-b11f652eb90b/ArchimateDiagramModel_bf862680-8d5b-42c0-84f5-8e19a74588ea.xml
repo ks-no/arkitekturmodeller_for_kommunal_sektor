@@ -689,15 +689,6 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_a1fc9ed3-2241-4bfd-9464-9c90bf61ec93.xml#a1fc9ed3-2241-4bfd-9464-9c90bf61ec93"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="fd3d7a13-3dc1-4bbf-90cf-3dbfe59772df"
-        source="1a292717-e98c-4289-9153-3b541956a159"
-        target="6d3b0c04-edbf-4002-90bb-692a5748c118">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_59b79812-2980-49c4-8f96-75d2c8f41d19.xml#59b79812-2980-49c4-8f96-75d2c8f41d19"/>
-    </sourceConnections>
     <bounds
         x="1165"
         y="207"
@@ -749,7 +740,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="6d3b0c04-edbf-4002-90bb-692a5748c118"
-      targetConnections="fd3d7a13-3dc1-4bbf-90cf-3dbfe59772df a975f7e2-004f-4c90-99ae-824d1aefcb85 511d56c7-8804-4008-9dfe-db9dfcd66ad3">
+      targetConnections="a975f7e2-004f-4c90-99ae-824d1aefcb85 511d56c7-8804-4008-9dfe-db9dfcd66ad3">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="40e3d777-9e59-4f17-bb33-6491b413a3eb"
@@ -775,7 +766,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="56c825d8-540f-45ae-a361-c15eb01cd2a5"
-      targetConnections="e23f3236-3a34-46e7-b8b2-638c6bcb0519 893fae71-8ebb-4c74-9021-a31333dbba63 aad5ac21-4e07-4357-a942-5ab5c292b09d">
+      targetConnections="893fae71-8ebb-4c74-9021-a31333dbba63 aad5ac21-4e07-4357-a942-5ab5c292b09d">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="039190c0-9e09-471a-9eff-2f11cd08240e"
@@ -864,15 +855,6 @@
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_29096182-7f8c-4d60-9a3b-cae22b8446ea.xml#29096182-7f8c-4d60-9a3b-cae22b8446ea"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="e23f3236-3a34-46e7-b8b2-638c6bcb0519"
-        source="e48a28fd-5977-48bf-aaa4-dcac1ddd0ec9"
-        target="56c825d8-540f-45ae-a361-c15eb01cd2a5">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_9e727bc9-c91e-44ff-819e-326dd8c15843.xml#9e727bc9-c91e-44ff-819e-326dd8c15843"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
