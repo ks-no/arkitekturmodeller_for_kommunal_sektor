@@ -1,6 +1,7 @@
 <archimate:CompositionRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Er ansvarlig for"
     id="0ea0957e-8df5-4cd9-abf7-87f4b813673d">
   <source
       xsi:type="archimate:ApplicationComponent"

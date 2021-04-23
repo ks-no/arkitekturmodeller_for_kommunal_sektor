@@ -1,7 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="tilbyr"
+    name="Tilbyr API"
     id="7178a19f-7e9b-498a-b7fc-0d43640a1326">
   <source
       xsi:type="archimate:ApplicationInterface"
