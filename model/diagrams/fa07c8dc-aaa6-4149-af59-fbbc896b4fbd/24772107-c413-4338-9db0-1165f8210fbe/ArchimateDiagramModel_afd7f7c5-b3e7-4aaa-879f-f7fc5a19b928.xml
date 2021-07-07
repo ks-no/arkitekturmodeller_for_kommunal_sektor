@@ -6,10 +6,11 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="dd2cc0a5-2756-49af-b4e8-efb4ec99a68e"
+      textAlignment="1"
       content="Økosystem og samhandling"
       textPosition="1">
     <bounds
-        x="1280"
+        x="780"
         y="360"
         width="1201"
         height="37"/>
@@ -18,7 +19,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="98d1b143-5623-40d3-8a3b-6a58a5151383">
     <bounds
-        x="1880"
+        x="1380"
         y="420"
         width="601"
         height="103"/>
@@ -30,7 +31,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="e38b127f-8b01-4984-87a3-dad569b8e7b7">
     <bounds
-        x="1280"
+        x="780"
         y="596"
         width="561"
         height="121"/>
@@ -42,7 +43,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="b34b601c-377e-4c21-a092-9546afcfe4e0">
     <bounds
-        x="1880"
+        x="1380"
         y="596"
         width="601"
         height="121"/>
@@ -54,7 +55,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="72852fe0-6e97-48ed-8128-9b42b4af2a27">
     <bounds
-        x="1880"
+        x="1380"
         y="800"
         width="601"
         height="121"/>
@@ -66,7 +67,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="86ae7088-3dda-4944-8c22-2b1ed346d601">
     <bounds
-        x="1280"
+        x="780"
         y="800"
         width="561"
         height="121"/>
@@ -78,7 +79,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="bbea1396-09bb-47ad-b1c7-3145bc4ee047">
     <bounds
-        x="1280"
+        x="780"
         y="420"
         width="561"
         height="103"/>
@@ -89,10 +90,11 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="e2e57348-6b4d-4274-a41a-570a69c7f0ee"
+      textAlignment="1"
       content="Identitet og semantikk"
       textPosition="1">
     <bounds
-        x="1280"
+        x="780"
         y="540"
         width="1201"
         height="37"/>
@@ -100,9 +102,10 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="3699456b-137d-4768-b625-289fdfd9cec5"
+      textAlignment="1"
       content="Teknologi, infrastruktur og integrasjon">
     <bounds
-        x="1280"
+        x="780"
         y="740"
         width="1201"
         height="37"/>
