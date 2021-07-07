@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datautveksling"
+    id="2c6b3886-9a9f-4d13-8953-d75b5c9ca828"
+    documentation="Evnen til å utveksle data og dokumenter internt i organisasjon, på tvers av systemer eller med eksterne samarbeidspartnere. Denne kapabiliteten er tett koblet til og utnytter egenskaper ved kapabilitetene Integrasjonsforvaltning og Informasjonsforvaltning.&#xA;&#xA;Kapabiliteten omfatter følgende:&#xA;&#xA;Dokumentlager og forvaltning av tilganger i henhold til IHE XDS&#xA;Publisering og drift av grensesnitt for utveksling av strukturerte data i henhold til etablerte standarder slik som HL7 FHIR&#xA;Transformasjon (mapping) fra og til systemspesifike informasjonsmodeller til standardiserte utvekslingsformat&#xA;  "/>
