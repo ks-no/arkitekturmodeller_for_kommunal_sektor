@@ -563,15 +563,4 @@
       </children>
     </children>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="157743ff-bb10-400c-a270-e8040058c8f8"
-      textAlignment="1"
-      content="ØKOSYSTEM">
-    <bounds
-        x="262"
-        y="72"
-        width="185"
-        height="49"/>
-  </children>
 </archimate:ArchimateDiagramModel>
