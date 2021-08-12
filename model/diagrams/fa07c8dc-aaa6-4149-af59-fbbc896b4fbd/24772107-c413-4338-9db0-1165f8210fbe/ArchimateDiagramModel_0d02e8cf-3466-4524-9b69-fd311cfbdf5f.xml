@@ -172,9 +172,6 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="cb4a7f0e-9598-4476-a7db-40f3fdb63872"
           alpha="128">
-        <features
-            name="lineAlpha"
-            value="128"/>
         <bounds
             x="828"
             y="39"
