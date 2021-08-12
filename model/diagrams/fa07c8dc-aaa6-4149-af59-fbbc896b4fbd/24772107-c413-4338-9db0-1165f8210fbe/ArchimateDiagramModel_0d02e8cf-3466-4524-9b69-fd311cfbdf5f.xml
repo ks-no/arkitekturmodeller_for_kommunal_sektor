@@ -28,6 +28,9 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="9c132725-90fd-4e93-aeb3-2b206347246f"
           alpha="128">
+        <features
+            name="lineAlpha"
+            value="128"/>
         <bounds
             x="792"
             y="36"
@@ -53,6 +56,9 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="64ffab85-20ce-4f6a-b6bc-ae9328b7a6ee"
           alpha="128">
+        <features
+            name="lineAlpha"
+            value="128"/>
         <bounds
             x="588"
             y="36"
@@ -172,6 +178,9 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="cb4a7f0e-9598-4476-a7db-40f3fdb63872"
           alpha="128">
+        <features
+            name="lineAlpha"
+            value="128"/>
         <bounds
             x="828"
             y="39"
