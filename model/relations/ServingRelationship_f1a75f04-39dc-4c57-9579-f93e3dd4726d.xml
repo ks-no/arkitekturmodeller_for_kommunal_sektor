@@ -1,6 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="hensikt"
     id="f1a75f04-39dc-4c57-9579-f93e3dd4726d">
   <source
       xsi:type="archimate:ApplicationService"
