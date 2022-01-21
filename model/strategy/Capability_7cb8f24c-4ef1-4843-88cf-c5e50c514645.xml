@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informasjonsforvaltning"
+    id="7cb8f24c-4ef1-4843-88cf-c5e50c514645"
+    documentation="Evnen til å oversikt over data virksomheten håndterer, betydningen av data og hvem som har tilgang til data. Omfatter også evenen til å prosessere, sammenstille og analysere data på en slik måte at data støtter opp om styring og videreutvikling av kjernevirksomheten.&#xA;&#xA;Kapabiliteten omfatter følgende:&#xA;&#xA;Informasjonsstyring&#xA;Forvaltning av semantikk. Herunder begrep, informasjonsmodeller og format&#xA;Informasjonsarkitektur, -design og forvaltning&#xA;Håndtering av datalager og datavarehus&#xA;Håndtering av grunndata&#xA;Innholds- og dokumenthåndtering&#xA;Forvaltning og innføring av rutiner og retningsliner for håndtering av datakilder og data&#xA;&#xA;"/>
