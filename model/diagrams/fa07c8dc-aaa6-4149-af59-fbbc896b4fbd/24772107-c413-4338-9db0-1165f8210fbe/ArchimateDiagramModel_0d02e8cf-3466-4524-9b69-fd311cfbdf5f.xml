@@ -12,7 +12,7 @@
     <bounds
         x="73"
         y="504"
-        width="1080"
+        width="1068"
         height="469"/>
     <children
         xsi:type="archimate:DiagramModelGroup"
@@ -426,7 +426,7 @@
     <bounds
         x="840"
         y="1008"
-        width="313"
+        width="301"
         height="213"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -450,7 +450,7 @@
     <bounds
         x="72"
         y="24"
-        width="1081"
+        width="1069"
         height="233"/>
     <children
         xsi:type="archimate:DiagramModelGroup"
@@ -545,7 +545,7 @@
       <bounds
           x="732"
           y="36"
-          width="313"
+          width="301"
           height="181"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -690,7 +690,7 @@
     <bounds
         x="852"
         y="276"
-        width="301"
+        width="289"
         height="205"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
