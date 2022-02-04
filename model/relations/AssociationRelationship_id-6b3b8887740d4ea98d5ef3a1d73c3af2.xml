@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Er registrert i"
+    id="id-6b3b8887740d4ea98d5ef3a1d73c3af2">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-2c6098f5318347deb106dc167ba29819.xml#id-2c6098f5318347deb106dc167ba29819"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-63719ce896274612a15ea62a356c6580.xml#id-63719ce896274612a15ea62a356c6580"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Autoriserer"
+    id="id-26a4c75cb0264a8497d8e1361c446511">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-2d592c4105e54bf2b6c8cd7e7476af97.xml#id-2d592c4105e54bf2b6c8cd7e7476af97"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-f62e44d65c93404a8b4ecc4fe2a22833.xml#id-f62e44d65c93404a8b4ecc4fe2a22833"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kontrollerer"
+    id="id-a60d08abc38e42d2a0f969e5b3ba2357">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-cff995e7b4a542398c7898645a2ea60e.xml#id-cff995e7b4a542398c7898645a2ea60e"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-e59273be64a6432eae3c161cb665d85b.xml#id-e59273be64a6432eae3c161cb665d85b"/>
+</archimate:AssociationRelationship>

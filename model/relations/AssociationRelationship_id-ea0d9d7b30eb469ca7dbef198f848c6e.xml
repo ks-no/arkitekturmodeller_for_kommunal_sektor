@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forvalter, drifter og vedlikeholder"
+    id="id-ea0d9d7b30eb469ca7dbef198f848c6e">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-394ea9af7a3547a5b4b686f7d81fca0c.xml#id-394ea9af7a3547a5b4b686f7d81fca0c"/>
+  <target
+      xsi:type="archimate:ApplicationCollaboration"
+      href="ApplicationCollaboration_id-a392e659bb7346ebaa6784239ea326b1.xml#id-a392e659bb7346ebaa6784239ea326b1"/>
+</archimate:AssociationRelationship>

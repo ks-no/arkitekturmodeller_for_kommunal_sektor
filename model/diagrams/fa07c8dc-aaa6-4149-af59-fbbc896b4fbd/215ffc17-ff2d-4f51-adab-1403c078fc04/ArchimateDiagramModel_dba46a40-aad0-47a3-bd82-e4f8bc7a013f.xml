@@ -26,8 +26,8 @@
           href="ServingRelationship_3776397b-95e5-4bdf-9cc2-414abd6279f2.xml#3776397b-95e5-4bdf-9cc2-414abd6279f2"/>
     </sourceConnections>
     <bounds
-        x="216"
-        y="636"
+        x="108"
+        y="264"
         width="457"
         height="313"/>
     <children
@@ -143,8 +143,8 @@
           href="AccessRelationship_bf0faddd-e126-46b9-81b3-e6a73e08db62.xml#bf0faddd-e126-46b9-81b3-e6a73e08db62"/>
     </sourceConnections>
     <bounds
-        x="732"
-        y="636"
+        x="624"
+        y="264"
         width="409"
         height="277"/>
     <children
@@ -203,8 +203,8 @@
           href="CompositionRelationship_d4328269-6558-41ee-a8ac-6a5184d58b69.xml#d4328269-6558-41ee-a8ac-6a5184d58b69"/>
     </sourceConnections>
     <bounds
-        x="216"
-        y="432"
+        x="108"
+        y="60"
         width="505"
         height="179"/>
     <children

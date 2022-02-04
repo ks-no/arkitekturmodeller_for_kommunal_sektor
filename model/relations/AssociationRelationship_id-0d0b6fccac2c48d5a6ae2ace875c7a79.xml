@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leverer"
+    id="id-0d0b6fccac2c48d5a6ae2ace875c7a79">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-550e8473d1c545a99f54c76540fcd702.xml#id-550e8473d1c545a99f54c76540fcd702"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-1bf8954bfdfe4aee9e41c91cd7c71b80.xml#id-1bf8954bfdfe4aee9e41c91cd7c71b80"/>
+</archimate:AssociationRelationship>

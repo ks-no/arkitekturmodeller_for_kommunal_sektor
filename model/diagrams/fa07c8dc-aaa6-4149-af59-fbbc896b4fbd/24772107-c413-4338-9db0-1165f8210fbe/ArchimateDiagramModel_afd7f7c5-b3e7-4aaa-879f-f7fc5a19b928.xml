@@ -10,8 +10,8 @@
       content="Økosystem og samhandling"
       textPosition="1">
     <bounds
-        x="780"
-        y="360"
+        x="24"
+        y="36"
         width="1201"
         height="37"/>
   </children>
@@ -19,8 +19,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="98d1b143-5623-40d3-8a3b-6a58a5151383">
     <bounds
-        x="1380"
-        y="420"
+        x="624"
+        y="96"
         width="601"
         height="103"/>
     <archimateElement
@@ -31,8 +31,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="e38b127f-8b01-4984-87a3-dad569b8e7b7">
     <bounds
-        x="780"
-        y="596"
+        x="24"
+        y="272"
         width="561"
         height="121"/>
     <archimateElement
@@ -43,8 +43,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="b34b601c-377e-4c21-a092-9546afcfe4e0">
     <bounds
-        x="1380"
-        y="596"
+        x="624"
+        y="272"
         width="601"
         height="121"/>
     <archimateElement
@@ -55,8 +55,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="72852fe0-6e97-48ed-8128-9b42b4af2a27">
     <bounds
-        x="1380"
-        y="800"
+        x="624"
+        y="476"
         width="601"
         height="121"/>
     <archimateElement
@@ -67,8 +67,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="86ae7088-3dda-4944-8c22-2b1ed346d601">
     <bounds
-        x="780"
-        y="800"
+        x="24"
+        y="476"
         width="561"
         height="121"/>
     <archimateElement
@@ -79,8 +79,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="bbea1396-09bb-47ad-b1c7-3145bc4ee047">
     <bounds
-        x="780"
-        y="420"
+        x="24"
+        y="96"
         width="561"
         height="103"/>
     <archimateElement
@@ -94,8 +94,8 @@
       content="Identitet og semantikk"
       textPosition="1">
     <bounds
-        x="780"
-        y="540"
+        x="24"
+        y="216"
         width="1201"
         height="37"/>
   </children>
@@ -105,8 +105,8 @@
       textAlignment="1"
       content="Teknologi, infrastruktur og integrasjon">
     <bounds
-        x="780"
-        y="740"
+        x="24"
+        y="416"
         width="1201"
         height="37"/>
   </children>
