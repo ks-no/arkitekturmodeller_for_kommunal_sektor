@@ -48,6 +48,11 @@
         id="id-dd13b4a88ff2438e8de4669d426d062c"
         source="id-5522b321c66c49d19c1bfb92575069b8"
         target="id-d7bfc456bd274ff8a4bca5e09e6e2162">
+      <bendpoints
+          startX="-156"
+          startY="1"
+          endX="24"
+          endY="-159"/>
       <archimateRelationship
           xsi:type="archimate:AssignmentRelationship"
           href="AssignmentRelationship_id-fc0c6702fb9044549013bb3fa098a5e4.xml#id-fc0c6702fb9044549013bb3fa098a5e4"/>
@@ -529,8 +534,8 @@
       id="id-d7bfc456bd274ff8a4bca5e09e6e2162"
       targetConnections="id-dd13b4a88ff2438e8de4669d426d062c">
     <bounds
-        x="204"
-        y="420"
+        x="96"
+        y="264"
         width="120"
         height="55"/>
     <archimateElement
