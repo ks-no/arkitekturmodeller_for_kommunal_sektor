@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="kan klage til"
+    id="id-aa909e70bc6d44df98d9aaf464feea87">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-eae33ffcd2e24e89a65954568aca193a.xml#id-eae33ffcd2e24e89a65954568aca193a"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_4fd2021b-c840-45dc-981b-537d9a96463e.xml#4fd2021b-c840-45dc-981b-537d9a96463e"/>
+</archimate:AssociationRelationship>

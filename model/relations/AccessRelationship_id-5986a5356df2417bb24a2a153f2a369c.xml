@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bruk av Fiks"
+    id="id-5986a5356df2417bb24a2a153f2a369c">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-0ccc93e5098b46cc8f83897047f208f5.xml#id-0ccc93e5098b46cc8f83897047f208f5"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_id-651be59a7adf4e99a862ec57fe66de67.xml#id-651be59a7adf4e99a862ec57fe66de67"/>
+</archimate:AccessRelationship>

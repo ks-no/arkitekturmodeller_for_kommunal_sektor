@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Er kopi av"
+    id="id-0a6f5349833940a3b503d3b6015b31b9">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-322c584f317d420383b1f69eeead6e31.xml#id-322c584f317d420383b1f69eeead6e31"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-63719ce896274612a15ea62a356c6580.xml#id-63719ce896274612a15ea62a356c6580"/>
+</archimate:AssociationRelationship>

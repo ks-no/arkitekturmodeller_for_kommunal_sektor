@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oppslag og uttrekk"
+    id="id-5801776943574b798b2d30da62717796">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-474324807d5147529edec5b3ccabbb73.xml#id-474324807d5147529edec5b3ccabbb73"/>
+  <target
+      xsi:type="archimate:ApplicationCollaboration"
+      href="ApplicationCollaboration_id-bad027aeca81470a9f97cb70a680ef80.xml#id-bad027aeca81470a9f97cb70a680ef80"/>
+</archimate:AssociationRelationship>
