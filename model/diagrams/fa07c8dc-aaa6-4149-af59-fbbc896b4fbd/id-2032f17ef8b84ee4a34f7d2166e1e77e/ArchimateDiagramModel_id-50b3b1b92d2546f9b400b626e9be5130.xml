@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Skatt og inntekt"
+    name="Mønster"
     id="id-50b3b1b92d2546f9b400b626e9be5130">
   <children
       xsi:type="archimate:DiagramModelGroup"
