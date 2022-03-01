@@ -319,8 +319,8 @@
       id="0c07dac2-3bdb-4c2d-863d-cc293eebca4c"
       type="1">
     <bounds
-        x="1092"
-        y="198"
+        x="984"
+        y="262"
         width="120"
         height="55"/>
     <archimateElement
@@ -361,8 +361,8 @@
       id="3edd47b2-50fc-41ab-ade5-1829b336f3b4"
       type="1">
     <bounds
-        x="1092"
-        y="324"
+        x="984"
+        y="388"
         width="120"
         height="55"/>
     <archimateElement
@@ -374,8 +374,8 @@
       id="9f072a0a-be8e-495e-88d3-2b65f19b7740"
       type="1">
     <bounds
-        x="1092"
-        y="260"
+        x="984"
+        y="324"
         width="120"
         height="55"/>
     <archimateElement
@@ -400,8 +400,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="3a1241bf-7b4f-46d7-9803-346d7fcec93e">
     <bounds
-        x="1810"
-        y="96"
+        x="984"
+        y="194"
         width="120"
         height="55"/>
     <archimateElement
@@ -804,7 +804,7 @@
       textAlignment="1"
       content="Komponenter som ikke er med i produktkø fra planfasen, men antar skal leveres">
     <bounds
-        x="1068"
+        x="960"
         y="101"
         width="185"
         height="80"/>
