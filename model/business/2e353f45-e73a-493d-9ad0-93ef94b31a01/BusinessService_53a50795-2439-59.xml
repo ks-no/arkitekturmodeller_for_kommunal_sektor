@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Fosterhjem"
-    id="53a50795-2439-59"
-    documentation="Et fosterhjem er et privat hjem som tar imot barn og unge til oppfostring i kortere eller lengre tid. Medregnet fosterhjemsavtale, økonomiske vilkår m.m.">
-  <properties
-      key="Engelsk navn"
-      value="Foster home"/>
-</archimate:BusinessService>

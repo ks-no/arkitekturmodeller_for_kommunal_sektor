@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Elbil"
-    id="53a50795-2439-39"
-    documentation="Utbygging av ladestasjoner, miljørabatter på bomstasjoner og parkering, tilskudd til ladestasjoner i borettslag og annet.">
-  <properties
-      key="Engelsk navn"
-      value="Electric vehicle"/>
-</archimate:BusinessService>

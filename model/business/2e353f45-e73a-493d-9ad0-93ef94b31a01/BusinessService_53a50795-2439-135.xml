@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Luftkvalitet"
-    id="53a50795-2439-135"
-    documentation="Vrakpant, Tiltak og tilskudd til tiltak som skal begrense forurensning.">
-  <properties
-      key="Engelsk navn"
-      value="Air quality"/>
-</archimate:BusinessService>

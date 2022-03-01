@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Motorferdsel i utmark"
-    id="53a50795-2439-148"
-    documentation="Med motorferdsel menes bruk av kjøretøy og båt eller annen flytende eller flyvende motordrevet fartøy. Det inkluderer også landing og start med motordrevne luftfartøy. Med utmark menes udyrket mark. I praksis vil det si mesteparten av strender, svaberg, vann, myr, hei, skog og fjell. Kommunen regulerer bruk av motorferdsel i utmark.">
-  <properties
-      key="Engelsk navn"
-      value="Off-road driving"/>
-</archimate:BusinessService>

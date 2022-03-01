@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Jordmor og svangerskapsomsorg"
-    id="53a50795-2439-103"
-    documentation="Svangerskapskontroll på helsestasjonen er et tilbud til gravide for å bidra til god helse under svangerskapet. Kommunen tilbyr helseundersøkelser, veiledning, opplysningsvirksomhet samt samlivs- og foreldreveiledning.">
-  <properties
-      key="Engelsk navn"
-      value="Prenatal care"/>
-</archimate:BusinessService>

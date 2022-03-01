@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Skolehelsetjeneste"
-    id="53a50795-2439-190"
-    documentation="Tilbud om helsetjenester til alle skoleelever under 20 år. Gir råd og veiledning, gjennomfører helseundersøkelser og vaksinasjoner og kan, ved behov, henvise videre til annen helsepersonell som fastlege, tannlege eller til spesialist. Har også som oppgave å fremme godt lærings- og arbeidsmiljø for elevene. Kommunen er ansvarlig for tjenesten.">
-  <properties
-      key="Engelsk navn"
-      value="School health service"/>
-</archimate:BusinessService>

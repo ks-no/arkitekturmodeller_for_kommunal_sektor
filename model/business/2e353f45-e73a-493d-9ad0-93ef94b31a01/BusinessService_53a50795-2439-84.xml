@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Helse og eldre"
-    id="53a50795-2439-84"
-    documentation="Kommunale midler som skal støtte lag, foreninger og organisasjoner til å drive aktiviteter rettet mot folkehelse og eldre.">
-  <properties
-      key="Engelsk navn"
-      value="Funding for health and the elderly"/>
-</archimate:BusinessService>

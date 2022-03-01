@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ferie og fridager"
-    id="53a50795-2439-51"
-    documentation="Oversikt over kommunens planlagte fridager og ferier for skolene.">
-  <properties
-      key="Engelsk navn"
-      value="School holidays"/>
-</archimate:BusinessService>

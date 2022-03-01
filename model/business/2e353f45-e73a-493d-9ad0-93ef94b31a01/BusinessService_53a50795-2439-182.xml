@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Rådgivning og kurs"
-    id="53a50795-2439-182"
-    documentation="Tjenester og tilbud til pårørende eller til de som midlertidig eller varig trenger støtte eller avlastning.">
-  <properties
-      key="Engelsk navn"
-      value="Consultation and courses"/>
-</archimate:BusinessService>

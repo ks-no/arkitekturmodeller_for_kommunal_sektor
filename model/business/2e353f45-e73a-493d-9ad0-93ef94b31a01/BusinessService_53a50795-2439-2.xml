@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Akuttovernatting"
-    id="53a50795-2439-2"
-    documentation="Akuttovernatting for bostedsløse tilreisende.">
-  <properties
-      key="Engelsk navn"
-      value="Emergency shelter for homeless migrants"/>
-</archimate:BusinessService>

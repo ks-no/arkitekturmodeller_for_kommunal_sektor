@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Reguleringsplan"
-    id="53a50795-2439-175"
-    documentation="En reguleringsplan er en politisk vedtatt plan over et avgrenset område. Reguleringsplanen fastsetter hvordan området kan brukes og hva som kan bygges der. Planen består av et kart med reguleringsbestemmelser.">
-  <properties
-      key="Engelsk navn"
-      value="Municipal zone plan"/>
-</archimate:BusinessService>

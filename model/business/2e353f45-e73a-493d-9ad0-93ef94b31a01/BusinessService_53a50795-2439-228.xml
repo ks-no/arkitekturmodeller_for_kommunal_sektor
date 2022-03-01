@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Trafikkinformasjon"
-    id="53a50795-2439-228"
-    documentation="Informasjon om vei og trafikkforhold.">
-  <properties
-      key="Engelsk navn"
-      value="Traffic information"/>
-</archimate:BusinessService>

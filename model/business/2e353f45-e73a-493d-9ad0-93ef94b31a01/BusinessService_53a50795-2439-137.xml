@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Lånekort"
-    id="53a50795-2439-137"
-    documentation="Lånekortet brukes for å identifisere den som låner og til å registrere utlån på biblioteket.">
-  <properties
-      key="Engelsk navn"
-      value="Library card"/>
-</archimate:BusinessService>

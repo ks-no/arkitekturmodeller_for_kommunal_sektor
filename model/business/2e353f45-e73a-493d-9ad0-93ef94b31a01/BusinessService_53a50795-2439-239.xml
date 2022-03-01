@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Vannforurensning"
-    id="53a50795-2439-239"
-    documentation="Skader på elver, sjøer og havvann pga. utslipp fra industri, kloakk, landbruk m.m.">
-  <properties
-      key="Engelsk navn"
-      value="Water pollution"/>
-</archimate:BusinessService>

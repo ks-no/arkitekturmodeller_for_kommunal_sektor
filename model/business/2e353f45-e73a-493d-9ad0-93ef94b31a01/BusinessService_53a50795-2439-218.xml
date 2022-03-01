@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Tilrettelagt transport"
-    id="53a50795-2439-218"
-    documentation="En tjeneste for funksjonshemmede som er avhengig av dør-til-dør-transport. TT-ordningen gir mulighet til å delta i aktiviteter i nærmiljøet.">
-  <properties
-      key="Engelsk navn"
-      value="Transport services for disabled persons"/>
-</archimate:BusinessService>

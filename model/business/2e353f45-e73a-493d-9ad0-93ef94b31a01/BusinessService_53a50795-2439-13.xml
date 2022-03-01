@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Betaling av skatt"
-    id="53a50795-2439-13"
-    documentation="Alle som mottar lønn, pensjon eller uføretrygd må betale skatt til stat og kommune.">
-  <properties
-      key="Engelsk navn"
-      value="Tax payment"/>
-</archimate:BusinessService>

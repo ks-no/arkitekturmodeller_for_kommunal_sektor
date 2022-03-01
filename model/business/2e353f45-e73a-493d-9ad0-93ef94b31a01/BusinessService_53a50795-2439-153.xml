@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Næringsområder "
-    id="53a50795-2439-153"
-    documentation="Næringsparker og andre samlinger av bedrifter som kan ha nytte av å være lokalisert eller gruppert sammen.">
-  <properties
-      key="Engelsk navn"
-      value="Commercial centres"/>
-</archimate:BusinessService>

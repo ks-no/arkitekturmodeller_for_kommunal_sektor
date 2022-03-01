@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Deling av eiendom"
-    id="53a50795-2439-33"
-    documentation="Ved deling av en eiendom blir det opprettet en ny selvstendig eiendom med eget gårdsnummer og bruksnummer.">
-  <properties
-      key="Engelsk navn"
-      value="Division of property"/>
-</archimate:BusinessService>

@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Grunnskoleopplæring"
-    id="53a50795-2439-81"
-    documentation="Grunnskolen går fra 1.-10 trinn og er en gratis og obligatorisk opplæring for alle bosatt i Norge.">
-  <properties
-      key="Engelsk navn"
-      value="Primary and lower secondary education"/>
-</archimate:BusinessService>

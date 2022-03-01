@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Konsesjon/boplikt"
-    id="53a50795-2439-114"
-    documentation="Kommunen ønsker å legge til rette for levende lokalsamfunn og sikre bosettingen ved at boligeiendommer i størst mulig grad benyttes som helårsboliger. Ved kjøp av en bolig i et område med boplikt, er man forpliktet til å bo der. For å bli fritatt fra boplikten kan man søke om konsesjon.">
-  <properties
-      key="Engelsk navn"
-      value="Residence obligation and concessions"/>
-</archimate:BusinessService>

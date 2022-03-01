@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Personlig assistent"
-    id="53a50795-2439-166"
-    documentation="Praktisk og personlig bistand for personer med nedsatt funksjonsevne og omfattende behov for bistand i dagliglivet, både i og utenfor hjemmet. ">
-  <properties
-      key="Engelsk navn"
-      value="Personal assistant"/>
-</archimate:BusinessService>

@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bibliotektjenester"
-    id="53a50795-2439-16"
-    documentation="Bibliotektjenester omfatter lån av medier, lesing og studier, men er også en møteplass og sosial arena og lokale for kulturarrangementer. Biblioteket skal være gratis for alle. Formålet er å arbeide for opplysning, utdanning og annen kulturell virksomhet.">
-  <properties
-      key="Engelsk navn"
-      value="Library services"/>
-</archimate:BusinessService>

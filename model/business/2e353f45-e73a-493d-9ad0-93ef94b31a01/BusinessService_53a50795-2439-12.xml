@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bekymringsmelding til barnevernet"
-    id="53a50795-2439-12"
-    documentation="Både privatpersoner og offentlige instanser kan melde fra til barnevernstjenesten om at et barn kan ha det vanskelig.">
-  <properties
-      key="Engelsk navn"
-      value="Reports to the child welfare service"/>
-</archimate:BusinessService>

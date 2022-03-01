@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Barnehage - innhold og kvalitet"
-    id="53a50795-2439-8"
-    documentation="Barnehagen skal ivareta barnas behov for omsorg og lek og fremme læring og danning som grunnlag for allsidig utvikling.">
-  <properties
-      key="Engelsk navn"
-      value="Kindergarten - content and quality"/>
-</archimate:BusinessService>

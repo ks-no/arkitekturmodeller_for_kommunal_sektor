@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Fysioterapi"
-    id="53a50795-2439-70"
-    documentation="En del av helsetilbudet til kommunen. Blir gitt i forbindelse med forebyggende helsearbeid og ved behandling av sykdom og skade. Omfatter manuell terapi. ">
-  <properties
-      key="Engelsk navn"
-      value="Physiotherapy"/>
-</archimate:BusinessService>

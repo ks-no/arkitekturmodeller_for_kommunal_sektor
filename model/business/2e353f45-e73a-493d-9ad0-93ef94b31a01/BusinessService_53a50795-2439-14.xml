@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Betalingssatser"
-    id="53a50795-2439-14"
-    documentation="Betaling for kommunale tjenester, som feiing, vann og avløpsgebyrer, søppeltømming, osv.">
-  <properties
-      key="Engelsk navn"
-      value="Payment rates"/>
-</archimate:BusinessService>

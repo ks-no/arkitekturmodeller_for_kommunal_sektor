@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Veterinær"
-    id="53a50795-2439-243"
-    documentation="Veterinærtjenester for landbruket.">
-  <properties
-      key="Engelsk navn"
-      value="Veterinarian"/>
-</archimate:BusinessService>

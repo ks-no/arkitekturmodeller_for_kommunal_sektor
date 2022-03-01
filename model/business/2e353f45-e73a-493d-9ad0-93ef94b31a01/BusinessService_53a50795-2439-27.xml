@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Brøyting"
-    id="53a50795-2439-27"
-    documentation="Snørydding og vintervedlikehold.">
-  <properties
-      key="Engelsk navn"
-      value="Snow clearing"/>
-</archimate:BusinessService>

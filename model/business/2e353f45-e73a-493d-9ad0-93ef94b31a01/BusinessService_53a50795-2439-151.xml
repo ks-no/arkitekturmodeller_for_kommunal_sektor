@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Nabovarsel"
-    id="53a50795-2439-151"
-    documentation="Den som skal bygge eller grave har plikt til å varsle naboer og gjenboere om tiltaket før det settes i gang. Naboer skal ha mulighet til å kvittere når de ikke har noen merknader, eller protestere. Kommunen kan frita søkeren for varsling eller utvide varslingsplikten, avhengig av tiltaket.">
-  <properties
-      key="Engelsk navn"
-      value="Notice to neighbours"/>
-</archimate:BusinessService>

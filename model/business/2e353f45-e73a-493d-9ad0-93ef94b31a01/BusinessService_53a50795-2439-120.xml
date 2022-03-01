@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kulturmidler"
-    id="53a50795-2439-120"
-    documentation="Kommunalt eller fylkeskommunalt tilskudd til kulturarbeid, som for eksempel oppstartingstilskudd, prosjektmidler, kulturstipend, festivalstøtte og kunstnerstipend.">
-  <properties
-      key="Engelsk navn"
-      value="Cultural funding"/>
-</archimate:BusinessService>

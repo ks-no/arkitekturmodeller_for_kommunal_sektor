@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Privat avkjørsel/vei"
-    id="53a50795-2439-171"
-    documentation="En avkjørsel er området mellom en offentlig vei og privat eiendom. Kommune gir tillatelse til bygge eller flytte en avkjørsel fra kommunal vei.">
-  <properties
-      key="Engelsk navn"
-      value="Private exits"/>
-</archimate:BusinessService>

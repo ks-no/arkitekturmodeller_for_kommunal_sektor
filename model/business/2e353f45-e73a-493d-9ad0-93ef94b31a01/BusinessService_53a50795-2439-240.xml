@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Vassdrag"
-    id="53a50795-2439-240"
-    documentation="Kommunens arbeid med forvaltning av vassdrag og informasjon til grunneiere.">
-  <properties
-      key="Engelsk navn"
-      value="Waterways"/>
-</archimate:BusinessService>
