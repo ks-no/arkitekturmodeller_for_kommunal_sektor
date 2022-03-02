@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Festival"
-    id="53a50795-2439-53"
-    documentation="Større arrangementer rundt et hovedemne, f.eks. kulturelt eller idrettslig.">
-  <properties
-      key="Engelsk navn"
-      value="Festivals"/>
-</archimate:BusinessService>

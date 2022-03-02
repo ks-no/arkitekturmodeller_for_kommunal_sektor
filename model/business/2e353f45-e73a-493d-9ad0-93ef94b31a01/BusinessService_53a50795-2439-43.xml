@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ernæring "
-    id="53a50795-2439-43"
-    documentation="Kosthold og kostholdsråd.">
-  <properties
-      key="Engelsk navn"
-      value="Nutrition"/>
-</archimate:BusinessService>

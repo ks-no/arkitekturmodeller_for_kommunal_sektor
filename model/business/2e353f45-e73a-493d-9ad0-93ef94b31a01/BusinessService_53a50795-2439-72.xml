@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gangvei"
-    id="53a50795-2439-72"
-    documentation="Kommunen utvikler og vedlikeholder gangveier og sykkelstier.">
-  <properties
-      key="Engelsk navn"
-      value="Footpath"/>
-</archimate:BusinessService>

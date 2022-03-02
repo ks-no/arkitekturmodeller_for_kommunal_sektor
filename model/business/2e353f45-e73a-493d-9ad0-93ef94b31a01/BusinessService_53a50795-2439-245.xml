@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Videregående skole for voksne"
-    id="53a50795-2439-245"
-    documentation="Voksne som har fullført grunnskolen eller tilsvarende, men som ikke har fullført videregående skole, har etter søknad rett til videregående opplæring fra og med det året de fyller 25 år.">
-  <properties
-      key="Engelsk navn"
-      value="Upper secondary education for adults"/>
-</archimate:BusinessService>

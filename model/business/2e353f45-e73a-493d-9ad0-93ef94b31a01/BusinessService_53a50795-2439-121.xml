@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kulturminner"
-    id="53a50795-2439-121"
-    documentation="Kulturminner kan være gravhauger, offerplasser, dyregraver og bautasteiner. Kulturminner kan befinne seg på land eller under vann. Fylkeskommunen eller sametinget gir tillatelser til tiltak på eiendommer med kulturminner.">
-  <properties
-      key="Engelsk navn"
-      value="Cultural heritage "/>
-</archimate:BusinessService>

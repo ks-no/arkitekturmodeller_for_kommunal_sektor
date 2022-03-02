@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Benyttes av"
+    id="id-f9ad98beecab4fe7bab166efd08fb377">
+  <source
+      xsi:type="archimate:ApplicationCollaboration"
+      href="ApplicationCollaboration_id-690ee4c5118c40538b8b3505b6af236a.xml#id-690ee4c5118c40538b8b3505b6af236a"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-6141feb01a1d41739d0a25f32ab48e19.xml#id-6141feb01a1d41739d0a25f32ab48e19"/>
+</archimate:ServingRelationship>

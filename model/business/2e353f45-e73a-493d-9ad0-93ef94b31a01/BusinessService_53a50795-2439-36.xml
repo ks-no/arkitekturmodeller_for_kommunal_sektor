@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Eiendomsskatt"
-    id="53a50795-2439-36"
-    documentation="Eiendomsskatt er en kommunal skatt som skrives ut av eiendomsskattekontoret i den enkelte kommune som har valgt å innføre eiendomsskatt.">
-  <properties
-      key="Engelsk navn"
-      value="Property tax"/>
-</archimate:BusinessService>

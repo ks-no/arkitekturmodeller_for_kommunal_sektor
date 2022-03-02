@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Plantedyrking"
-    id="53a50795-2439-169"
-    documentation="Tilskudd og tilrettelegging for plantekasser, parsellhager o.l.">
-  <properties
-      key="Engelsk navn"
-      value="Plant cultivation"/>
-</archimate:BusinessService>

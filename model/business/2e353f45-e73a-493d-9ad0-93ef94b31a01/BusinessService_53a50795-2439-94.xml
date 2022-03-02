@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Hjemmeundervisning"
-    id="53a50795-2439-94"
-    documentation="Foreldre kan velge å undervise sine egne barn, men opplæringen skal inneholde det samme som opplæringen på en skole. Kommunen fører tilsyn med hjemmeundervisningen.">
-  <properties
-      key="Engelsk navn"
-      value="Home schooling"/>
-</archimate:BusinessService>

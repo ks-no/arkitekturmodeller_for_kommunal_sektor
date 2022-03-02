@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Eiendomsregister"
-    id="53a50795-2439-35"
-    documentation="Eiendomsregisteret (EDR) er det nasjonale registeret over alle faste eiendommer landet. EDR inneholder all informasjon fra grunnboka og GAB.">
-  <properties
-      key="Engelsk navn"
-      value="Property registration"/>
-</archimate:BusinessService>

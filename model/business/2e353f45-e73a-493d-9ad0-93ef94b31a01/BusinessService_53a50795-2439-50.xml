@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Feiing og strøing"
-    id="53a50795-2439-50"
-    documentation="Feiing og rydding av sand og grus, vårrengjøring av veier, strøing av sand og grus om vinteren.">
-  <properties
-      key="Engelsk navn"
-      value="Road sweeping and gritting"/>
-</archimate:BusinessService>

@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Returordninger"
-    id="53a50795-2439-180"
-    documentation="Gjenvinningsstasjoner og andre ordninger for mottak eller innsamling av avfall.">
-  <properties
-      key="Engelsk navn"
-      value="Recycling scheme"/>
-</archimate:BusinessService>

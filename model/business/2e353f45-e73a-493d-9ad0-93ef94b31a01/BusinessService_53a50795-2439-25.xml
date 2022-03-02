@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Brukermedvirkning i skolen"
-    id="53a50795-2439-25"
-    documentation="Brukermedvirkning omfatter hjem-skolesamarbeid og elevmedvirkning. Alle elever har rett til å medvirke og påvirke egen skolehverdag. Alle foreldre har rett til å medvirke gjennom råd og utvalg.">
-  <properties
-      key="Engelsk navn"
-      value="User involvement"/>
-</archimate:BusinessService>

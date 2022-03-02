@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Overgrep"
-    id="53a50795-2439-160"
-    documentation="Kommunen kan tilby beskyttelse og bistand ved vold og overgrep.">
-  <properties
-      key="Engelsk navn"
-      value="Abuse"/>
-</archimate:BusinessService>

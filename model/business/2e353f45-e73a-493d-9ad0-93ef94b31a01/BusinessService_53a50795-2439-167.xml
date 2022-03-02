@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Personvern"
-    id="53a50795-2439-167"
-    documentation="Personopplysningsloven inneholder rettigheter om personlige opplysninger. Det er ikke lov til å bruke informasjon om den enkelte uten at det blir gitt samtykke til at opplysningene kan brukes. Virksomheter skal sikre opplysningene.">
-  <properties
-      key="Engelsk navn"
-      value="Personal data protection"/>
-</archimate:BusinessService>

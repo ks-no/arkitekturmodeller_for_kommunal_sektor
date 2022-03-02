@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Forhåndskonferanse"
-    id="53a50795-2439-56"
-    documentation="Forhåndskonferanse er en ordning der tiltakshaver (byggherre) og kommunen kan møtes for å avklare forutsetninger for byggetiltaket og rammene for den videre saksbehandlingen.">
-  <properties
-      key="Engelsk navn"
-      value="Preliminary conference"/>
-</archimate:BusinessService>

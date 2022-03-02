@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Arbeidsgiveravgift"
-    id="53a50795-2439-3"
-    documentation="Arbeidsgiveravgift er en skatt som arbeidsgiver betaler.">
-  <properties
-      key="Engelsk navn"
-      value="Employer contributions"/>
-</archimate:BusinessService>

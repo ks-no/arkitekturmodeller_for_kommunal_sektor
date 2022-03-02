@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Produksjonstilskudd"
-    id="53a50795-2439-173"
-    documentation="Fellesbetegnelse for en rekke tilskuddsordninger i landbruket.">
-  <properties
-      key="Engelsk navn"
-      value="Produce grants"/>
-</archimate:BusinessService>

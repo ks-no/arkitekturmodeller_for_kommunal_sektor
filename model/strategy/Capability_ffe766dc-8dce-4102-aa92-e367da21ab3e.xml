@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Teknologiforvaltning"
+    id="ffe766dc-8dce-4102-aa92-e367da21ab3e"
+    documentation="Evnen til å planlegge, designe, drifte og forvalte infrastruktur, applikasjoner, instrumenter og kommunikasjonsutstyr slik at disse bidrar til å opprettholde og forbedre kvalitet på tjenesteleveranse av kjernevirksomhet.&#xA;&#xA;Kapabiliteten omfatter følgende:&#xA;&#xA;Ruting og orkestrering for IKT tjenester og applikasjoner i organisasjonen&#xA;Forvaltning og tilgang til kjøremiljø for applikasjoner&#xA;Overvåkning, varsling og analyse for infrastrukturkomponenter&#xA;Forvaltning og standardisering på byggekjeder for kode, dette punktet omfatter også støtte for ulike former for testing og produksjonssetting&#xA;Støtte for sentralisert logging for infrastruktur og applikasjoner. Retningslinjer og rutiner for håndtering av loggdata&#xA;  "/>

@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Reisegaranti"
-    id="53a50795-2439-178"
-    documentation="Reisegaranti gir rettigheter hvis buss, tog eller ferge ikke går. Det kan være refusjon, andre transportmidler eller dekning av drosjeutgifter.">
-  <properties
-      key="Engelsk navn"
-      value="Travel guarantee"/>
-</archimate:BusinessService>

@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Erstatningsordninger"
-    id="53a50795-2439-44"
-    documentation="Erstatning ved tap av avling.">
-  <properties
-      key="Engelsk navn"
-      value="Compensation schemes"/>
-</archimate:BusinessService>

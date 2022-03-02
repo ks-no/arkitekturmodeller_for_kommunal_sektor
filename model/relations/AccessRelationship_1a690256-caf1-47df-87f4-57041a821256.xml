@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rolle"
+    id="1a690256-caf1-47df-87f4-57041a821256">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_97c3efc0-c9a8-4806-9902-3df033b7fa43.xml#97c3efc0-c9a8-4806-9902-3df033b7fa43"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_1f4685bb-8323-4760-9c00-686de142ae0b.xml#1f4685bb-8323-4760-9c00-686de142ae0b"/>
+</archimate:AccessRelationship>

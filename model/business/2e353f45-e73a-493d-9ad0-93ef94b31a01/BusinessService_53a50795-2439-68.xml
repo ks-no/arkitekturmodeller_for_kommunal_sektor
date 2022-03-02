@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Fritidsutstyr"
-    id="53a50795-2439-68"
-    documentation="Utlån eller leie av utstyr, som for eksempel sykler, kjelker og lignende.">
-  <properties
-      key="Engelsk navn"
-      value="Recreational equipment"/>
-</archimate:BusinessService>

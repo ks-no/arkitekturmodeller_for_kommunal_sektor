@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Parkering"
-    id="53a50795-2439-161"
-    documentation="Parkeringstillatelser, parkeringsgebyr, regelverk for gateparkering, parkering for forflytningshemmede, klage på parkeringsbot, betaling av parkeringsbot.">
-  <properties
-      key="Engelsk navn"
-      value="Parking"/>
-</archimate:BusinessService>

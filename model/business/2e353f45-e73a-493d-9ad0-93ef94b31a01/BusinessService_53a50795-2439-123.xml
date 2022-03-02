@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kvalifiseringsprogram"
-    id="53a50795-2439-123"
-    documentation="Kvalifiseringsprogrammet er et tilbud fra Nav for personer som trenger tett og koordinert oppfølging over tid for å komme ut i arbeid.">
-  <properties
-      key="Engelsk navn"
-      value="Qualification Programme"/>
-</archimate:BusinessService>

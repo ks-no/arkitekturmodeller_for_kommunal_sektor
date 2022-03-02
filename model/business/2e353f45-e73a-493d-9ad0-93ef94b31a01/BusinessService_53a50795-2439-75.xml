@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gravemelding"
-    id="53a50795-2439-75"
-    documentation="Kommunen gir tillatelse til å grave i kommunale veier, parkområder og friområder.">
-  <properties
-      key="Engelsk navn"
-      value="Digging permission"/>
-</archimate:BusinessService>

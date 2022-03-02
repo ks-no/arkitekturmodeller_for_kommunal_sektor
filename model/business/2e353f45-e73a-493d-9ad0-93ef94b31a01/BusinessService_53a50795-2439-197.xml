@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Skoletilhørighet"
-    id="53a50795-2439-197"
-    documentation="Barn i skolealder blir delt inn i skolekretser. Elever har rett til å gå på den skolen de hører til. Kommunen kan beslutte bytte av skole etter søknad fra foresatte.">
-  <properties
-      key="Engelsk navn"
-      value="School districts"/>
-</archimate:BusinessService>

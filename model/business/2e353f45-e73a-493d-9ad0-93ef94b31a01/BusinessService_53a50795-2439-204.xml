@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Støtte til familier"
-    id="53a50795-2439-204"
-    documentation="Rådgivning eller forskjellige former for avlastning til familier som er sårbare og som trenger hjelp.">
-  <properties
-      key="Engelsk navn"
-      value="Fammily support"/>
-</archimate:BusinessService>

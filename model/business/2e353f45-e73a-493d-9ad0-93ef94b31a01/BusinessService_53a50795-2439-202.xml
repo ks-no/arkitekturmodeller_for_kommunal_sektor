@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Språkopplæring"
-    id="53a50795-2439-202"
-    documentation="Språkopplæring i skolen omfatter opplæring i norsk for minoritetsspråklige, opplæring i samisk, morsmålsopplæring eller tospråklig fagopplæring.">
-  <properties
-      key="Engelsk navn"
-      value="Language teaching"/>
-</archimate:BusinessService>

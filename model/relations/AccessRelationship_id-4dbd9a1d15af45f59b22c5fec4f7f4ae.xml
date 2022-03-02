@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inngår avtale"
+    id="id-4dbd9a1d15af45f59b22c5fec4f7f4ae">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-8b74a4004ebb4c60ac13234a0c8c43d8.xml#id-8b74a4004ebb4c60ac13234a0c8c43d8"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_id-651be59a7adf4e99a862ec57fe66de67.xml#id-651be59a7adf4e99a862ec57fe66de67"/>
+</archimate:AccessRelationship>

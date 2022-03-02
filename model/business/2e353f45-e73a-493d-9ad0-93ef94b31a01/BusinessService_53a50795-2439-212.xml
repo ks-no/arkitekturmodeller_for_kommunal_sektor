@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Tannhelsetjeneste"
-    id="53a50795-2439-212"
-    documentation="Helsetilbud tilrettelagt for å fremme god tannhelse hos innbyggerne. Prioriterte grupper får gratis behandling. Fylkeskommunen har ansvaret for den offentlige tannhelsetjenesten.">
-  <properties
-      key="Engelsk navn"
-      value="Dental health service"/>
-</archimate:BusinessService>

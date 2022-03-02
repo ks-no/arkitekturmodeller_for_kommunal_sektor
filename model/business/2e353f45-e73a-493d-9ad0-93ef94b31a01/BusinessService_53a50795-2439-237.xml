@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Valg"
-    id="53a50795-2439-237"
-    documentation="Avstemning for å velge ut personer til verv, stillinger og posisjoner. I Norge er det stortingsvalg og kommune- og fylkestingsvalg hvert fjerde år. Alle norske borgere som har fylt 18 år innen valgåret har stemmerett.">
-  <properties
-      key="Engelsk navn"
-      value="Election"/>
-</archimate:BusinessService>

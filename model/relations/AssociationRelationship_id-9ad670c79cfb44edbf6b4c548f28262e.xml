@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Benytter"
+    id="id-9ad670c79cfb44edbf6b4c548f28262e">
+  <source
+      xsi:type="archimate:ApplicationCollaboration"
+      href="ApplicationCollaboration_id-a392e659bb7346ebaa6784239ea326b1.xml#id-a392e659bb7346ebaa6784239ea326b1"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-af8dde7a1dc449b694425067ce49afdd.xml#id-af8dde7a1dc449b694425067ce49afdd"/>
+</archimate:AssociationRelationship>

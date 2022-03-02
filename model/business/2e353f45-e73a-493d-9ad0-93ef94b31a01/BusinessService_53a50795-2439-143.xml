@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Miljøsertifisering"
-    id="53a50795-2439-143"
-    documentation="Miljøfyrtån og andre sertifiseringer.">
-  <properties
-      key="Engelsk navn"
-      value="Environmental certification"/>
-</archimate:BusinessService>

@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Fysisk aktivitet "
-    id="53a50795-2439-71"
-    documentation="Tilbud om aktiviteter og livsstilsendringer.">
-  <properties
-      key="Engelsk navn"
-      value="Physical exercise"/>
-</archimate:BusinessService>

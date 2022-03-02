@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bruk av Fiks plattformen"
+    id="id-306b742807364076b8de60446c9baab6">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-8116ac1a9c7b4dd3ac627027e9487e7b.xml#id-8116ac1a9c7b4dd3ac627027e9487e7b"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_id-651be59a7adf4e99a862ec57fe66de67.xml#id-651be59a7adf4e99a862ec57fe66de67"/>
+</archimate:AssociationRelationship>

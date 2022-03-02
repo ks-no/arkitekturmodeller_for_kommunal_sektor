@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Legevakt"
-    id="53a50795-2439-129"
-    documentation="Kommunen har legevakt som dekker behovet for øyeblikkelig hjelp.">
-  <properties
-      key="Engelsk navn"
-      value="Accident and emergency unit"/>
-</archimate:BusinessService>

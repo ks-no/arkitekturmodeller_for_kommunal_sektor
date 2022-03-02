@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Heftelser på eiendom"
-    id="53a50795-2439-83"
-    documentation="Heftelser på en eiendom er en rettighet som begrenser grunneiers bruk av eiendommen. Boplikt, kulturminnevern eller reguleringsplaner er eksempler på typer heftelser.">
-  <properties
-      key="Engelsk navn"
-      value="Legal claims on property"/>
-</archimate:BusinessService>

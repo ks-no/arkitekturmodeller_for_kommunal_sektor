@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Innemiljø"
-    id="53a50795-2439-98"
-    documentation="Tilskudd, råd og veiledning om bedre innemiljø.">
-  <properties
-      key="Engelsk navn"
-      value="Indoor environment"/>
-</archimate:BusinessService>

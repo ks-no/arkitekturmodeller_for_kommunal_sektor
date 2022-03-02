@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leverer"
+    id="id-d714776ff9654aa1a718858f54c3a420">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-a7fdef5074ff45419d2e73a92bef118d.xml#id-a7fdef5074ff45419d2e73a92bef118d"/>
+  <target
+      xsi:type="archimate:ApplicationCollaboration"
+      href="ApplicationCollaboration_id-bad027aeca81470a9f97cb70a680ef80.xml#id-bad027aeca81470a9f97cb70a680ef80"/>
+</archimate:AssociationRelationship>

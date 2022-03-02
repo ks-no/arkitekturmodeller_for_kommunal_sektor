@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Fag- og yrkesopplæring"
-    id="53a50795-2439-47"
-    documentation="Opplæring innenfor et fag eller et yrke som gir kompetansebevis og/eller svennebrev.">
-  <properties
-      key="Engelsk navn"
-      value="Vocational education and training"/>
-</archimate:BusinessService>

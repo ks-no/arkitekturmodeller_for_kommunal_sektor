@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Eksamen"
-    id="53a50795-2439-38"
-    documentation="Eksamen kan være sentralt gitt fra Utdanningsdirektoratet eller lokalt gitt, og kan være skriftlig, muntlig eller praktisk. Fravær fra eksamen krever dokumentert gyldig fravær. Alle kan klage på sin eksamenskarakter.">
-  <properties
-      key="Engelsk navn"
-      value="Examination"/>
-</archimate:BusinessService>

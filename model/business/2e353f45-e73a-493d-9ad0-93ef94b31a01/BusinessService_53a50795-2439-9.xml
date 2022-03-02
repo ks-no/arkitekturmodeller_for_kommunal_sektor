@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Barnehageplass"
-    id="53a50795-2439-9"
-    documentation="Barnehagen er en pedagogisk tilrettelagt virksomhet for barn under opplæringspliktig alder. Felles søknadsskjema for kommunale og private barnehager.">
-  <properties
-      key="Engelsk navn"
-      value="Kindergarten place"/>
-</archimate:BusinessService>

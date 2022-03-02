@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Renovasjonsavgift"
-    id="53a50795-2439-179"
-    documentation="Avgift for søppeltømming for boligeiere eller næringsdrivende.">
-  <properties
-      key="Engelsk navn"
-      value="Waste management fees"/>
-</archimate:BusinessService>

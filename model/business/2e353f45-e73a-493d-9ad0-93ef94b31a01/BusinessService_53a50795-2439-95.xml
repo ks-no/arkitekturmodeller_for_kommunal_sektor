@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Idrettsanlegg"
-    id="53a50795-2439-95"
-    documentation="Anlegg som er tilrettelagt for idrettsaktiviteter.">
-  <properties
-      key="Engelsk navn"
-      value="Sports facilities"/>
-</archimate:BusinessService>

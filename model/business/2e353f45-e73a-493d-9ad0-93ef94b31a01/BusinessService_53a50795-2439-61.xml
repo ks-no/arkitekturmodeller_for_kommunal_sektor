@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Fredet eiendom"
-    id="53a50795-2439-61"
-    documentation="Kommunen kan beslutte at visse bygninger er bevaringsverdige, uten at de er blitt fredet av riksantikvaren. Selv om beslutningen ikke gir formelt vern, vil det ha betydning for bygge- og rivesaker.">
-  <properties
-      key="Engelsk navn"
-      value="Culturally protected property"/>
-</archimate:BusinessService>
