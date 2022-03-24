@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Fritidsaktiviteter"
-    id="53a50795-2439-65"
-    documentation="Fritidsaktiviteter for rusavhengige.">
-  <properties
-      key="Engelsk navn"
-      value="Recreational activities"/>
-</archimate:BusinessService>

@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Tro og livssyn"
-    id="53a50795-2439-229"
-    documentation="Kommunalt tilskudd til tros- og livssynssamfunn.">
-  <properties
-      key="Engelsk navn"
-      value="Religious and ethnic communities"/>
-</archimate:BusinessService>

@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Livskriser"
-    id="53a50795-2439-131"
-    documentation="Akutt psykologisk hjelp i en krisesituasjon. Tjenesten tilbyr samtale, rådgivning, hjelp til selvhjelp og  formidler kontakt med andre hjelpeinstanser.">
-  <properties
-      key="Engelsk navn"
-      value="Life crises"/>
-</archimate:BusinessService>

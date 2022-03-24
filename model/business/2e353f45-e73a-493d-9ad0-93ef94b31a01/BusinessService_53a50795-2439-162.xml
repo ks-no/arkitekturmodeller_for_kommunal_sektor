@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Pasientrettigheter"
-    id="53a50795-2439-162"
-    documentation="Pasient- og brukerrettighetsloven gir brukere av helsetjenester en rekke rettigheter, som valg av behandling, klage- og erstatningsmuligheter, innsyn, med mer.">
-  <properties
-      key="Engelsk navn"
-      value="Patient rights"/>
-</archimate:BusinessService>

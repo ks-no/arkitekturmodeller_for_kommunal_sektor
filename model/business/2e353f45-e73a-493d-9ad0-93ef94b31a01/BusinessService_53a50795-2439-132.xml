@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Livsmestring"
-    id="53a50795-2439-132"
-    documentation="Aktiviteter og ressurser som blir tilbudt rusavhengige, som arbeidstrening, helsesamtaler, gruppeaktiviteter, osv.">
-  <properties
-      key="Engelsk navn"
-      value="Coping with life"/>
-</archimate:BusinessService>

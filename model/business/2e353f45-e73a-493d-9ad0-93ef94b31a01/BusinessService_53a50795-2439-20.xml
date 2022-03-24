@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bolignummer"
-    id="53a50795-2439-20"
-    documentation="Alle boliger har i tillegg til adresse også et bolignummer. I hus med flere boenheter har hver enhet eget bolignummer. Disse skal også ha adressemerke med bolignummer som plasseres ved siden av døra.  Kommunen kan tildele bolignummer der de mangler.">
-  <properties
-      key="Engelsk navn"
-      value="Dwelling number"/>
-</archimate:BusinessService>

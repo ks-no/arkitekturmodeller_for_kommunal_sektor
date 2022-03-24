@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Dyrehold"
-    id="53a50795-2439-34"
-    documentation="Dyr som mennesker har for glede og trivsel, ikke for å produsere mat eller arbeidskraft.">
-  <properties
-      key="Engelsk navn"
-      value="Pet keeping"/>
-</archimate:BusinessService>

@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gravferd"
-    id="53a50795-2439-77"
-    documentation="Som regel er det de nærmeste etterlatte som har ansvaret for gravferden. Ved uenighet om hvem som skal sørge for gravferden, treffer kommunen avgjørelse. Dersom ingen sørger for gravferden, skal den besørges av kommunen der avdøde hadde sin bopel.">
-  <properties
-      key="Engelsk navn"
-      value="Funeral "/>
-</archimate:BusinessService>

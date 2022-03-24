@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Frivillighetssentral"
-    id="53a50795-2439-69"
-    documentation="Frivillighetssentraler er en møteplass som formidler kontakt mellom mennesker i lokalmiljøet. Målet er å samordne den frivillige innsatsen som privatpersoner og organisasjoner i kommunen utfører, og dermed fremme og styrke det frivillige arbeidet.">
-  <properties
-      key="Engelsk navn"
-      value="Volunteer centre"/>
-</archimate:BusinessService>

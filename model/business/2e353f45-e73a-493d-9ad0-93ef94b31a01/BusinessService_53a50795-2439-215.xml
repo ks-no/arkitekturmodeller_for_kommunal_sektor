@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Tilrettelagt arbeidstilbud"
-    id="53a50795-2439-215"
-    documentation="Kommunen kan tilby og koordinere tiltak slik at yrkeshemmede og utviklingshemmede som har arbeidsevne og kapasitet, skal få varig  og tilrettelagt arbeid etter endt utdanning.">
-  <properties
-      key="Engelsk navn"
-      value="Assisted job opportunities"/>
-</archimate:BusinessService>

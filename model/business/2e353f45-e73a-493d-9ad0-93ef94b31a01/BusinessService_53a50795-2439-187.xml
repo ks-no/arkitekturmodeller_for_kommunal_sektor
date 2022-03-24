@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Skogbruk"
-    id="53a50795-2439-187"
-    documentation="Tilskudd som forvaltes av kommunen eller fylkeskommunen.">
-  <properties
-      key="Engelsk navn"
-      value="Forestry"/>
-</archimate:BusinessService>

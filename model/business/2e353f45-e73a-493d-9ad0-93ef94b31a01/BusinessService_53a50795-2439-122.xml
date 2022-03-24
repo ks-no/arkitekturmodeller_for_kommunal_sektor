@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kulturtilbud"
-    id="53a50795-2439-122"
-    documentation="Tilbud innenfor musikk, dans og teater.">
-  <properties
-      key="Engelsk navn"
-      value="Cultural activities"/>
-</archimate:BusinessService>

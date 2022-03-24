@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Pedagogisk-psykologisk tjeneste"
-    id="53a50795-2439-163"
-    documentation="PP-tjenesten skal hjelpe barnehager og skoler med å legge til rette for barn og elever med særskilte behov. PP-tjenesten jobber også direkte med barn, elever, lærekandidater, lærlinger, praksisbrevkandidater og voksne elever. PP-tjenesten kan samarbeide med for eksempel helsetjenesten eller barneverntjenesten.">
-  <properties
-      key="Engelsk navn"
-      value="Educational and psychological counselling service"/>
-</archimate:BusinessService>

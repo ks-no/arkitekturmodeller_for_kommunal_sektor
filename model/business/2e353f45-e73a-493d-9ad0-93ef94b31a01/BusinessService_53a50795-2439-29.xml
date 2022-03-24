@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bålbrenning"
-    id="53a50795-2439-29"
-    documentation="Utendørs brenning eller brenning av avfall i småovner. Kommunen fastsetter lokale regler.">
-  <properties
-      key="Engelsk navn"
-      value="Bonfires"/>
-</archimate:BusinessService>

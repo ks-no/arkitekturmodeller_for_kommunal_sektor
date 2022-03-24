@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Elevrettigheter"
-    id="53a50795-2439-40"
-    documentation="Elevrettigheter er betegnelsen for de rettighetene som ligger i opplæringslova, forvaltningsloven, offentleglova, personopplysningsloven og forskrift om miljørettet helsevern. Det er kommunen og fylkeskommunen som er ansvarlige for elevenes rettigheter.">
-  <properties
-      key="Engelsk navn"
-      value="Pupil rights"/>
-</archimate:BusinessService>

@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Utdannings- og yrkesveiledning"
-    id="53a50795-2439-234"
-    documentation="Alle videregående skoler tilbyr rådgivning til utdanninger og yrker.">
-  <properties
-      key="Engelsk navn"
-      value="Educational and vocational guidance"/>
-</archimate:BusinessService>

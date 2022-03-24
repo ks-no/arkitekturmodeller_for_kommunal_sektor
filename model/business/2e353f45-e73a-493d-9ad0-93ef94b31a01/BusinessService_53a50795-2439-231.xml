@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Turløyper"
-    id="53a50795-2439-231"
-    documentation="En opparbeidet trasé for ferdsel til fots eller med sykkel, tilgjengelig for allmennheten og vedlikeholdt av kommunen eller en privat organisasjon.">
-  <properties
-      key="Engelsk navn"
-      value="Trails"/>
-</archimate:BusinessService>

@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Dagtilbud"
-    id="53a50795-2439-32"
-    documentation="Dagtilbud omfatter aktiviteter rettet mot hjemmeboende eldre, funksjonshemmede, rusavhengige m.fl. Aktivitetene skal gi mulighet for sosialt fellesskap, hindre isolasjon og gi mulighet til økt mestring og utvikling av funksjonsnivå.">
-  <properties
-      key="Engelsk navn"
-      value="Daytime activities"/>
-</archimate:BusinessService>

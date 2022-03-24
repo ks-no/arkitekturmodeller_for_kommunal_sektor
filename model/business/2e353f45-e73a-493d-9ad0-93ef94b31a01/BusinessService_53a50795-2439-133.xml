@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Livsstil"
-    id="53a50795-2439-133"
-    documentation="Kommunen tilbyr aktiviteter som fremmer helse og forebygger skade og sykdom. ">
-  <properties
-      key="Engelsk navn"
-      value="Lifestyle"/>
-</archimate:BusinessService>

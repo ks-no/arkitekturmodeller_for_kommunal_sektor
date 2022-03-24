@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Naturvern"
-    id="53a50795-2439-152"
-    documentation="Tiltak som gjøres for å bevare naturområder, kulturlandskap og naturtyper.">
-  <properties
-      key="Engelsk navn"
-      value="Nature conservation"/>
-</archimate:BusinessService>

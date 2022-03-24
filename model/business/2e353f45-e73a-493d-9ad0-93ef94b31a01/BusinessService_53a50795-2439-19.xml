@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Boligfinansiering"
-    id="53a50795-2439-19"
-    documentation="Lån og støtte fra kommunen og Husbanken, for eksempel søknad om boliglån, kommunalt lån, startlån.">
-  <properties
-      key="Engelsk navn"
-      value="Home financing"/>
-</archimate:BusinessService>

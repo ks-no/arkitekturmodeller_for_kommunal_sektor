@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bofellesskap"
-    id="53a50795-2439-17"
-    documentation="Kommunalt botilbud til psykisk utviklingshemmede, eldre, personer med funksjonsnedsettelser eller enslige mindreårige asylsøkere.">
-  <properties
-      key="Engelsk navn"
-      value="Shared housing"/>
-</archimate:BusinessService>

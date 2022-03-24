@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Legehjelp (legevakt, fastlege)"
-    id="53a50795-2439-128"
-    documentation="Kommunale tilbud som omfatter legevakt og fastlege.">
-  <properties
-      key="Engelsk navn"
-      value="Medical aid"/>
-</archimate:BusinessService>

@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Tvangsekteskap"
-    id="53a50795-2439-232"
-    documentation="Benevnelse for et arrangert ekteskap som blir gjennomført til tross for at minst én av partene er motvillig.">
-  <properties
-      key="Engelsk navn"
-      value="Forced marriage"/>
-</archimate:BusinessService>

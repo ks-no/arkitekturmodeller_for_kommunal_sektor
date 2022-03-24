@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bevilling og tillatelser"
-    id="53a50795-2439-15"
-    documentation="Skjenkebevilling, serveringsbevilling, salgsbevilling, o.l.">
-  <properties
-      key="Engelsk navn"
-      value="Licenses and permissions"/>
-</archimate:BusinessService>

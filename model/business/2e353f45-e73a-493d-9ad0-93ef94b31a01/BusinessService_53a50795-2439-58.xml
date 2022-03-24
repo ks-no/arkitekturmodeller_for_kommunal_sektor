@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Forurenset grunn"
-    id="53a50795-2439-58"
-    documentation="Den som skal bygge eller grave på en eiendom der det kan være forurenset grunn, har plikt til å sjekke omfanget av en eventuell forurensning. Kun fageksperter kan brukes til å foreta undersøkelsen. Der det finnes slik forurensning, skal det lages en egen tiltaksplan for hvordan grunnen skal sikres.">
-  <properties
-      key="Engelsk navn"
-      value="Polluted ground"/>
-</archimate:BusinessService>

@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Tolk"
-    id="53a50795-2439-226"
-    documentation="En kommunal tjeneste for de som ikke snakker godt nok norsk til å kommunisere med kommunen.">
-  <properties
-      key="Engelsk navn"
-      value="Translation"/>
-</archimate:BusinessService>

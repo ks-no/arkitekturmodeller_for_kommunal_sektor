@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Søke skole"
-    id="53a50795-2439-211"
-    documentation="Ungdom som har fullført grunnskolen eller tilsvarende opplæring, har rett til tre års videregående opplæring. Søknad til videregående skole gjøres sentralt og det er lik frist over hele landet. ">
-  <properties
-      key="Engelsk navn"
-      value="Applying to schools"/>
-</archimate:BusinessService>

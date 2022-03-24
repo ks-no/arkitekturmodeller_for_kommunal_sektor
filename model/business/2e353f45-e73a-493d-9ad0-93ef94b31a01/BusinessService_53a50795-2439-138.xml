@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Matlevering"
-    id="53a50795-2439-138"
-    documentation="Tilbud til hjemmeboende eldre eller funksjonshemmede som pga. alder eller andre årsaker ikke er i stand til å lage mat.">
-  <properties
-      key="Engelsk navn"
-      value="Meals on wheels"/>
-</archimate:BusinessService>

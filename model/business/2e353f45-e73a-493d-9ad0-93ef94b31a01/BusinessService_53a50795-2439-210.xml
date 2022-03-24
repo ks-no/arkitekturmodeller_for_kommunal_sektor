@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Sykkel"
-    id="53a50795-2439-210"
-    documentation="Kommunen kan tilby sykler til utleie eller utlån. Kommunen planlegger, utvikler og drifter sykkelstier.">
-  <properties
-      key="Engelsk navn"
-      value="Bicycle"/>
-</archimate:BusinessService>

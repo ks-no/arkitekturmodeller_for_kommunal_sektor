@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Vann og avløp"
-    id="53a50795-2439-238"
-    documentation="Kommunen sørger for tilkobling til det offentlige anlegget for vann og avløp.">
-  <properties
-      key="Engelsk navn"
-      value="Water and drain"/>
-</archimate:BusinessService>

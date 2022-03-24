@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Veibygging"
-    id="53a50795-2439-241"
-    documentation="Tillatelser til bygging av private veier som landbruksveier og utvikling av det kommunale veinettet.">
-  <properties
-      key="Engelsk navn"
-      value="Road building"/>
-</archimate:BusinessService>
