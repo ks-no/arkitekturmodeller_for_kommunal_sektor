@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Brukeradm."
+    id="7aec268e-0f7e-471d-8576-fde4ff373117">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-e567e5846c1e438c9032584d7f32b626.xml#id-e567e5846c1e438c9032584d7f32b626"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_5dea35ff-2520-47ca-aca6-27d78a4f2800.xml#5dea35ff-2520-47ca-aca6-27d78a4f2800"/>
+</archimate:AssociationRelationship>
