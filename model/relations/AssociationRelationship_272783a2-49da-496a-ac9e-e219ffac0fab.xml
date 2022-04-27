@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="henter opplysninger"
+    id="272783a2-49da-496a-ac9e-e219ffac0fab">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_320977d1-2b94-48d3-a259-fd056cef5002.xml#320977d1-2b94-48d3-a259-fd056cef5002"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_03af721c-80aa-4bc9-ac60-6f5e10bdd485.xml#03af721c-80aa-4bc9-ac60-6f5e10bdd485"/>
+</archimate:AssociationRelationship>
