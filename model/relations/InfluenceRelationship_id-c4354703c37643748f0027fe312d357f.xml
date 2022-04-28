@@ -7,6 +7,6 @@
       xsi:type="archimate:Requirement"
       href="Requirement_id-0acb7906a08c496eb82bbfa9bb8927bc.xml#id-0acb7906a08c496eb82bbfa9bb8927bc"/>
   <target
-      xsi:type="archimate:Constraint"
-      href="Constraint_id-1ba5466d3658470f9423d0af1d460efa.xml#id-1ba5466d3658470f9423d0af1d460efa"/>
+      xsi:type="archimate:Principle"
+      href="Principle_id-dc0944005580427db1afd745c6fcdf9e.xml#id-dc0944005580427db1afd745c6fcdf9e"/>
 </archimate:InfluenceRelationship>

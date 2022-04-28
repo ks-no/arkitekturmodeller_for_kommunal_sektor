@@ -1,16 +1,16 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Betingelser for realisering av forutsigbarhet"
+    name="Kapabiliteter og betlingelser for realisering av forutsigbarhet"
     id="id-081910cdc7764895a2329c83433cb2c3"
     viewpoint="requirements_realization">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ff13ec6a65c549aeb9b95978a2f245ed"
-      targetConnections="id-c9b24bb0b02c4165920492f7d31f2413">
+      targetConnections="id-a11e76f4948a464082bdc15104d66d69 id-d0fe357dcbd94964b6bc63f1164fb094 id-be63c6d913344861b32ae8529237eb3c">
     <bounds
-        x="276"
-        y="168"
+        x="372"
+        y="48"
         width="156"
         height="55"/>
     <archimateElement
@@ -19,23 +19,65 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-f27734e688e24edf9ec0d34dcb56d4e6">
+      id="id-1be10ee1d466445f80782641ed74cf6c">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-c9b24bb0b02c4165920492f7d31f2413"
-        source="id-f27734e688e24edf9ec0d34dcb56d4e6"
+        id="id-a11e76f4948a464082bdc15104d66d69"
+        source="id-1be10ee1d466445f80782641ed74cf6c"
         target="id-ff13ec6a65c549aeb9b95978a2f245ed">
       <archimateRelationship
           xsi:type="archimate:InfluenceRelationship"
-          href="InfluenceRelationship_id-2c4f6a8e98a24a37a811a78637bfc1a6.xml#id-2c4f6a8e98a24a37a811a78637bfc1a6"/>
+          href="InfluenceRelationship_id-728115d44cd84ab7809b60478e6d220c.xml#id-728115d44cd84ab7809b60478e6d220c"/>
     </sourceConnections>
     <bounds
-        x="84"
-        y="312"
+        x="582"
+        y="228"
         width="120"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:Constraint"
-        href="Constraint_id-fcfd60f47e094fb3a8ea70c725cedee0.xml#id-fcfd60f47e094fb3a8ea70c725cedee0"/>
+        xsi:type="archimate:Requirement"
+        href="Requirement_id-39a4069645b64cdeace98a93433216f5.xml#id-39a4069645b64cdeace98a93433216f5"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-af8d51d292f24da994eb15d3bc304742">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-d0fe357dcbd94964b6bc63f1164fb094"
+        source="id-af8d51d292f24da994eb15d3bc304742"
+        target="id-ff13ec6a65c549aeb9b95978a2f245ed">
+      <archimateRelationship
+          xsi:type="archimate:InfluenceRelationship"
+          href="InfluenceRelationship_id-54577a94038549dc82cae71b4fe7eee5.xml#id-54577a94038549dc82cae71b4fe7eee5"/>
+    </sourceConnections>
+    <bounds
+        x="186"
+        y="228"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Requirement"
+        href="Requirement_id-0acb7906a08c496eb82bbfa9bb8927bc.xml#id-0acb7906a08c496eb82bbfa9bb8927bc"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-467fc25472b747cbbe8293a7853766bb">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-be63c6d913344861b32ae8529237eb3c"
+        source="id-467fc25472b747cbbe8293a7853766bb"
+        target="id-ff13ec6a65c549aeb9b95978a2f245ed">
+      <archimateRelationship
+          xsi:type="archimate:InfluenceRelationship"
+          href="InfluenceRelationship_id-7a404e1c716b4113be5e39957113d3d8.xml#id-7a404e1c716b4113be5e39957113d3d8"/>
+    </sourceConnections>
+    <bounds
+        x="390"
+        y="228"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Requirement"
+        href="Requirement_id-7e28bac9714a44219cdf481051df4f78.xml#id-7e28bac9714a44219cdf481051df4f78"/>
   </children>
 </archimate:ArchimateDiagramModel>
