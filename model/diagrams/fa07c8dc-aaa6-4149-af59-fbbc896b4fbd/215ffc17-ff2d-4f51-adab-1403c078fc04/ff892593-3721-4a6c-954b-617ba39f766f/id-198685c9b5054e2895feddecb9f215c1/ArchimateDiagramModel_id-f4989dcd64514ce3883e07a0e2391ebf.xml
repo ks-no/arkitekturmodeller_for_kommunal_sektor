@@ -30,7 +30,7 @@
           href="RealizationRelationship_id-9f852f803554492ab92088a1b108b81c.xml#id-9f852f803554492ab92088a1b108b81c"/>
     </sourceConnections>
     <bounds
-        x="444"
+        x="480"
         y="426"
         width="145"
         height="55"/>
@@ -51,7 +51,7 @@
           href="RealizationRelationship_id-defb10acc8f8422a8b810ac6ff139d8a.xml#id-defb10acc8f8422a8b810ac6ff139d8a"/>
     </sourceConnections>
     <bounds
-        x="624"
+        x="696"
         y="426"
         width="133"
         height="55"/>
@@ -93,8 +93,8 @@
           href="RealizationRelationship_id-d405f034007f4d0db3ca003e793b48b3.xml#id-d405f034007f4d0db3ca003e793b48b3"/>
     </sourceConnections>
     <bounds
-        x="804"
-        y="420"
+        x="888"
+        y="426"
         width="144"
         height="55"/>
     <archimateElement
