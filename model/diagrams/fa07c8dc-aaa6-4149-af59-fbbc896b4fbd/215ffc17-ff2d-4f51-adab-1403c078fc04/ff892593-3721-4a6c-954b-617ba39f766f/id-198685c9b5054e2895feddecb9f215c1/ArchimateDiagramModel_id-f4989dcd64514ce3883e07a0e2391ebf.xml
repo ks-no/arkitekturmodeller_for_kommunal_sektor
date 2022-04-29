@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Prinsipper for økt tllit"
+    name="Prinsipper som bidrar til økt tllit"
     id="id-f4989dcd64514ce3883e07a0e2391ebf"
     viewpoint="motivation">
   <children
@@ -9,8 +9,8 @@
       id="id-bb68e1fbadf443d3b08bc98659946318"
       targetConnections="id-02e9dd3cdc5247e6aa99e3e5652354ba id-b92c407e7e6745d4b7134d8985518618 id-354a02d736324c199939b37e3057adf8 id-50c8e281d87f49fa8ad4d61916faeac3">
     <bounds
-        x="528"
-        y="216"
+        x="612"
+        y="72"
         width="217"
         height="55"/>
     <archimateElement
@@ -30,8 +30,8 @@
           href="RealizationRelationship_id-9f852f803554492ab92088a1b108b81c.xml#id-9f852f803554492ab92088a1b108b81c"/>
     </sourceConnections>
     <bounds
-        x="480"
-        y="426"
+        x="564"
+        y="282"
         width="145"
         height="55"/>
     <archimateElement
@@ -51,8 +51,8 @@
           href="RealizationRelationship_id-defb10acc8f8422a8b810ac6ff139d8a.xml#id-defb10acc8f8422a8b810ac6ff139d8a"/>
     </sourceConnections>
     <bounds
-        x="696"
-        y="426"
+        x="780"
+        y="282"
         width="133"
         height="55"/>
     <archimateElement
@@ -72,8 +72,8 @@
           href="RealizationRelationship_id-941f84782b3a45659bf603de11700353.xml#id-941f84782b3a45659bf603de11700353"/>
     </sourceConnections>
     <bounds
-        x="252"
-        y="426"
+        x="336"
+        y="282"
         width="143"
         height="55"/>
     <archimateElement
@@ -93,8 +93,8 @@
           href="RealizationRelationship_id-d405f034007f4d0db3ca003e793b48b3.xml#id-d405f034007f4d0db3ca003e793b48b3"/>
     </sourceConnections>
     <bounds
-        x="888"
-        y="426"
+        x="972"
+        y="282"
         width="144"
         height="55"/>
     <archimateElement
