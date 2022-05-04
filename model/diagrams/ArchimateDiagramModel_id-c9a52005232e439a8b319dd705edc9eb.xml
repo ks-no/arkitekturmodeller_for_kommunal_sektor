@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DigiBarnevern: Lavterskel kommunikasjon"
+    id="id-c9a52005232e439a8b319dd705edc9eb"
+    viewpoint="service_realization">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-a5faa3e4e10f4b7fadb9d08c3e28026b">
+    <bounds
+        x="372"
+        y="36"
+        width="240"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessService"
+        href="BusinessService_id-43d4c379eb7a49b483c0cc2c89369ba9.xml#id-43d4c379eb7a49b483c0cc2c89369ba9"/>
+  </children>
+</archimate:ArchimateDiagramModel>
