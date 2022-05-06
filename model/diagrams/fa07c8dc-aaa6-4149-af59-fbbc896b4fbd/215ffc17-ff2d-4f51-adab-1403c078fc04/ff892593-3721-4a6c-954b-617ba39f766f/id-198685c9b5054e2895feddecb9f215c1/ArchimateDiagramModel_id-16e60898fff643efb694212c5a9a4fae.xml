@@ -32,7 +32,7 @@
     <bounds
         x="972"
         y="300"
-        width="120"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Constraint"
@@ -51,9 +51,9 @@
           href="InfluenceRelationship_id-862127349e3740b09da034fdc54164da.xml#id-862127349e3740b09da034fdc54164da"/>
     </sourceConnections>
     <bounds
-        x="924"
+        x="888"
         y="366"
-        width="120"
+        width="156"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Constraint"
