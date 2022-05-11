@@ -1,19 +1,41 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DigiBarnevern: Lavterskel kommunikasjon"
+    name="DigiBarnevern: Tjenestestruktur"
     id="id-c9a52005232e439a8b319dd705edc9eb"
-    viewpoint="service_realization">
+    viewpoint="requirements_realization">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-a5faa3e4e10f4b7fadb9d08c3e28026b">
+      id="id-b1e30acb2f0d4657b5cc5301537b7168"
+      targetConnections="id-32825d16eabc450badc262fca53c3056">
     <bounds
-        x="372"
-        y="36"
-        width="240"
+        x="408"
+        y="84"
+        width="286"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
-        href="BusinessService_id-43d4c379eb7a49b483c0cc2c89369ba9.xml#id-43d4c379eb7a49b483c0cc2c89369ba9"/>
+        href="BusinessService_id-f902e87a3a5e49c99d604e47bfa6d6a3.xml#id-f902e87a3a5e49c99d604e47bfa6d6a3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-01aa2583ab2446f5b2bcec255af2fff6">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-32825d16eabc450badc262fca53c3056"
+        source="id-01aa2583ab2446f5b2bcec255af2fff6"
+        target="id-b1e30acb2f0d4657b5cc5301537b7168">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-b5a370cc81cc4a2ab4e786942e8efb53.xml#id-b5a370cc81cc4a2ab4e786942e8efb53"/>
+    </sourceConnections>
+    <bounds
+        x="408"
+        y="192"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-90e4af549425481cbb103cce002c22f8.xml#id-90e4af549425481cbb103cce002c22f8"/>
   </children>
 </archimate:ArchimateDiagramModel>
