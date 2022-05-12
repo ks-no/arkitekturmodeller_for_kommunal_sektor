@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Brukeradministrasjon"
+    id="133aa31b-6353-446c-b2d3-64334a3d5d99">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_49abe66e-3b0e-4326-bd01-15db8d044a98.xml#49abe66e-3b0e-4326-bd01-15db8d044a98"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_5dea35ff-2520-47ca-aca6-27d78a4f2800.xml#5dea35ff-2520-47ca-aca6-27d78a4f2800"/>
+</archimate:AssociationRelationship>
