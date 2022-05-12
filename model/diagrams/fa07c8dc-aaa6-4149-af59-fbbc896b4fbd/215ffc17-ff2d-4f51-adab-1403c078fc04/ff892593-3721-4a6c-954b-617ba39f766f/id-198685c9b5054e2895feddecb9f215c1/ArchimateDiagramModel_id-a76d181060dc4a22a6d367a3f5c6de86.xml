@@ -1,0 +1,41 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kapabiliteter og betingelser for realisering av troverdighet"
+    id="id-a76d181060dc4a22a6d367a3f5c6de86"
+    viewpoint="requirements_realization">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7661fad7a97b413ca80b0d843ecbb91e"
+      targetConnections="id-2ee4ffd0c2144f35b4d94946e43e58b4">
+    <bounds
+        x="540"
+        y="48"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_id-7764619d4ad54501ae7e85efcae3175b.xml#id-7764619d4ad54501ae7e85efcae3175b"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e20c108e2bcd4c7aa40eb1cc5c3a807e">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-2ee4ffd0c2144f35b4d94946e43e58b4"
+        source="id-e20c108e2bcd4c7aa40eb1cc5c3a807e"
+        target="id-7661fad7a97b413ca80b0d843ecbb91e">
+      <archimateRelationship
+          xsi:type="archimate:InfluenceRelationship"
+          href="InfluenceRelationship_id-e05d8c46bdac4f57937f5c5cd94ea1b6.xml#id-e05d8c46bdac4f57937f5c5cd94ea1b6"/>
+    </sourceConnections>
+    <bounds
+        x="804"
+        y="216"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Constraint"
+        href="Constraint_id-9596956a57744182a561d6c208a97f34.xml#id-9596956a57744182a561d6c208a97f34"/>
+  </children>
+</archimate:ArchimateDiagramModel>
