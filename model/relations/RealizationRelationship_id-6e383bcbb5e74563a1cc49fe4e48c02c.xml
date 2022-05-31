@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mulig?"
+    id="id-6e383bcbb5e74563a1cc49fe4e48c02c">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-461357d7c2f249eb8c1e64364c17aea3.xml#id-461357d7c2f249eb8c1e64364c17aea3"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-da05e421e8bb47c5b2c94b60d324fb79.xml#id-da05e421e8bb47c5b2c94b60d324fb79"/>
+</archimate:RealizationRelationship>
