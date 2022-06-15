@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Innsynsforespørsel"
+    id="id-c6b6fbe56d234689904a3fc9c8d03c41"
+    documentation="Innbygger kan, avhengig av rettigheter, be om innsyn i saksdokumenter som vises i dokumentoversikten."/>

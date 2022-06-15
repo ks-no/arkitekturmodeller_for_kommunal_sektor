@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sikker lavterskel kommunikasjon"
+    id="id-cc9a6869cde344daba025122259a4a0c"
+    documentation="Chatløsning mellom kommunalt ansatte i barnevernet og de som har tilgang på Innbyggertjenester.&#xD;&#xA;Meldingene i chatten sendes i en sikker løsning slik at personvern blir ivaretatt."/>

@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Samtykker"
-    id="id-22bc288b07a5416ab44eec8e9232cde5"/>
+    id="id-22bc288b07a5416ab44eec8e9232cde5"
+    documentation="Innbygger kan se en oversikt over alle samtykker som er gitt og har mulighet til å trekke samtykker. Det vil være informasjon på siden som beskriver hva det innebærer å både gi og trekke et samtykke."/>
