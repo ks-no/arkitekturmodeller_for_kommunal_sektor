@@ -1,4 +1,5 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Samtykker"
-    id="id-c07ab8aa6aec48118c5aa71901e63124"/>
+    id="id-c07ab8aa6aec48118c5aa71901e63124"
+    documentation="Innbygger samtykker til at barnevernet gjør visse og gitte saksbehnadlingssteg på innbyggers vegne."/>
