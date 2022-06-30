@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Geodata forvaltning"
     id="e1bf2c8b-f00b-4635-8827-f502573ea8e7"
-    documentation="Evnen til å visualisere objekter i et kart."/>
+    documentation="Evnen til å visualisere objekter i et kart.">
+  <properties
+      key="Nivå"
+      value="1"/>
+</archimate:Capability>

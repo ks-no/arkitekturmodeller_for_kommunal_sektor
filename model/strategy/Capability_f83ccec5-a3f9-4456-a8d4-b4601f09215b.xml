@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Skatt og avgift"
-    id="f83ccec5-a3f9-4456-a8d4-b4601f09215b"/>
+    id="f83ccec5-a3f9-4456-a8d4-b4601f09215b">
+  <properties
+      key="Nivå"
+      value="1"/>
+</archimate:Capability>

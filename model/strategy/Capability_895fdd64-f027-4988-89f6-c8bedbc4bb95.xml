@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Samfunnssikkerhet og beredskap"
-    id="895fdd64-f027-4988-89f6-c8bedbc4bb95"/>
+    id="895fdd64-f027-4988-89f6-c8bedbc4bb95">
+  <properties
+      key="Nivå"
+      value="1"/>
+</archimate:Capability>

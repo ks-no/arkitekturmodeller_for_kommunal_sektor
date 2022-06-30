@@ -4,7 +4,8 @@
     id="41ddd74a-7b3a-47aa-9a42-5b4bcecc6e36"
     documentation="Evnen til å anskaffe, forvalte, utnytte og rapportere ressursbruk.">
   <properties
-      key="Nivå"/>
+      key="Nivå"
+      value="1"/>
   <properties
       key="Kilde"/>
 </archimate:Capability>

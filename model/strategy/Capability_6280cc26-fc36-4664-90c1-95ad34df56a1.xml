@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Utvikle innbyggertjenester"
     id="6280cc26-fc36-4664-90c1-95ad34df56a1"
-    documentation="Evnen til å tilpasse tjenester til nye behov, krav, forventninger og teknologi."/>
+    documentation="Evnen til å tilpasse tjenester til nye behov, krav, forventninger og teknologi.">
+  <properties
+      key="Nivå"
+      value="1"/>
+</archimate:Capability>

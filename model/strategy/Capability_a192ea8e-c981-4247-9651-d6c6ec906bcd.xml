@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Avgift"
-    id="a192ea8e-c981-4247-9651-d6c6ec906bcd"/>
+    id="a192ea8e-c981-4247-9651-d6c6ec906bcd">
+  <properties
+      key="Nivå"
+      value="2"/>
+</archimate:Capability>

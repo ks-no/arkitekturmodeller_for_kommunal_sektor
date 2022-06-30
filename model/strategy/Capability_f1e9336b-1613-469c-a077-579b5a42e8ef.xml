@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Støttetjenester"
-    id="f1e9336b-1613-469c-a077-579b5a42e8ef"/>
+    id="f1e9336b-1613-469c-a077-579b5a42e8ef">
+  <properties
+      key="Nivå"
+      value="0"/>
+</archimate:Capability>

@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vær og klima"
-    id="4fca182b-4996-4c76-8f20-51f5971eecb3"/>
+    id="4fca182b-4996-4c76-8f20-51f5971eecb3">
+  <properties
+      key="Nivå"
+      value="2"/>
+</archimate:Capability>

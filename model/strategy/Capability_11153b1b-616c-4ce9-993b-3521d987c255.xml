@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Energi"
-    id="11153b1b-616c-4ce9-993b-3521d987c255"/>
+    id="11153b1b-616c-4ce9-993b-3521d987c255">
+  <properties
+      key="Nivå"
+      value="2"/>
+</archimate:Capability>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kunnskapsutvikling"
     id="c90bcba6-c3a1-4d16-9c1e-2a55597a578e"
-    documentation="Evnen til å utvikle retningslinjer og veiledere for å yte tjenester i tråd med beste praksis. Dette omfatter både kunnskapsstøtte, beslutningsstøtte og prosesstøtte."/>
+    documentation="Evnen til å utvikle retningslinjer og veiledere for å yte tjenester i tråd med beste praksis. Dette omfatter både kunnskapsstøtte, beslutningsstøtte og prosesstøtte.">
+  <properties
+      key="Nivå"
+      value="2"/>
+</archimate:Capability>

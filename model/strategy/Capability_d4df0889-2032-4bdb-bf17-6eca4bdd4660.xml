@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Skolehverdag"
-    id="d4df0889-2032-4bdb-bf17-6eca4bdd4660"/>
+    id="d4df0889-2032-4bdb-bf17-6eca4bdd4660">
+  <properties
+      key="Nivå"
+      value="2"/>
+</archimate:Capability>

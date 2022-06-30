@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Skatt"
-    id="35f7ba72-9e79-485e-a330-2b6a7b684788"/>
+    id="35f7ba72-9e79-485e-a330-2b6a7b684788">
+  <properties
+      key="Nivå"
+      value="2"/>
+</archimate:Capability>

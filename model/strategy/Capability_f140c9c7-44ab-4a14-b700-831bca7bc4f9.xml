@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Yrkestransport"
-    id="f140c9c7-44ab-4a14-b700-831bca7bc4f9"/>
+    id="f140c9c7-44ab-4a14-b700-831bca7bc4f9">
+  <properties
+      key="Nivå"
+      value="2"/>
+</archimate:Capability>

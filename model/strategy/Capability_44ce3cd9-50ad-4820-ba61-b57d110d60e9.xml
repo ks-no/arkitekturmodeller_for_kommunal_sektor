@@ -5,7 +5,7 @@
     documentation="Evnen til å sikre at virksomhetens kritiske funksjoner enten vil fortsette å fungere eller blir gjenopprettet til en forsvarlig driftstilstand innen rimelig tid, på tross av alvorlige eller uforutsette hendelse som ellers ville ha forstyrret dem.">
   <properties
       key="Nivå"
-      value="2"/>
+      value="1"/>
   <properties
       key="Kilde"
       value="Nasjonal IKT"/>

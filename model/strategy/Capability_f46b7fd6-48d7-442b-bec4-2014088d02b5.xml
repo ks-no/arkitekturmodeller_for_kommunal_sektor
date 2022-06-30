@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Trafikkinformasjon"
-    id="f46b7fd6-48d7-442b-bec4-2014088d02b5"/>
+    id="f46b7fd6-48d7-442b-bec4-2014088d02b5">
+  <properties
+      key="Nivå"
+      value="2"/>
+</archimate:Capability>

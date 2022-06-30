@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Samliv"
-    id="2928d970-fa90-4ebc-8eff-efb2d0cb4bc8"/>
+    id="2928d970-fa90-4ebc-8eff-efb2d0cb4bc8">
+  <properties
+      key="Nivå"
+      value="2"/>
+</archimate:Capability>

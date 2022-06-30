@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Leie og utleie"
-    id="b1696ad0-1630-4260-8739-dbd1e0b289d5"/>
+    id="b1696ad0-1630-4260-8739-dbd1e0b289d5">
+  <properties
+      key="Nivå"
+      value="2"/>
+</archimate:Capability>

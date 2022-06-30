@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Innovasjon"
     id="ee129d4f-84d2-48ab-9c79-267150aab79d"
-    documentation="Innovasjon er en betegnelse på menneskeskapt endring av verdiskapende aktiviteter."/>
+    documentation="Innovasjon er en betegnelse på menneskeskapt endring av verdiskapende aktiviteter.">
+  <properties
+      key="Nivå"
+      value="2"/>
+</archimate:Capability>

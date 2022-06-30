@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data analyse og deling"
     id="80fc3148-b41d-41e4-b713-083520bd515d"
-    documentation="Evnen til å bruke data til tjenesteutvikling innenfor egen virksomhet og andre virksomheter gjennom deling av data"/>
+    documentation="Evnen til å bruke data til tjenesteutvikling innenfor egen virksomhet og andre virksomheter gjennom deling av data">
+  <properties
+      key="Nivå"
+      value="2"/>
+</archimate:Capability>

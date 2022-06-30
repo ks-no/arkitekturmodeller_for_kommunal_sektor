@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Pasientrettigheter"
-    id="89072d00-5f1b-44f0-a181-eabffe232c65"/>
+    id="89072d00-5f1b-44f0-a181-eabffe232c65">
+  <properties
+      key="Nivå"
+      value="2"/>
+</archimate:Capability>

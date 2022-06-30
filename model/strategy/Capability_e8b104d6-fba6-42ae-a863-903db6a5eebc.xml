@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Innbyggertjenester"
-    id="e8b104d6-fba6-42ae-a863-903db6a5eebc"/>
+    id="e8b104d6-fba6-42ae-a863-903db6a5eebc">
+  <properties
+      key="Nivå"
+      value="0"/>
+</archimate:Capability>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kunnskapsdistribusjon"
     id="de141496-42f0-4dc9-823d-6ab392cc703e"
-    documentation="Evnen til å distribuere felles beste praksis for å yte tjenester."/>
+    documentation="Evnen til å distribuere felles beste praksis for å yte tjenester.">
+  <properties
+      key="Nivå"
+      value="2"/>
+</archimate:Capability>
