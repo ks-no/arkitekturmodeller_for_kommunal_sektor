@@ -1,4 +1,5 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Dialog"
-    id="id-0acb7906a08c496eb82bbfa9bb8927bc"/>
+    id="id-0acb7906a08c496eb82bbfa9bb8927bc"
+    documentation="To, eller flere parter, som har et samspill."/>

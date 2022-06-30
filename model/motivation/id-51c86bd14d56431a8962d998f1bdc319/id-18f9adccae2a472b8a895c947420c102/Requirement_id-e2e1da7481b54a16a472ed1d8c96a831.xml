@@ -1,4 +1,5 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Innspill"
-    id="id-e2e1da7481b54a16a472ed1d8c96a831"/>
+    id="id-e2e1da7481b54a16a472ed1d8c96a831"
+    documentation="Innbygger gis anledning til å komme med innspill (en replikk) til ikke-ferdigstilte dokumenter."/>
