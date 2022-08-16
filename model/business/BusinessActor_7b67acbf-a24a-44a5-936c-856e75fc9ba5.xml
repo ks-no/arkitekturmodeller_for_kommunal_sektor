@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Siri Systemadmin"
-    id="7b67acbf-a24a-44a5-936c-856e75fc9ba5"/>
+    name="Siri Systemansvarlig"
+    id="7b67acbf-a24a-44a5-936c-856e75fc9ba5"
+    documentation="JRI 13.7.22 : Endret fra Siri Systemadministrator som ikke er i bruk i kommunene - de snakker om systemeier eller systemansvarlig"/>
