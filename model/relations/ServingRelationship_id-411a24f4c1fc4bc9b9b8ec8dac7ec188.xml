@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Adm av kursmateriell og deltakelse"
+    id="id-411a24f4c1fc4bc9b9b8ec8dac7ec188">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-72b6df4765914496a82440d5e1e53bb9.xml#id-72b6df4765914496a82440d5e1e53bb9"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-3ba76483fc4242c6937c020284af7e8a.xml#id-3ba76483fc4242c6937c020284af7e8a"/>
+</archimate:ServingRelationship>

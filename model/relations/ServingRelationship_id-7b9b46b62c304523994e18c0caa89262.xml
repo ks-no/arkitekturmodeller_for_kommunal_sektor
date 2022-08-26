@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oppfølging"
+    id="id-7b9b46b62c304523994e18c0caa89262">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-72b6df4765914496a82440d5e1e53bb9.xml#id-72b6df4765914496a82440d5e1e53bb9"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-a73bf9446a4344eeba30172f6a487534.xml#id-a73bf9446a4344eeba30172f6a487534"/>
+</archimate:ServingRelationship>
