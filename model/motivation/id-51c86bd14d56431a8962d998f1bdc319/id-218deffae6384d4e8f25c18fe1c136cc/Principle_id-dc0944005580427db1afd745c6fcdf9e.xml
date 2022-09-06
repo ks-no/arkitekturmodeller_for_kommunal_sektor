@@ -1,4 +1,5 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Påvirkning"
-    id="id-dc0944005580427db1afd745c6fcdf9e"/>
+    id="id-dc0944005580427db1afd745c6fcdf9e"
+    documentation="En mulighet til å gjøre noe som gir en effekt."/>

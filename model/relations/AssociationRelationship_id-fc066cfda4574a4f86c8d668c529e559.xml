@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Signering tjenestevedlegg"
+    id="id-fc066cfda4574a4f86c8d668c529e559">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-84caadead1f54ad0ab1a53cee89420d3.xml#id-84caadead1f54ad0ab1a53cee89420d3"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-00a4fba41ad6485db893f4688ce81ff9.xml#id-00a4fba41ad6485db893f4688ce81ff9"/>
+</archimate:AssociationRelationship>
