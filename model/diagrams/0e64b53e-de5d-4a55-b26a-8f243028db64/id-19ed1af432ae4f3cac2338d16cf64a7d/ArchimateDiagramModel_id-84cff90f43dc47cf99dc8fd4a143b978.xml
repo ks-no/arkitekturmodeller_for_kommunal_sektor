@@ -213,7 +213,7 @@
         id="id-cd3d426e7ac64815a1fae53dc23de56c"
         targetConnections="id-c87e087270a34f128c00f9001f83d09e id-37b414b336c348a9b98d7d0aa35b6b1a id-7e865b9958824dd09610a50f26e02b3a">
       <bounds
-          x="192"
+          x="288"
           y="504"
           width="120"
           height="55"/>
@@ -244,7 +244,7 @@
             href="ServingRelationship_id-ee23befa129d4532a00c27d1321892e6.xml#id-ee23befa129d4532a00c27d1321892e6"/>
       </sourceConnections>
       <bounds
-          x="192"
+          x="288"
           y="432"
           width="120"
           height="55"/>
@@ -624,9 +624,9 @@
           source="id-b3bf40894d6242d2bcb4610afc1d2266"
           target="id-cd3d426e7ac64815a1fae53dc23de56c">
         <bendpoints
-            startX="331"
+            startX="463"
             startY="-17"
-            endX="-30"
+            endX="6"
             endY="70"/>
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
