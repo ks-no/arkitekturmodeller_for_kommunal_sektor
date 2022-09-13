@@ -181,128 +181,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="bf32fa4c-8eff-4cd1-9901-f704f2458c35">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="bfd91faa-34ae-4d0b-aeec-d980dd388e86"
-        source="bf32fa4c-8eff-4cd1-9901-f704f2458c35"
-        target="d977981e-3e1a-4a92-8fcc-4b834561608d">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_eeafc817-2306-46e2-be40-5ac0d34533bd.xml#eeafc817-2306-46e2-be40-5ac0d34533bd"/>
-    </sourceConnections>
-    <bounds
-        x="732"
-        y="511"
-        width="529"
-        height="380"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="d977981e-3e1a-4a92-8fcc-4b834561608d"
-        targetConnections="bfd91faa-34ae-4d0b-aeec-d980dd388e86 b5f2fc23-7785-4567-9a7a-91ed36a374f8">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="61b98e49-7bf4-4c40-b43e-6066c9f38f3f"
-          source="d977981e-3e1a-4a92-8fcc-4b834561608d"
-          target="2212e7ac-5f4c-4a95-9472-0c53474f3b9d">
-        <archimateRelationship
-            xsi:type="archimate:AccessRelationship"
-            href="AccessRelationship_6b697472-5983-4db3-8da2-c658f7a59ae4.xml#6b697472-5983-4db3-8da2-c658f7a59ae4"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="b13b79b8-a819-4930-8d1c-0d9e632d89fa"
-          source="d977981e-3e1a-4a92-8fcc-4b834561608d"
-          target="70b9d9d6-7eba-4602-a875-0bd343c9dfdf">
-        <archimateRelationship
-            xsi:type="archimate:AccessRelationship"
-            href="AccessRelationship_a0f19f7a-1a91-4dd9-b74c-24f650ee825e.xml#a0f19f7a-1a91-4dd9-b74c-24f650ee825e"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="e825b9f3-32df-40ce-be7e-6d7d139457a8"
-          source="d977981e-3e1a-4a92-8fcc-4b834561608d"
-          target="f294b51a-ecc2-4f2b-982d-8754233213cb">
-        <archimateRelationship
-            xsi:type="archimate:AccessRelationship"
-            href="AccessRelationship_222bdf08-8760-4c49-989b-999b6c9d3693.xml#222bdf08-8760-4c49-989b-999b6c9d3693"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="fb7ab7c5-efd2-4aa7-b7cb-38de6c0cba3d"
-          source="d977981e-3e1a-4a92-8fcc-4b834561608d"
-          target="ded0c617-98af-465c-a4bd-3a17c24f4bb2">
-        <archimateRelationship
-            xsi:type="archimate:AccessRelationship"
-            href="AccessRelationship_692b68d1-9acb-4b44-bf28-1351692af39a.xml#692b68d1-9acb-4b44-bf28-1351692af39a"/>
-      </sourceConnections>
-      <bounds
-          x="24"
-          y="60"
-          width="469"
-          height="265"/>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="2212e7ac-5f4c-4a95-9472-0c53474f3b9d"
-          targetConnections="61b98e49-7bf4-4c40-b43e-6066c9f38f3f">
-        <bounds
-            x="60"
-            y="60"
-            width="120"
-            height="104"/>
-        <archimateElement
-            xsi:type="archimate:DataObject"
-            href="DataObject_e79e9a57-99e6-450e-a75a-76528df5833b.xml#e79e9a57-99e6-450e-a75a-76528df5833b"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="70b9d9d6-7eba-4602-a875-0bd343c9dfdf"
-          targetConnections="b13b79b8-a819-4930-8d1c-0d9e632d89fa">
-        <bounds
-            x="252"
-            y="60"
-            width="120"
-            height="104"/>
-        <archimateElement
-            xsi:type="archimate:DataObject"
-            href="DataObject_ea1ecc99-944f-4c22-8dc7-4aface8c33a1.xml#ea1ecc99-944f-4c22-8dc7-4aface8c33a1"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="f294b51a-ecc2-4f2b-982d-8754233213cb"
-          targetConnections="e825b9f3-32df-40ce-be7e-6d7d139457a8">
-        <bounds
-            x="252"
-            y="180"
-            width="120"
-            height="72"/>
-        <archimateElement
-            xsi:type="archimate:DataObject"
-            href="DataObject_690d5ad4-0435-4e61-a9a1-1ff233bab4be.xml#690d5ad4-0435-4e61-a9a1-1ff233bab4be"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="ded0c617-98af-465c-a4bd-3a17c24f4bb2"
-          targetConnections="fb7ab7c5-efd2-4aa7-b7cb-38de6c0cba3d">
-        <bounds
-            x="60"
-            y="180"
-            width="120"
-            height="72"/>
-        <archimateElement
-            xsi:type="archimate:DataObject"
-            href="DataObject_59dd0f23-ecdf-4c65-978d-e072713d4879.xml#59dd0f23-ecdf-4c65-978d-e072713d4879"/>
-      </children>
-      <archimateElement
-          xsi:type="archimate:ApplicationService"
-          href="ApplicationService_2f895453-390c-49fd-b224-537e7eba6146.xml#2f895453-390c-49fd-b224-537e7eba6146"/>
-    </children>
-    <archimateElement
-        xsi:type="archimate:ApplicationService"
-        href="ApplicationService_fca19d1a-0562-4db3-8ea6-7f1e8b8a4769.xml#fca19d1a-0562-4db3-8ea6-7f1e8b8a4769"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="0672d010-99c6-489e-a5c8-626a71fc7933">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -634,10 +512,6 @@
       id="3daa104f-5673-445d-83ce-2d345b42ee5f"
       textAlignment="1"
       content="Fiks IO er en passiv meldingskø. Tilknyttede systemer må aktiv pushe meldinger og hele tiden polle etter meldinger til seg&#xD;&#xA;">
-    <sourceConnections
-        id="b5f2fc23-7785-4567-9a7a-91ed36a374f8"
-        source="3daa104f-5673-445d-83ce-2d345b42ee5f"
-        target="d977981e-3e1a-4a92-8fcc-4b834561608d"/>
     <bounds
         x="480"
         y="780"
