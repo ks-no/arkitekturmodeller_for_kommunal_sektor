@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kommunalt nivå"
+    id="id-9bcf69fb0d9f4f0d8a588e1ee77ed26b">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_f39090db-82dd-4ebb-8ff6-f041ea77b529.xml#f39090db-82dd-4ebb-8ff6-f041ea77b529"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-e567e5846c1e438c9032584d7f32b626.xml#id-e567e5846c1e438c9032584d7f32b626"/>
+</archimate:ServingRelationship>
