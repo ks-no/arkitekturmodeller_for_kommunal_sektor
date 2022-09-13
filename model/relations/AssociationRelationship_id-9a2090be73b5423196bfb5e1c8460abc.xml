@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tjenesteadm."
+    id="id-9a2090be73b5423196bfb5e1c8460abc">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-5f7137be41724d52bc346a345e7d48f4.xml#id-5f7137be41724d52bc346a345e7d48f4"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-00a4fba41ad6485db893f4688ce81ff9.xml#id-00a4fba41ad6485db893f4688ce81ff9"/>
+</archimate:AssociationRelationship>
