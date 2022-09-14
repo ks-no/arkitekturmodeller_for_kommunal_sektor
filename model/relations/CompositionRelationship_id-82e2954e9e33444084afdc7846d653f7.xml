@@ -1,12 +1,11 @@
-<archimate:AccessRelationship
+<archimate:CompositionRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bruk av Fiks tjeneste"
-    id="30340541-67b1-4906-a1a3-f942fb6bcb47">
+    id="id-82e2954e9e33444084afdc7846d653f7">
   <source
       xsi:type="archimate:BusinessActor"
       href="BusinessActor_b04a0a26-4365-4172-974a-0d96e56866f9.xml#b04a0a26-4365-4172-974a-0d96e56866f9"/>
   <target
-      xsi:type="archimate:Contract"
-      href="Contract_81bc0a5a-c365-48ea-9528-39e8de7ec54e.xml#81bc0a5a-c365-48ea-9528-39e8de7ec54e"/>
-</archimate:AccessRelationship>
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-e567e5846c1e438c9032584d7f32b626.xml#id-e567e5846c1e438c9032584d7f32b626"/>
+</archimate:CompositionRelationship>
