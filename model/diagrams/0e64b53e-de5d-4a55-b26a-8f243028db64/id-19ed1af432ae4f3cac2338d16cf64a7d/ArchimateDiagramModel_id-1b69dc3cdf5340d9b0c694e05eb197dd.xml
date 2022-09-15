@@ -876,4 +876,15 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-303e78276f7a46ad8ce3821188ad40d7.xml#id-303e78276f7a46ad8ce3821188ad40d7"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-7f04fca22e054349b2ae32c44b993a49"
+      textAlignment="1"
+      content="* Roller defineres her som et predefinert sett med privilegier&#xD;&#xA;">
+    <bounds
+        x="804"
+        y="924"
+        width="312"
+        height="60"/>
+  </children>
 </archimate:ArchimateDiagramModel>

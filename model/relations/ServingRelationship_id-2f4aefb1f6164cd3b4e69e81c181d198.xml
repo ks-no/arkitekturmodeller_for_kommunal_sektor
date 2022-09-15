@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Org tilhørighet"
+    id="id-2f4aefb1f6164cd3b4e69e81c181d198">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-6083b48f75a24eefb002fddf34c9c361.xml#id-6083b48f75a24eefb002fddf34c9c361"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-98b5de4be46f45da817dac771a75eb08.xml#id-98b5de4be46f45da817dac771a75eb08"/>
+</archimate:ServingRelationship>
