@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kontroll"
+    id="id-1a8e0e2707da4355852cf28bb344dc6a">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-6083b48f75a24eefb002fddf34c9c361.xml#id-6083b48f75a24eefb002fddf34c9c361"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-76f7662b967642f498825ddf2ab83d94.xml#id-76f7662b967642f498825ddf2ab83d94"/>
+</archimate:ServingRelationship>

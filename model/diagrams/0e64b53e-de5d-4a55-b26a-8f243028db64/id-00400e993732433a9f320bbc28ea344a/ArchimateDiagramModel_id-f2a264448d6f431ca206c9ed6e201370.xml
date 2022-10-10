@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Detaljert modell"
+    id="id-f2a264448d6f431ca206c9ed6e201370">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-8a2c8df0603448f29a58f28f4f74b304">
+    <bounds
+        x="456"
+        y="120"
+        width="661"
+        height="637"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationCollaboration"
+        href="ApplicationCollaboration_id-ea0896c26904427da7a08e16655dafe0.xml#id-ea0896c26904427da7a08e16655dafe0"/>
+  </children>
+</archimate:ArchimateDiagramModel>

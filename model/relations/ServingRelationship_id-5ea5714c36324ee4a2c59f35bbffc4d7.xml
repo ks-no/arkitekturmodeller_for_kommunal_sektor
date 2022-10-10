@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tjeneste konfig"
+    id="id-5ea5714c36324ee4a2c59f35bbffc4d7">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-410999b3225a459dbbb6749f13717e12.xml#id-410999b3225a459dbbb6749f13717e12"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_550f3dac-331c-497a-b5f9-70b709d845db.xml#550f3dac-331c-497a-b5f9-70b709d845db"/>
+</archimate:ServingRelationship>

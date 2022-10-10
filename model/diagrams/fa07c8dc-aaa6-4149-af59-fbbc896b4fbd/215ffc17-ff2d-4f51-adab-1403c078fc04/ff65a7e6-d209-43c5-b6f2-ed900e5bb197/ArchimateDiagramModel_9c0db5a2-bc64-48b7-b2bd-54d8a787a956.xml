@@ -172,6 +172,126 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
+      id="0cbb5df4-c187-4ed0-858b-6be0946b830a">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="d9e9ed66-ef11-4ef6-8224-365776435d8b"
+        source="0cbb5df4-c187-4ed0-858b-6be0946b830a"
+        target="8a4f2984-264a-496d-b1a7-be89d5d3d672">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_eeafc817-2306-46e2-be40-5ac0d34533bd.xml#eeafc817-2306-46e2-be40-5ac0d34533bd"/>
+    </sourceConnections>
+    <bounds
+        x="960"
+        y="667"
+        width="529"
+        height="380"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="8a4f2984-264a-496d-b1a7-be89d5d3d672"
+        targetConnections="d9e9ed66-ef11-4ef6-8224-365776435d8b 47d91a47-a79d-48c1-b934-372dc3dfcf1f">
+      <sourceConnections
+          id="c0019746-4669-4261-9d86-46df3f2cae6f"
+          source="8a4f2984-264a-496d-b1a7-be89d5d3d672"
+          target="d15c2be0-2522-499e-9265-031ae86482e4"/>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="b8456d0a-efef-4301-8970-12dfd3466e46"
+          source="8a4f2984-264a-496d-b1a7-be89d5d3d672"
+          target="fcb4b31f-6087-464b-817a-8b6f305a0001">
+        <archimateRelationship
+            xsi:type="archimate:AccessRelationship"
+            href="AccessRelationship_89e90aea-21e2-4257-8651-6425e1d0e3fd.xml#89e90aea-21e2-4257-8651-6425e1d0e3fd"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="d99274cb-765d-4f78-919a-c4904f96ddb3"
+          source="8a4f2984-264a-496d-b1a7-be89d5d3d672"
+          target="90f5ad62-02c5-422b-8a00-d1388db82ffa">
+        <archimateRelationship
+            xsi:type="archimate:AccessRelationship"
+            href="AccessRelationship_47673ac6-505b-4e9b-a5dc-aea03391bd5b.xml#47673ac6-505b-4e9b-a5dc-aea03391bd5b"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="457b63df-d2af-4127-8560-da166bc6becd"
+          source="8a4f2984-264a-496d-b1a7-be89d5d3d672"
+          target="64e0076e-2623-436e-92d1-26c7104e143a">
+        <archimateRelationship
+            xsi:type="archimate:AccessRelationship"
+            href="AccessRelationship_84bd57fd-fd3f-4f9e-9542-80f4ae1820da.xml#84bd57fd-fd3f-4f9e-9542-80f4ae1820da"/>
+      </sourceConnections>
+      <bounds
+          x="24"
+          y="48"
+          width="469"
+          height="169"/>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="fcb4b31f-6087-464b-817a-8b6f305a0001"
+          targetConnections="b8456d0a-efef-4301-8970-12dfd3466e46">
+        <sourceConnections
+            id="247d116b-7b96-47e5-aae7-966cb86b5665"
+            source="fcb4b31f-6087-464b-817a-8b6f305a0001"
+            target="6b817abc-d560-434c-9769-be964b7a9e7f"/>
+        <bounds
+            x="24"
+            y="24"
+            width="120"
+            height="85"/>
+        <archimateElement
+            xsi:type="archimate:DataObject"
+            href="DataObject_e037d779-9142-4687-bfe3-b72ee2703337.xml#e037d779-9142-4687-bfe3-b72ee2703337"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="90f5ad62-02c5-422b-8a00-d1388db82ffa"
+          targetConnections="d99274cb-765d-4f78-919a-c4904f96ddb3">
+        <bounds
+            x="168"
+            y="24"
+            width="120"
+            height="85"/>
+        <archimateElement
+            xsi:type="archimate:DataObject"
+            href="DataObject_b9b786d1-e635-4a0e-aec1-d4f4ac6e694b.xml#b9b786d1-e635-4a0e-aec1-d4f4ac6e694b"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="64e0076e-2623-436e-92d1-26c7104e143a"
+          targetConnections="457b63df-d2af-4127-8560-da166bc6becd">
+        <bounds
+            x="312"
+            y="24"
+            width="120"
+            height="85"/>
+        <archimateElement
+            xsi:type="archimate:DataObject"
+            href="DataObject_17509b8e-b51a-489f-857e-66532ee9e96f.xml#17509b8e-b51a-489f-857e-66532ee9e96f"/>
+      </children>
+      <archimateElement
+          xsi:type="archimate:ApplicationService"
+          href="ApplicationService_2f895453-390c-49fd-b224-537e7eba6146.xml#2f895453-390c-49fd-b224-537e7eba6146"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="d15c2be0-2522-499e-9265-031ae86482e4"
+        targetConnections="c0019746-4669-4261-9d86-46df3f2cae6f"
+        textAlignment="1"
+        content="Forutsetter i denne tegningen at FIKS IO er agnostisk mtp. meldingsstørrelse. I praksis er det trolig at FIKS IO må snakke med dokumentmodulen i FIKS for meldinger over 5 MB.">
+      <bounds
+          x="12"
+          y="276"
+          width="493"
+          height="72"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_fca19d1a-0562-4db3-8ea6-7f1e8b8a4769.xml#fca19d1a-0562-4db3-8ea6-7f1e8b8a4769"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
       id="b8b24ac8-c382-4b95-a3f2-31747e6f4ba1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -388,6 +508,10 @@
       id="3a152b95-9e32-4201-bf16-cebba0453d83"
       textAlignment="1"
       content="Fiks IO er en passiv meldingskø. Tilknyttede systemer må aktiv pushe meldinger og hele tiden polle etter meldinger til seg&#xD;&#xA;">
+    <sourceConnections
+        id="47d91a47-a79d-48c1-b934-372dc3dfcf1f"
+        source="3a152b95-9e32-4201-bf16-cebba0453d83"
+        target="8a4f2984-264a-496d-b1a7-be89d5d3d672"/>
     <bounds
         x="708"
         y="948"
@@ -397,6 +521,7 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="6b817abc-d560-434c-9769-be964b7a9e7f"
+      targetConnections="247d116b-7b96-47e5-aae7-966cb86b5665"
       textAlignment="1"
       content="Forutsetter at det er kun ny tilleggsinformasjon som skal sendes fra arkivet tilbake til fagsystemet, og ikke oppdaterte versjon av bevaringsverdig informasjon">
     <bounds

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metadata med lenke til dokument"
+    id="356c4239-1034-42bf-9987-4a7ff0ed6e48">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_8f8f257b-0845-42e3-81f7-f51068a7f3e9.xml#8f8f257b-0845-42e3-81f7-f51068a7f3e9"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_6223eaac-146e-4502-99d9-cfb4ef2b411f.xml#6223eaac-146e-4502-99d9-cfb4ef2b411f"/>
+</archimate:FlowRelationship>
