@@ -1,0 +1,43 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Felles kommunal journal"
+    id="id-bea871b437b9471394516a8dc08be985">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c11066b4a5094f87a635fbafd552809b"
+      type="1">
+    <bounds
+        x="264"
+        y="36"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-6ff70ba58f7b4b859c84e284046e7cd3.xml#id-6ff70ba58f7b4b859c84e284046e7cd3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-4f433421a65f4f6f98034000daaef2ed">
+    <bounds
+        x="265"
+        y="257"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_id-9caa90bf2cf2492d8f4a05420d68b09a.xml#id-9caa90bf2cf2492d8f4a05420d68b09a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-62050599af7840ddb608e8d0024d3cb7">
+    <bounds
+        x="265"
+        y="120"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationInterface"
+        href="ApplicationInterface_id-b82a9e3d74dc4db3a92b66024836e694.xml#id-b82a9e3d74dc4db3a92b66024836e694"/>
+  </children>
+</archimate:ArchimateDiagramModel>
