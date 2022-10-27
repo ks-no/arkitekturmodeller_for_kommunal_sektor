@@ -72,7 +72,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b35f83c54f7a445d814eb681f1a4fbeb"
-      targetConnections="id-14beebb1602d4de898367ee0c9c08c74 id-a9c1ebe57cb74e84a2d650409522a9e8 id-0e1f3f98be9a486eb2a3d1252410b002">
+      targetConnections="id-a9c1ebe57cb74e84a2d650409522a9e8 id-0e1f3f98be9a486eb2a3d1252410b002 id-14beebb1602d4de898367ee0c9c08c74">
     <bounds
         x="96"
         y="48"
