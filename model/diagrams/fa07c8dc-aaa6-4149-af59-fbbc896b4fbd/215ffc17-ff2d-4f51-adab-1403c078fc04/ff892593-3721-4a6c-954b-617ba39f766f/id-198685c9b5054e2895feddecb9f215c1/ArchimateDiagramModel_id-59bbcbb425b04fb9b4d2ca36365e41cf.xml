@@ -7,7 +7,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6e74719e4c584f1ea93631cc3b73b82c"
-      targetConnections="id-e0c121caf7694712981c35350e52313a id-b866e5fc464245c98fe95cc26c179260">
+      targetConnections="id-b866e5fc464245c98fe95cc26c179260 id-e46d2c4775c741f3905f4d454fbaeb7a">
     <bounds
         x="588"
         y="84"
@@ -16,27 +16,6 @@
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-a88ccb32a7c946ef8f2282d7de840ded.xml#id-a88ccb32a7c946ef8f2282d7de840ded"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-82349b4f350e4f698e73a32887928839">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-e0c121caf7694712981c35350e52313a"
-        source="id-82349b4f350e4f698e73a32887928839"
-        target="id-6e74719e4c584f1ea93631cc3b73b82c">
-      <archimateRelationship
-          xsi:type="archimate:InfluenceRelationship"
-          href="InfluenceRelationship_id-c7d4cbe37afd46a783256f5aab1c5c3e.xml#id-c7d4cbe37afd46a783256f5aab1c5c3e"/>
-    </sourceConnections>
-    <bounds
-        x="384"
-        y="216"
-        width="145"
-        height="71"/>
-    <archimateElement
-        xsi:type="archimate:Requirement"
-        href="Requirement_id-0acb7906a08c496eb82bbfa9bb8927bc.xml#id-0acb7906a08c496eb82bbfa9bb8927bc"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -58,5 +37,26 @@
     <archimateElement
         xsi:type="archimate:Constraint"
         href="Constraint_id-c783bc6147d844c0947b2ec4513e4f7e.xml#id-c783bc6147d844c0947b2ec4513e4f7e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-f03bafbfdc2d4dad8a02686a1cf68496">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-e46d2c4775c741f3905f4d454fbaeb7a"
+        source="id-f03bafbfdc2d4dad8a02686a1cf68496"
+        target="id-6e74719e4c584f1ea93631cc3b73b82c">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-67bc2e427a5d4e4db06f740cecccd76a.xml#id-67bc2e427a5d4e4db06f740cecccd76a"/>
+    </sourceConnections>
+    <bounds
+        x="360"
+        y="228"
+        width="180"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-9cc5121ce85d43e1bab46e58c396437e.xml#id-9cc5121ce85d43e1bab46e58c396437e"/>
   </children>
 </archimate:ArchimateDiagramModel>

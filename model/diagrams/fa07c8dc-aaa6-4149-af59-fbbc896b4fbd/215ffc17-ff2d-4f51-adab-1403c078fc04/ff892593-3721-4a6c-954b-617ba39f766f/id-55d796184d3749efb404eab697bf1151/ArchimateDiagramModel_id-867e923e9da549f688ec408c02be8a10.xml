@@ -11,7 +11,7 @@
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-017eab62312d46b283211ea6b1c532b6"
         source="id-225a955ad1d34ec1bafb01e820512a8c"
-        target="id-bd095c31914c463c9753977a76a82020">
+        target="id-8eb87bc9f2ea4bd19637f34ecaa23c69">
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_id-b873036b639f44f38b2e7659aa031abe.xml#id-b873036b639f44f38b2e7659aa031abe"/>
@@ -54,7 +54,7 @@
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-4b2670b370ed426b9bb3b3ee1aca8fb7"
         source="id-9f2c1b3a2a7b4df1bdac340df76a3e23"
-        target="id-bd095c31914c463c9753977a76a82020">
+        target="id-8eb87bc9f2ea4bd19637f34ecaa23c69">
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_id-6e383bcbb5e74563a1cc49fe4e48c02c.xml#id-6e383bcbb5e74563a1cc49fe4e48c02c"/>
@@ -96,7 +96,7 @@
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-541848db0bfe44448a2bed165108d8fb"
         source="id-43a872bef5bd44febb1133ba534f8efe"
-        target="id-bd095c31914c463c9753977a76a82020">
+        target="id-8eb87bc9f2ea4bd19637f34ecaa23c69">
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_id-0f48634a3be24a31a4749947c5c8dc27.xml#id-0f48634a3be24a31a4749947c5c8dc27"/>
@@ -112,15 +112,15 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-bd095c31914c463c9753977a76a82020"
+      id="id-8eb87bc9f2ea4bd19637f34ecaa23c69"
       targetConnections="id-541848db0bfe44448a2bed165108d8fb id-4b2670b370ed426b9bb3b3ee1aca8fb7 id-017eab62312d46b283211ea6b1c532b6">
     <bounds
         x="276"
-        y="60"
-        width="493"
-        height="71"/>
+        y="72"
+        width="492"
+        height="97"/>
     <archimateElement
-        xsi:type="archimate:Requirement"
-        href="Requirement_id-da05e421e8bb47c5b2c94b60d324fb79.xml#id-da05e421e8bb47c5b2c94b60d324fb79"/>
+        xsi:type="archimate:Capability"
+        href="Capability_id-62e6dbbc74484afe8d258b44e99944fe.xml#id-62e6dbbc74484afe8d258b44e99944fe"/>
   </children>
 </archimate:ArchimateDiagramModel>
