@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Samtykker"
-    id="id-24c08cdb8f7e4b04a0c6522777e73c19"/>
+    id="id-24c08cdb8f7e4b04a0c6522777e73c19"
+    documentation="Innbygger gis en mulighet til å samtykke og trekke tidligere gitte samtykker."/>

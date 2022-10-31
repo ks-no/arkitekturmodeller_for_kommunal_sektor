@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bekreftelser"
-    id="id-62e6dbbc74484afe8d258b44e99944fe"/>
+    id="id-62e6dbbc74484afe8d258b44e99944fe"
+    documentation="Innbygger gis en mulighet til å bekrefte."/>
