@@ -93,7 +93,7 @@
           href="RealizationRelationship_id-9e54ef14adf94ec4a6c8b39ce4f29480.xml#id-9e54ef14adf94ec4a6c8b39ce4f29480"/>
     </sourceConnections>
     <bounds
-        x="144"
+        x="120"
         y="348"
         width="120"
         height="55"/>
@@ -114,9 +114,9 @@
           href="RealizationRelationship_id-d551316bebd24b409758b7159cfe723e.xml#id-d551316bebd24b409758b7159cfe723e"/>
     </sourceConnections>
     <bounds
-        x="372"
+        x="348"
         y="276"
-        width="120"
+        width="168"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
@@ -135,7 +135,7 @@
           href="RealizationRelationship_id-0bb0daf39968495f8bc866b3acadbabd.xml#id-0bb0daf39968495f8bc866b3acadbabd"/>
     </sourceConnections>
     <bounds
-        x="480"
+        x="433"
         y="348"
         width="120"
         height="55"/>
@@ -156,7 +156,7 @@
           href="RealizationRelationship_id-9317dcc0b7854faea35cc21470d10894.xml#id-9317dcc0b7854faea35cc21470d10894"/>
     </sourceConnections>
     <bounds
-        x="612"
+        x="576"
         y="276"
         width="120"
         height="55"/>

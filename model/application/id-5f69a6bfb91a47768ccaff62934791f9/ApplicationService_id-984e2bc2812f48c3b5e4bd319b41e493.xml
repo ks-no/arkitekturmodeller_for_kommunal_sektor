@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilbakemelding"
+    id="id-984e2bc2812f48c3b5e4bd319b41e493"
+    documentation="Tiltaksutfører kan loggføre aktiviteter knyttet til aktiviteter som gjøres i et tiltaksarbeid. F.eks kan tiltaksutfører loggføre &quot;Var på hjemmebesøk i dag. Veiledet om tema grensesetting. Opplevde at foreldrene var interessert og stilte gode spørsmål&quot; Innbygger kan da igjen kommentere på kommentaren fra ansatte​"/>

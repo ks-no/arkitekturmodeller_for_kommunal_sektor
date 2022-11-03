@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vurdering av måloppnåelse"
+    id="id-174919ae185947c2810625328167a36a"
+    documentation="Basert på målsetningene i tiltaksplanen, kan privat part vurdere måloppnåelse i forbindelse med periodisk evaluering av tiltaksplanen. Vurderingen gjøres i en tallskala eller med smileys f.eks 🙁😐😊​"/>

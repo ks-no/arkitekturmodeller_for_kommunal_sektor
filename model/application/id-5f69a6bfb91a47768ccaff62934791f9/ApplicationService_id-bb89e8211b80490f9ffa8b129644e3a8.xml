@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kontradiksjon"
+    id="id-bb89e8211b80490f9ffa8b129644e3a8"
+    documentation="Mulighet for innbygger til å komme med sitt tilsvar på et dokument fra barnevernet. Kontradiksjonen er ikke ment å endre dokumentet, men skal knyttes til dokumentet. Typisk eksempel er en undersøkelsesrapport. Private parter har rett til kontradiksjon, som medfører at deres side av saken knyttes til dokumentet. I praksis skal deres tilsvar knyttes til rapporten i arkivet.​"/>

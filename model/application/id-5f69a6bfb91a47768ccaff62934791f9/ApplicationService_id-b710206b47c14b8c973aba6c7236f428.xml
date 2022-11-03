@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evalueringslogg"
+    id="id-b710206b47c14b8c973aba6c7236f428"
+    documentation="Når en tiltaksplan er iverksatt, kan private parter loggføre sin evaluering av tiltaket med tekst. De kan da for eksempel opplyse om at: Tiltaket har effekt eller ikke, tiltaket utføres ikke som planlagt, mål i tiltaksplan er nådd o.l.​"/>
