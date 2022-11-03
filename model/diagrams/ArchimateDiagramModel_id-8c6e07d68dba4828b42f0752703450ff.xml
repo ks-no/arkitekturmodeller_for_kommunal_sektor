@@ -6,6 +6,19 @@
     viewpoint="layered">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-669da5d340934e7ca3ac7b88e514db3b"
+      textAlignment="1">
+    <bounds
+        x="768"
+        y="384"
+        width="372"
+        height="156"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-e0c50a284c8943e0a18299c0544aa6e2.xml#id-e0c50a284c8943e0a18299c0544aa6e2"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d506f9c293794ce1b98df945788156c6"
       targetConnections="id-1c60c9c26c5849f99b17fa885fe1ef3e id-4c950774565c4ece860f447532cf5b37 id-d96c02f3819742d18fd9743851d29eb4 id-4a303ac4a29c445c8ade6af5404f5011 id-14dbf99a28e34bf1a32bf9d6dd589362">
     <bounds
@@ -93,8 +106,8 @@
           href="RealizationRelationship_id-fecfe732141844b9bf5566f5b7daa4f9.xml#id-fecfe732141844b9bf5566f5b7daa4f9"/>
     </sourceConnections>
     <bounds
-        x="972"
-        y="442"
+        x="1152"
+        y="444"
         width="156"
         height="63"/>
     <archimateElement
@@ -114,7 +127,7 @@
           href="RealizationRelationship_id-0e44b33a142a449391d41af12190c97a.xml#id-0e44b33a142a449391d41af12190c97a"/>
     </sourceConnections>
     <bounds
-        x="1164"
+        x="972"
         y="442"
         width="144"
         height="63"/>
