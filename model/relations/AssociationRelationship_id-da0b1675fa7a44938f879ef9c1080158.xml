@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forsendelse"
+    id="id-da0b1675fa7a44938f879ef9c1080158">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1216f92f40d04922ab72e5c8c0af4177.xml#id-1216f92f40d04922ab72e5c8c0af4177"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-987f3a92b07e41af985f3c9a9ebb783d.xml#id-987f3a92b07e41af985f3c9a9ebb783d"/>
+</archimate:AssociationRelationship>

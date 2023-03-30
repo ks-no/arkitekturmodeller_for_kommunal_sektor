@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REST API"
+    id="id-61c6d92f925b4e2dbf37a482f4036b11">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ad134bbf8d5a4f9faf8236f3a9b6e5a2.xml#id-ad134bbf8d5a4f9faf8236f3a9b6e5a2"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-bb6fef8d16164a76b960987170925ead.xml#id-bb6fef8d16164a76b960987170925ead"/>
+</archimate:TriggeringRelationship>

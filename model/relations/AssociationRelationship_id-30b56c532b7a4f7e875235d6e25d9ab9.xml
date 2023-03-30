@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Drifter"
+    id="id-30b56c532b7a4f7e875235d6e25d9ab9">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_33876e8d-cef2-4b38-bdbb-beffbcd9e205.xml#33876e8d-cef2-4b38-bdbb-beffbcd9e205"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-394ea9af7a3547a5b4b686f7d81fca0c.xml#id-394ea9af7a3547a5b4b686f7d81fca0c"/>
+</archimate:AssociationRelationship>

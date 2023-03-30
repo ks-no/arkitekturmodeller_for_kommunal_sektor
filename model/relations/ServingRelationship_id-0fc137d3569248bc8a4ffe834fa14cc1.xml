@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dokumentering av læring"
+    id="id-0fc137d3569248bc8a4ffe834fa14cc1">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-54bba6c3f1d64ab08efe48cb9cdad18e.xml#id-54bba6c3f1d64ab08efe48cb9cdad18e"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_320977d1-2b94-48d3-a259-fd056cef5002.xml#320977d1-2b94-48d3-a259-fd056cef5002"/>
+</archimate:ServingRelationship>

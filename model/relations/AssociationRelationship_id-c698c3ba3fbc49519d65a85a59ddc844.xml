@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oppsett av tjeneste"
+    id="id-c698c3ba3fbc49519d65a85a59ddc844">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_97c3efc0-c9a8-4806-9902-3df033b7fa43.xml#97c3efc0-c9a8-4806-9902-3df033b7fa43"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-db5374a775644d3e95cb6c5fd2f2bdd0.xml#id-db5374a775644d3e95cb6c5fd2f2bdd0"/>
+</archimate:AssociationRelationship>

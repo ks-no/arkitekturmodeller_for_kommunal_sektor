@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Melding &lt; 5Mb"
+    id="id-a9baefb88b8343b08ef0628a83054c91">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-445e6911561142eda6620a34d00d0f87.xml#id-445e6911561142eda6620a34d00d0f87"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-a6c6dd1e071841e58b79771b353c728d.xml#id-a6c6dd1e071841e58b79771b353c728d"/>
+</archimate:AssociationRelationship>

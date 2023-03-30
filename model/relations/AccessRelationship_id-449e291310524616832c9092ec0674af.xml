@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kryptert"
+    id="id-449e291310524616832c9092ec0674af">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-047ce8eda63e44878b0bbfb87faed74b.xml#id-047ce8eda63e44878b0bbfb87faed74b"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_7353164d-2329-4dfc-ba64-f81340368033.xml#7353164d-2329-4dfc-ba64-f81340368033"/>
+</archimate:AccessRelationship>

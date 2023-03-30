@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Angriper"
+    id="id-9776710349084c7eaa6a9e845a148572">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-f01ee6da6d0a444fba0ab21cec3233b5.xml#id-f01ee6da6d0a444fba0ab21cec3233b5"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_33876e8d-cef2-4b38-bdbb-beffbcd9e205.xml#33876e8d-cef2-4b38-bdbb-beffbcd9e205"/>
+</archimate:AssociationRelationship>

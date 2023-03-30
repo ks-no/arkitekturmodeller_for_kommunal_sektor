@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oppsett"
+    id="id-3b5bfb1073534566b4e9c7438e2e81ed">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-3a0fbe20e4f34e88a60e0d422fc0d462.xml#id-3a0fbe20e4f34e88a60e0d422fc0d462"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-00a4fba41ad6485db893f4688ce81ff9.xml#id-00a4fba41ad6485db893f4688ce81ff9"/>
+</archimate:AssociationRelationship>

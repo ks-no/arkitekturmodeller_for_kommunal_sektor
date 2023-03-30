@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kryptert API"
+    id="id-7ab4aede49fd453eb1d2e8699264f5d3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-445e6911561142eda6620a34d00d0f87.xml#id-445e6911561142eda6620a34d00d0f87"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-987f3a92b07e41af985f3c9a9ebb783d.xml#id-987f3a92b07e41af985f3c9a9ebb783d"/>
+</archimate:ServingRelationship>

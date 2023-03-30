@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Saksarbeid"
+    id="id-64940c2bb59a4be5b426b8b85e887f81">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1216f92f40d04922ab72e5c8c0af4177.xml#id-1216f92f40d04922ab72e5c8c0af4177"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-e2c0b46865b04ae597b86311fccdcb7d.xml#id-e2c0b46865b04ae597b86311fccdcb7d"/>
+</archimate:AssociationRelationship>

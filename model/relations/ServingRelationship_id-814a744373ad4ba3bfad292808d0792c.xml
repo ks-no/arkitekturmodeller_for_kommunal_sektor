@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sentralisert brukerstyring"
+    id="id-814a744373ad4ba3bfad292808d0792c">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ad134bbf8d5a4f9faf8236f3a9b6e5a2.xml#id-ad134bbf8d5a4f9faf8236f3a9b6e5a2"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f5995717e0b141b683e493d8c2b43665.xml#id-f5995717e0b141b683e493d8c2b43665"/>
+</archimate:ServingRelationship>

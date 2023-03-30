@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2) SvarUt fra NAV til kommune"
+    id="id-d979048fa8dc4d1780189f3ae4a22962">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_3169f4a2-392b-4cbe-aec7-d2951c9341be.xml#3169f4a2-392b-4cbe-aec7-d2951c9341be"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-5f91ba90bddb4765b23f90730c3e123f.xml#id-5f91ba90bddb4765b23f90730c3e123f"/>
+</archimate:FlowRelationship>

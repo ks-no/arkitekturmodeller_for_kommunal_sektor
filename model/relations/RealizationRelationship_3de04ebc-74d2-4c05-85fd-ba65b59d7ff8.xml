@@ -1,6 +1,7 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3) Manuell postgang"
     id="3de04ebc-74d2-4c05-85fd-ba65b59d7ff8">
   <source
       xsi:type="archimate:ApplicationComponent"

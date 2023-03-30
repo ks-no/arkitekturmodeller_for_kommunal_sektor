@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Excel opplasting"
+    id="id-69851651adb44df99c1f49f5fa14ad8d">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_320977d1-2b94-48d3-a259-fd056cef5002.xml#320977d1-2b94-48d3-a259-fd056cef5002"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-ba3f2054aa3e41e58539fff71c4a09f7.xml#id-ba3f2054aa3e41e58539fff71c4a09f7"/>
+</archimate:FlowRelationship>
