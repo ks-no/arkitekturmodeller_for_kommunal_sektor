@@ -1,9 +1,0 @@
-<archimate:Capability
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Styrings- og retningstjenester"
-    id="fdabfd23-d1a3-42f0-9412-7c8ff1cca118"
-    documentation="Interne og eksterne drivere som setter rammer og retning for planlegging og endring slik at utvikling av de kommunale tjenestene skjer innenfor og i tråd med disse.">
-  <properties
-      key="Nivå"
-      value="1"/>
-</archimate:Capability>
